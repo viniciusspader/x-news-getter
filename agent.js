@@ -80,7 +80,9 @@ async function runAgent() {
   console.log(`✅ ${parsed.seed_expert_discoveries.length} seed + ${parsed.global_discoveries.length} global + ${parsed.near_misses.length} near-misses`);
   if (parsed.notes) console.log(`📝 Notes: ${parsed.notes}`);
 
-  const filename = `curation-${config.topicName.toLowerCase().replace(/\s+/g, "-")}-${new Date().toISOString().slice(0, 10)}.json`;
+  const outputDir = "./curations";
+  await fs.mkdir(outputDir, { recursive: true });
+  const filename = path.join(outputDir, `curation-${config.topicName.toLowerCase().replace(/\s+/g, "-")}-${new Date().toISOString().slice(0, 10)}.json`);
   await fs.writeFile(filename, JSON.stringify(parsed, null, 2));
   console.log(`💾 Saved ${filename}`);
 
