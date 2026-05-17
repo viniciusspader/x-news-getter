@@ -54,17 +54,42 @@ async function runAgent() {
         type: "json_schema",
         name: "curation_schema",
         strict: true,
-        schema: { /* same schema as before – unchanged */ 
+        schema: {
           type: "object",
           properties: {
             topic: { type: "string" },
-            seed_expert_discoveries: { type: "array", items: { /* ... */ } },
-            global_discoveries: { type: "array", items: { /* ... */ } },
-            near_misses: { type: "array", items: { /* ... */ } },
+            seed_expert_discoveries: { type: "array", items: { $ref: "#/$defs/discovery" } },
+            global_discoveries: { type: "array", items: { $ref: "#/$defs/discovery" } },
+            near_misses: { type: "array", items: { $ref: "#/$defs/near_miss" } },
             notes: { type: "string" }
           },
-          required: ["topic", "seed_expert_discoveries", "global_discoveries", "near_misses"],
-          additionalProperties: false
+          required: ["topic", "seed_expert_discoveries", "global_discoveries", "near_misses", "notes"],
+          additionalProperties: false,
+          $defs: {
+            discovery: {
+              type: "object",
+              properties: {
+                project: { type: "string" },
+                technical_takeaway: { type: "string" },
+                author_handle: { type: "string" },
+                post_url: { type: "string" }
+              },
+              required: ["project", "technical_takeaway", "author_handle", "post_url"],
+              additionalProperties: false
+            },
+            near_miss: {
+              type: "object",
+              properties: {
+                project: { type: "string" },
+                technical_takeaway: { type: "string" },
+                author_handle: { type: "string" },
+                post_url: { type: "string" },
+                reason: { type: "string" }
+              },
+              required: ["project", "technical_takeaway", "author_handle", "post_url", "reason"],
+              additionalProperties: false
+            }
+          }
         }
       }
     },
