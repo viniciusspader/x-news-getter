@@ -1,0 +1,17 @@
+{
+  "topicName": "Artificial Intelligence",
+  "searchKeywords": "LLM orchestration, AI agent architecture, vector database, repo drop, web automation",
+  "seedHandles": [
+    "karpathy",
+    "goodside",
+    "sknoeraert",
+    "swyx",
+    "ocolegro",
+    "jxmnc",
+    "bindureddy",
+    "_beurt",
+    "reach_vb",
+    "hwchase17"
+  ],
+  "filteringDirectives": "Strictly focus on open-source code repository drops, architecture benchmarks, and engine tool releases. Completely bypass high-level corporate funding announcements, non-technical hiring updates, and general commentary essays."
+}

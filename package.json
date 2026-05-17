@@ -1,0 +1,18 @@
+{
+  "name": "x-news-getter",
+  "version": "1.0.0",
+  "description": "Multiple Agents to Collect news in X and summarize reports daily",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "openai": "^6.38.0"
+  }
+}
