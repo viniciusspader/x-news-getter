@@ -1,6 +1,6 @@
 {
   "topicName": "Artificial Intelligence",
-  "searchKeywords": "LLM orchestration, AI agent architecture, vector database, repo drop, web automation",
+  "searchKeywords": "agent OR orchestration OR repo OR framework OR automation",
   "seedHandles": [
     "karpathy",
     "goodside",
@@ -13,5 +13,5 @@
     "reach_vb",
     "hwchase17"
   ],
-  "filteringDirectives": "Strictly focus on open-source code repository drops, architecture benchmarks, and engine tool releases. Completely bypass high-level corporate funding announcements, non-technical hiring updates, and general commentary essays."
+  "filteringDirectives": "Focus on high-signal AI technical updates and innovations that a curious non-developer can still understand and act on. Prioritize: new open-source repos, frameworks, tools, or agent patterns; memory management techniques (persistent memory, context windows, KV cache, long-term recall, etc.); architecture innovations; efficiency breakthroughs; practical benchmarks; and clear expert explanations of new capabilities or 'why this matters'. Include thoughtful commentary that explains implications. Maximum 6 items per section. If nothing is truly high-signal, put the next-best relevant posts in near_misses with a reason."
 }
