@@ -1,0 +1,35 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Agent Swarms for Complex Software",
+      "technical_takeaway": "Combining Opus 4.7, GPT 5.5 Thinking, and Gemini 3.2 into an agent swarm enables building full-stack custom software products, potentially replacing CRMs and SaaS with tailored organizational tools.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2056488780660343122"
+    },
+    {
+      "project": "deepagents 0.6",
+      "technical_takeaway": "New 0.6 release of deepagents includes lots of good improvements, with a detailed write-up highlighting practical enhancements for agent frameworks.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2056422300510294113"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "nanochat video insights",
+      "technical_takeaway": "Realization that starting with 'first boot up an 8XH100 from your favorite provider' creates immediate barriers in AI demo tutorials.",
+      "author_handle": "@karpathy",
+      "post_url": "https://x.com/karpathy/status/2056214387980193909",
+      "reason": "Mildly technical commentary on AI infrastructure but lacks new repo, framework, or actionable innovation."
+    },
+    {
+      "project": "Codex livecoding workshop",
+      "technical_takeaway": "Discussion around livecoding a Codex-related project in a 2-3 hour workshop for learning purposes.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2056491747153265012",
+      "reason": "Related to AI coding tools but mostly conversational and not a new discovery or release."
+    }
+  ],
+  "notes": "Seed phase yielded two strong high-signal posts on agent swarms and deepagents updates from experts. Global keyword search returned mostly irrelevant non-AI content due to 'repo' term; no additional high-signal items found in past 24 hours meeting strict criteria."
+}
