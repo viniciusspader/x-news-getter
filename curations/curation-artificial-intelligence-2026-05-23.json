@@ -1,0 +1,48 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Best Model For The Use Case",
+      "technical_takeaway": "Practical benchmark and selection guide: Opus 4.7 for front-end coding, GPT 5.5 xHigh for back-end, Flash 3.5 for visual understanding, DeepSeek Flash for cheap tasks, Seedance 2.0 for video, GPT Image-2.0 for images, Flash Live for voice, Gemini 3.1 Pro for writing, Grok 4.3 for real-time.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2058092205185609947"
+    },
+    {
+      "project": "RL as learning from interventions and counterfactuals",
+      "technical_takeaway": "Mental framework explaining why RL outperforms supervised learning via interventions and counterfactuals; world modeling + RL needed for better hypothesis and truth-seeking beyond scaling; references adversarial world models.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2058073815301972368"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Agentic Memory (AgeMem)",
+      "technical_takeaway": "Unifies long-term and short-term memory into end-to-end training for agents; agent learns compression from working memory to persistent storage and retrieval, outperforming modular designs with heuristic controllers for long-horizon reasoning.",
+      "author_handle": "@smuku98",
+      "post_url": "https://x.com/smuku98/status/2057779022168203634"
+    },
+    {
+      "project": "Hierarchical and Hybrid Memory Architectures for Agents",
+      "technical_takeaway": "Promising approaches include hierarchical tiers (short/mid/long-term with promotion/compression), hybrid vector + knowledge graphs, summarization/compression, episodic/semantic separation, and Memory OS concepts to overcome context window dilution and weak long-term recall in agents.",
+      "author_handle": "@stocktrader",
+      "post_url": "https://x.com/stocktrader/status/2057874450112978949"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "cmux coding workflow tool",
+      "technical_takeaway": "Unopinionated terminal multiplexer for managing multiple Codex/Claude agents side-by-side with visual notifications when agents complete tasks.",
+      "author_handle": "@lawrencecchen",
+      "post_url": "https://x.com/lawrencecchen/status/2058116690102079770",
+      "reason": "Mentions a GitHub repo but lacks deep technical innovation details or benchmarks in the post."
+    },
+    {
+      "project": "Agentic inference memory demands",
+      "technical_takeaway": "Median coding agent requests use 96k tokens input; half exceed 128k due to system prompts, tools, and history loaded into KV cache, shifting bottlenecks to HBM capacity/bandwidth.",
+      "author_handle": "@haruko_ai_jp",
+      "post_url": "https://x.com/haruko_ai_jp/status/2057948531177181421",
+      "reason": "Insightful on efficiency/memory but not a new framework, repo, or actionable pattern."
+    }
+  ],
+  "notes": "Past 24 hours yielded limited high-signal technical innovations from seed experts or global searches. Focused on practical model guidance, RL/world models, and memory architectures as the strongest relevant items. No major new open-source repos or frameworks surfaced meeting strict criteria."
+}
