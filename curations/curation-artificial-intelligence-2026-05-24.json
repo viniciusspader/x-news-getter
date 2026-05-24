@@ -1,0 +1,48 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "OpenAI Codex",
+      "technical_takeaway": "Codex is now fully open source; users can inspect its codebase, ask it to explain features, optimize setups, and observe how the team builds with it. Key pattern: turn repeated workflows into reusable skills or delegate to custom subagents.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2058449318604861920"
+    },
+    {
+      "project": "Codex Skills & Subagents",
+      "technical_takeaway": "Prompt Codex to analyze past sessions for repeated tasks (e.g., CI fixes, PR reviews, changelogs, debugging) and auto-generate reusable skills for workflows or bounded subagents for specific jobs; improves long-horizon goal handling.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2058315996260102376"
+    },
+    {
+      "project": "DeepSeek Flash",
+      "technical_takeaway": "Extremely cheap (~100x cheaper) model optimized for small tasks and operating on large volumes of data/records; strong practical efficiency for high-volume lightweight inference.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2058367205402607939"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "AI Engineering From Scratch",
+      "technical_takeaway": "Massive open-source repo (~435 lessons, 20 phases, 320 hours) teaching full AI engineering by building everything from scratch: backprop, tokenizers, transformers, agent loops, memory systems, RLHF, swarms, MCP servers, production infra. Ships reusable artifacts at every step; Python/TS/Rust/Julia.",
+      "author_handle": "@NainsiDwiv50980",
+      "post_url": "https://x.com/NainsiDwiv50980/status/2058471497627312523"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Hermes Agent",
+      "technical_takeaway": "Telegram-based persistent AI agent with memory for workflows, skills, and local data; turns repetitive tasks into fast commands.",
+      "author_handle": "@0x_kaize",
+      "post_url": "https://x.com/0x_kaize/status/2058258839326031958",
+      "reason": "Promotional content focused on cost savings rather than novel technical architecture or benchmarks."
+    },
+    {
+      "project": "Claude for Marketing (Fastlane)",
+      "technical_takeaway": "Autonomous agent system for social media deployment, content creation, and posting.",
+      "author_handle": "@jock_ferguson",
+      "post_url": "https://x.com/jock_ferguson/status/2058453684288381230",
+      "reason": "Marketing/demo focused; lacks deep technical details on agent orchestration or memory."
+    }
+  ],
+  "notes": "Seed experts yielded strong signals around OpenAI Codex openness and usage patterns plus one efficiency model. Global search surfaced one standout educational repo; most other results were promotional or tangential. No posts from @karpathy in the window. Limited high-signal volume overall."
+}
