@@ -1,0 +1,54 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Agent Swarms multi-model orchestration",
+      "technical_takeaway": "Combine Gemini 3.1 Pro, Opus 4.7, and GPT 5.5 into complex multi-agent systems where each agent specializes (coding, testing, research) and a master agent orchestrates; enables one-prompt complex app/automation building and custom SaaS replacement.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2058674321179222437"
+    },
+    {
+      "project": "Codex AI hardware automation",
+      "technical_takeaway": "OpenAI Codex one-shots full Raspberry Pi setup including home WiFi accessibility, demonstrating practical agentic hardware configuration and ongoing 'chief of staff' agent deployment.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2058820407260553268"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Agent memory persistence via read/write stores and dreaming loop",
+      "technical_takeaway": "Anthropic engineer outlines 4 steps for cross-session agent memory using read/write stores plus a 'dreaming loop' for self-updates, achieving 95% cache hit rate at zero extra cost.",
+      "author_handle": "@TheFutureBits",
+      "post_url": "https://x.com/TheFutureBits/status/2058442205790941495"
+    },
+    {
+      "project": "Agent-native runtimes and in-memory execution",
+      "technical_takeaway": "Shift from human-paced file I/O and step-by-step workflows to fully autonomous agent runtimes using instant in-memory virtual filesystems, parallel tool calls, and RAM/databases for higher GPU utilization and instant reactions without human bottlenecks.",
+      "author_handle": "@OmerCheeema",
+      "post_url": "https://x.com/OmerCheeema/status/2058546304477954406"
+    },
+    {
+      "project": "Private MCP Server for agent privacy",
+      "technical_takeaway": "Veilnet Private MCP Server enables AI agents to run crypto/DeFi workflows with encrypted strategy context (amounts, timing, logic) kept local/user-controlled; model sees only tool calls while sensitive data stays encrypted, compatible with Claude Code, Codex, etc.",
+      "author_handle": "@Veilnet_",
+      "post_url": "https://x.com/Veilnet_/status/2058876091696062907"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Flash 3.5 chat model evaluation",
+      "technical_takeaway": "Flash 3.5 praised as quick, smart, and enjoyable for daily interaction.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2058769498170179942",
+      "reason": "Model praise but lacks specific technical innovation or actionable details beyond general usability."
+    },
+    {
+      "project": "Upcoming model releases (Gemini 3.5, GPT 5.6, etc.)",
+      "technical_takeaway": "June lineup of major model updates with bet on Google competitiveness at reasonable prices.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2058595484869034260",
+      "reason": "Forward-looking announcement without concrete technical details or benchmarks."
+    }
+  ],
+  "notes": "Searches limited to past 24 hours (since 2026-05-24). Seed experts yielded limited high-signal technical posts; global search surfaced strong memory and agent architecture themes. Selected only clearest actionable innovations; max 6 per array enforced."
+}
