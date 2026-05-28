@@ -1,0 +1,48 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [],
+  "global_discoveries": [
+    {
+      "project": "AgingBench",
+      "technical_takeaway": "New benchmark tracks 'agent aging' in long-running AI systems, showing up to 67% performance drops from memory issues; memory architecture can create 4.5x differences in reliability over hundreds of interactions, shifting focus from raw model intelligence to long-term stability.",
+      "author_handle": "@SciTechera",
+      "post_url": "https://x.com/SciTechera/status/2059956225786388694"
+    },
+    {
+      "project": "EVOEVO (Agent School)",
+      "technical_takeaway": "Framework for agents to improve via domain-specific predictions with full reasoning chains; agents learn from real-world resolutions by updating memory and calibration, allowing transfer of high-quality reasoning patterns between agents for measurable long-term performance tracking.",
+      "author_handle": "@NeoSoulAI",
+      "post_url": "https://x.com/NeoSoulAI/status/2059956228051386660"
+    },
+    {
+      "project": "AI Agent Memory Stack",
+      "technical_takeaway": "Beyond basic chat history or RAG, effective agent memory combines vector, relational, and graph databases with retrieval layers; enterprises use this for scalable, persistent long-term recall in production agents.",
+      "author_handle": "@aharna_twt",
+      "post_url": "https://x.com/aharna_twt/status/2059959497179983989"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Corbits / x402 Agentic Rails",
+      "technical_takeaway": "Operational layer for governing, orchestrating, and tracking agent actions in multi-chain environments (Solana, Base, etc.).",
+      "author_handle": "@Hyre_agent",
+      "post_url": "https://x.com/Hyre_agent/status/2059958939173974503",
+      "reason": "Primarily crypto/blockchain focused rather than core AI technical innovation."
+    },
+    {
+      "project": "TermiX AACP",
+      "technical_takeaway": "Clearing and settlement protocol for agent commerce with decentralized AI inference.",
+      "author_handle": "@termix_ai",
+      "post_url": "https://x.com/termix_ai/status/2059958471014142255",
+      "reason": "Heavily tied to crypto agent economy and payments, not general AI frameworks or memory techniques."
+    },
+    {
+      "project": "Python for AI Agents",
+      "technical_takeaway": "Python as the default language for AI agents due to its ecosystem and adoption by major models.",
+      "author_handle": "@slash1sol",
+      "post_url": "https://x.com/slash1sol/status/2059952367001301502",
+      "reason": "Commentary/video link rather than a new repo, framework, or technical breakthrough."
+    }
+  ],
+  "notes": "No high-signal technical posts from the 10 seed experts in the past 24 hours (mostly model commentary and hype). Global search surfaced agent memory/reliability topics as the strongest matches; many other results were crypto-agent commerce focused and filtered to near_misses."
+}
