@@ -1,0 +1,48 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Codex Mobile iOS",
+      "technical_takeaway": "Major update adds /side conversations for temporary modal queries, end-of-turn diff summaries, archived remote threads, one-tap model switching, Spotlight/Shortcuts integration, image handling, and desktop parity features for seamless mobile AI coding workflows.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2060256219772735653"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Meow",
+      "technical_takeaway": "Enables AI agents to form real companies end-to-end: generate EIN, open bank accounts, issue cards, and handle money via single prompt; integrates with Claude, Cursor, ChatGPT, Gemini for autonomous business operations.",
+      "author_handle": "@brandon",
+      "post_url": "https://x.com/brandon/status/2060019359704043564"
+    },
+    {
+      "project": "AutoGTM",
+      "technical_takeaway": "24/7 AI sales agent system using seven autonomous sub-agents (market research, ICP, prospecting, email writing, sequencing, follow-ups) with pre-warmed mailboxes, 97% deliverability, and 15x lower cost than traditional tools for outbound automation.",
+      "author_handle": "@testingcatalog",
+      "post_url": "https://x.com/testingcatalog/status/2060317506263265764"
+    },
+    {
+      "project": "Binance Agentic Wallet",
+      "technical_takeaway": "Adds Prediction Market Skills and CLI allowing AI agents to browse events, analyze probabilities, and trade via natural language with secure app-based auth and controls.",
+      "author_handle": "@BinanceWallet",
+      "post_url": "https://x.com/BinanceWallet/status/2059930429478842560"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "AI Model Cost Trends",
+      "technical_takeaway": "Companies facing 45% price increases and $100M+ bills from token-heavy models like Opus, highlighting efficiency challenges in production AI usage.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2060303068453798037",
+      "reason": "Discusses costs but lacks specific new tool, repo, or architectural innovation."
+    },
+    {
+      "project": "Agent Wallet Capabilities",
+      "technical_takeaway": "Agents with x402 wallet access can pay per-request for services like image gen or transcription, unlocking paid API integrations and new capability layers.",
+      "author_handle": "@agentlayer_ai",
+      "post_url": "https://x.com/agentlayer_ai/status/2060311958331552020",
+      "reason": "Interesting agent pattern but primarily promotional and crypto-focused rather than core AI technical breakthrough."
+    }
+  ],
+  "notes": "Very limited high-signal technical posts in the 24-hour window; focused on agent tooling and mobile AI UX improvements. No posts from @karpathy or several other seeds."
+}
