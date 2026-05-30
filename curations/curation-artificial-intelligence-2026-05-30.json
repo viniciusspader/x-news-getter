@@ -1,0 +1,36 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "LangChain Deep Agents v0.6",
+      "technical_takeaway": "Introduces harness profiles as first-class abstraction for tuning prompts/tools per model (e.g., Kimi, Qwen, DeepSeek) to achieve 20x+ lower cost than closed APIs while maintaining production performance.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2060355016989585919",
+      "reason": "Relevant expert commentary on agent framework updates and efficiency, but not a brand new open-source repo release in the past 24h."
+    },
+    {
+      "project": "LangSmith LLM Gateway & Agent Builder",
+      "technical_takeaway": "New no-code agent builder in LangSmith Fleet and LLM Gateway for spend limits/PII redaction before model calls; also notes 3x growth in open-weights model usage.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2060451985305080285",
+      "reason": "High-signal expert updates on agent tooling and benchmarks, but promotional rather than novel technical innovation or repo."
+    },
+    {
+      "project": "OpenAI Codex thread management",
+      "technical_takeaway": "Codex now autonomously creates/searches/organizes threads, pins items, and spins worktrees for parallel subagent tasks across projects.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2060486658383098298",
+      "reason": "Expert explanation of new agent orchestration capabilities, but secondary commentary on existing product feature."
+    },
+    {
+      "project": "Anthropic/Open model comparisons",
+      "technical_takeaway": "Observations on Open 4.8 vs Opus 4.7/4.6 token usage, quality, and pricing trends showing rising costs for complex tasks.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2060444757008990294",
+      "reason": "Thoughtful expert analysis of model capabilities and efficiency, but not tied to new frameworks or repos."
+    }
+  ],
+  "notes": "No high-signal new open-source repos, frameworks, or core technical breakthroughs found in seed experts or global search for past 24 hours matching strict criteria. All items are near-misses consisting of expert commentary on existing tools/models."
+}
