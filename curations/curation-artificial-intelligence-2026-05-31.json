@@ -1,0 +1,34 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "GPT-5.5 on DeepSWE benchmark",
+      "technical_takeaway": "GPT-5.5 achieves #1 with 70% pass@1 (vs 58% for Claude Opus 4.8) on hard long-horizon coding benchmark, while being ~2x faster, ~1/2 the cost, ~1/3 the output tokens, and 3x more token efficient (47k vs 136k output tokens). Demonstrates superior intelligence per dollar/minute/task.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2060865517628379466"
+    },
+    {
+      "project": "OpenAI model leadership in coding",
+      "technical_takeaway": "GPT-5.5 leads in coding benchmarks; GPT 5.6 expected to improve further, widening gap over competitors like Opus 4.8.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2060929242712494292"
+    },
+    {
+      "project": "Open source AI models",
+      "technical_takeaway": "Open source AI (Kimi, DeepSeek, GLM) exponentially advancing and suitable for 50% of tasks; token consumption nearing parity with Gemini models.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2060811657366970411"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "AI agent infrastructure and adoption",
+      "technical_takeaway": "Combining AI access rewards with agent infrastructure for utility-focused adoption (bai_agi).",
+      "author_handle": "@YehoshuaZion",
+      "post_url": "https://x.com/YehoshuaZion/status/2061027051037999308",
+      "reason": "Mentions agents but lacks specific technical details, benchmarks, or new frameworks/repos."
+    }
+  ],
+  "notes": "Seed experts yielded strong benchmark and efficiency updates on GPT-5.5 and open-source models. Global keyword search returned mostly unrelated/low-signal content; no additional high-signal AI technical innovations (repos, architectures, memory techniques) found in past 24h."
+}
