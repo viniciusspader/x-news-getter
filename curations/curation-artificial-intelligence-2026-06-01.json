@@ -1,0 +1,72 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "PewDiePie's vibecoded @opencode wrapper",
+      "technical_takeaway": "Personal AI productivity suite (email, docs, calendar) built via vibe coding; sets new DIY benchmark for Knowledge Work Agents, achieving >10k stars in a day and topping HN.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2061256096719970337"
+    },
+    {
+      "project": "Langsmith Engine",
+      "technical_takeaway": "Described as the 'Full Self-Driving' moment for AI Engineering, enabling advanced agent evaluation and orchestration.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2061252665573789976"
+    },
+    {
+      "project": "Open source AI progress in China",
+      "technical_takeaway": "1.5B users driving rapid model improvements focused on practical use vs. US token maxxing and hallucinations; highlights open-source momentum.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2061167347621040541"
+    },
+    {
+      "project": "OpenAI Codex video stitching demo",
+      "technical_takeaway": "Agent autonomously finds MP4s, verifies codec/fps/resolution, stitches without re-encoding, decodes and spot-checks transitions—showcasing advanced file handling and agentic capabilities.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2061223599734730910"
+    },
+    {
+      "project": "MiniMax M3 open-weights model",
+      "technical_takeaway": "First open-weights model combining frontier coding/agentic (59% SWE-Bench Pro), 1M context via sparse attention, and native multimodality from step zero; weights/report in ~10 days.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2061432656680608158"
+    },
+    {
+      "project": "Evaluating Deep Agents with LangSmith on AWS",
+      "technical_takeaway": "Blog on datapoint/evaluator design for longer-horizon agents, advancing practical benchmarking and evaluation frameworks.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2061085058384150904"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "agent-skill-creator",
+      "technical_takeaway": "Repo turns workflows into agent skills for 14+ tools via single SKILL.md file; enables modular multi-agent systems for local or cloud deployment.",
+      "author_handle": "@AIDailyGems",
+      "post_url": "https://x.com/AIDailyGems/status/2061440204909507000"
+    },
+    {
+      "project": "Onshape + NVIDIA Isaac Sim multi-agent workflow",
+      "technical_takeaway": "Multi-agent orchestration auto-handles CAD geometry, physics, and materials prep for simulation; proof-of-concept for AI-driven robotics/CAD pipelines.",
+      "author_handle": "@Onshape",
+      "post_url": "https://x.com/Onshape/status/2061440181874417706"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Langsmith Engine commentary",
+      "technical_takeaway": "Affirmation of Langsmith as future for AI engineering workflows.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2061271231999996361",
+      "reason": "Repost/quote of seed expert content, low new technical detail."
+    },
+    {
+      "project": "OpenClaw agent persistence patterns",
+      "technical_takeaway": "Cron jobs + skills for reliable agent backups, prospecting, and UX testing vs. unreliable heartbeats.",
+      "author_handle": "@AIwithJai",
+      "post_url": "https://x.com/AIwithJai/status/2061440170168025226",
+      "reason": "Practical agent automation tips but not a new repo/framework release."
+    }
+  ],
+  "notes": "Very limited high-signal technical posts in the 24h window from seeds (mostly commentary); global search yielded 2 solid repo/framework examples. Prioritized actionable innovations over general discussion. No results from most seed experts."
+}
