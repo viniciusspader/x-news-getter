@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "OpenAI Codex Python SDK",
+      "technical_takeaway": "New SDK enables embedding Codex directly into Python apps for starting threads, running turns, streaming progress, resuming sessions, passing images, and controlling sandbox access while reusing existing auth; supports mid-stream message steering.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2061699197418500492"
+    },
+    {
+      "project": "Abacus AI Agent Swarm",
+      "technical_takeaway": "Multi-agent swarms on Abacus AI supercomputer using models like Opus 4.8, Gemini 3.5, GPT 5.5; specialized agents for coding/testing/research with master agent orchestration via English instructions for complex SaaS/automations.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2061654798919696549"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Agent Direct Grep Retrieval",
+      "technical_takeaway": "Bypassing pre-built indices for agents to directly grep corpora yields massive efficiency (14GB memory + 1-min setup vs. hundreds of GBs + GPU-hours); paradigm shift for agentic RAG with better multi-hop reasoning.",
+      "author_handle": "@cv_usk",
+      "post_url": "https://x.com/cv_usk/status/2061603915632881956"
+    },
+    {
+      "project": "Memoria-Bench",
+      "technical_takeaway": "New benchmark quantifying long-horizon recall gaps in autonomous agents beyond file-based memory like OpenClaw; evaluates memory across noisy cross-tool interactions for long-horizon tasks.",
+      "author_handle": "@rockyfish131",
+      "post_url": "https://x.com/rockyfish131/status/2061455826980852010"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Multi-agent Workflow Growth",
+      "technical_takeaway": "Multi-agent crews executing tasks automatically with 327% growth in enterprise; shift from chat to autonomous execution.",
+      "author_handle": "@0x_sakata",
+      "post_url": "https://x.com/0x_sakata/status/2061776415289438571",
+      "reason": "Interesting trend but lacks specific technical details or new repo/framework."
+    }
+  ],
+  "notes": "Limited high-signal posts in past 24h from seeds and global; focused on actionable AI agent SDKs, swarms, retrieval/memory innovations. No major new repos or efficiency breakthroughs beyond these."
+}
