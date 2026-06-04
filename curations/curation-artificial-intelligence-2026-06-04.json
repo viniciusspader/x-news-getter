@@ -1,0 +1,72 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Abacus AI SuperComputer",
+      "technical_takeaway": "Single-prompt interface to build/host any cloud app/API/service, spin up local LLMs, run always-on agents (Hermes/Claw), integrate cloud storage/DBs, work with Claude/Codex, and scale to billions of agents.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2061990005879275879"
+    },
+    {
+      "project": "LangChain create_agent",
+      "technical_takeaway": "Minimal agent harness that's easy to customize with middleware for building task-specific agent systems.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2062226357522743484"
+    },
+    {
+      "project": "Open Source AI Growth & Models",
+      "technical_takeaway": "Open source AI up 500% in 2 months with releases like Gemma 4 12B, Deepseek Flash in production, Kimi 2.6 for coding, Minimax in always-on agents; upcoming GPT 5.6/Gemini 3.5 and major open source drop expected.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2062260778623795569"
+    },
+    {
+      "project": "Codex Plugins",
+      "technical_takeaway": "100+ plugins for Codex (apps, Figma, Notion, Vercel etc.); ask Codex to analyze your repo/workflow and auto-install/setup relevant ones to boost capabilities without manual selection.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2062302692542648490"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Collaborative Multi-Agent Memory System",
+      "technical_takeaway": "Framework with shared/private memory scopes, trust-aware retrieval, lineage tracking, contradiction resolution; benchmarked for multi-agent collaboration on evolving tasks.",
+      "author_handle": "@adxtyahq",
+      "post_url": "https://x.com/adxtyahq/status/2062207073396621791"
+    },
+    {
+      "project": "FluxMem",
+      "technical_takeaway": "Memory as evolving graph of connections (facts, episodes, skills); dynamically repairs links via task feedback and extracts reusable skills; strong gains on LoCoMo (95.06%) and GAIA (+12.73 pts).",
+      "author_handle": "@rohanpaul_ai",
+      "post_url": "https://x.com/rohanpaul_ai/status/2061991005201825984"
+    },
+    {
+      "project": "Cortex (ARKIV)",
+      "technical_takeaway": "Agent memory with intentional forgetting via TTL to prevent context bloat while retaining useful state.",
+      "author_handle": "@arkivnetwork",
+      "post_url": "https://x.com/arkivnetwork/status/2062459227453407456"
+    },
+    {
+      "project": "Walrus Memory",
+      "technical_takeaway": "Portable, onchain, encrypted agent memory independent of providers; typed memories, proofs, cross-platform continuity with MCP/SDK support.",
+      "author_handle": "@stacy_muur",
+      "post_url": "https://x.com/stacy_muur/status/2062464936375455830"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "LangSmith LLM Gateway",
+      "technical_takeaway": "Real-time cost tracking/rollups by workspace/user/API key to manage token spend limits (e.g., Uber's $1500/dev/month cap).",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2062208385890570565",
+      "reason": "More operational tooling than core technical innovation in agents/memory/architecture."
+    },
+    {
+      "project": "KIMI K2.6 Agent Swarm",
+      "technical_takeaway": "Hundreds of agents for parallel resume tailoring across job postings.",
+      "author_handle": "@shmidtqq",
+      "post_url": "https://x.com/shmidtqq/status/2062487166165418155",
+      "reason": "Practical application demo rather than new framework or breakthrough technique."
+    }
+  ],
+  "notes": "Seed phase yielded limited high-signal technical posts (mostly from @bindureddy, @hwchase17, @reach_vb); global search surfaced strong memory-focused innovations. No posts from other seed experts in window. Selected max 4-6 per category for quality."
+}
