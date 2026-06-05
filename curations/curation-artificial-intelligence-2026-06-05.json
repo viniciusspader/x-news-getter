@@ -1,0 +1,54 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Codex agent memory and goal management",
+      "technical_takeaway": "Create a goal.md file for ramblings; use set_goal tool with user approval before setting; leverage compactions so Codex references the goal.md persistently across interactions.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2062815211057189040"
+    },
+    {
+      "project": "Codex skill creation from user artifacts",
+      "technical_takeaway": "Provide samples of preferred writings and artifacts to Codex to convert into reusable skills; add the skill to agents.md for consistent, high-quality output in agent workflows.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2062806234416185507"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Mnemosyne memory layer for AI agents",
+      "technical_takeaway": "Zero-dependency SQLite-based memory with BEAM (Bilevel Episodic-Associative Memory) tiers: working memory auto-injected pre-LLM, episodic with hybrid vector/keyword search and 32x compression via binarization; 98.9% recall on LongMemEval, works with Hermes/Codex/Claude via MCP or pip install; supports knowledge graphs and lifecycle hooks.",
+      "author_handle": "@mrru5s3ll",
+      "post_url": "https://x.com/mrru5s3ll/status/2062792494824472673"
+    },
+    {
+      "project": "AgentKeys memory gate and OpenViking integration",
+      "technical_takeaway": "AgentKeys acts as authority layer/gate for agent memory access control; integrates pluggable ranking engines like OpenViking; separates memory retrieval from policy enforcement for scalable multi-agent persistent memory.",
+      "author_handle": "@heimaNetwork",
+      "post_url": "https://x.com/heimaNetwork/status/2062531965471903752"
+    },
+    {
+      "project": "OpenAI ChatGPT memory architecture update",
+      "technical_takeaway": "New more capable and compute-efficient memory architecture with summary page for users to review/steer stored memories; improves long-term recall in conversational agents.",
+      "author_handle": "@techsnif",
+      "post_url": "https://x.com/techsnif/status/2062671233817190795"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Latent Space podcast with Satya",
+      "technical_takeaway": "Discussion on AI leadership and future directions (context from quoted post).",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2062854555562565741",
+      "reason": "Low technical depth on specific innovations or tools; more conversational."
+    },
+    {
+      "project": "Open source agent pillars discussion",
+      "technical_takeaway": "Convergence on persistent memory loops (Hermes), self-hosted execution (OpenClaw), composable skills (Higgsfield + n8n).",
+      "author_handle": "@lupaesano",
+      "post_url": "https://x.com/lupaesano/status/2062504912462758153",
+      "reason": "High-level overview without new repo, benchmarks, or implementation details."
+    }
+  ],
+  "notes": "Searches limited to past 24 hours yielded limited high-signal technical content from seed experts; global results focused on memory innovations as the strongest theme. No major new repos or architecture breakthroughs surfaced beyond memory systems."
+}
