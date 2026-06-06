@@ -1,0 +1,48 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Prompting Technique: Frame Tasks as Questions",
+      "technical_takeaway": "Appending '?' to prompts invites models to push back, rate idea quality, and suggest alternatives instead of blindly executing, improving alignment with intent over 'plan mode'.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2063082950317486133"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "AgentMemory",
+      "technical_takeaway": "Open-source persistent cross-session memory system for 10+ AI coding agents (Claude, Cursor, etc.) using auto-hooks, BM25+vector+graph retrieval, 4-tier consolidation; achieves 95.2% recall, 98% token cost reduction vs LLM summaries, SQLite-based with no external deps.",
+      "author_handle": "@cv_usk",
+      "post_url": "https://x.com/cv_usk/status/2062885398943322302"
+    },
+    {
+      "project": "Nemotron Agent Framework Repo",
+      "technical_takeaway": "New repo for Hermes-style local agent instances on Nemotron, focused on persistence, memory-awareness, and extensibility for local-first workflows and multi-agent testing.",
+      "author_handle": "@IcarusHermes",
+      "post_url": "https://x.com/IcarusHermes/status/2063192083414798755"
+    },
+    {
+      "project": "anda-brain",
+      "technical_takeaway": "Graph-based memory system for autonomous AI agents with bio-inspired sleep-based consolidation, powered by KIP & AndaDB for semantic recall and long-term agent memory.",
+      "author_handle": "@AIDailyGems",
+      "post_url": "https://x.com/AIDailyGems/status/2063083662082441699"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Hermes Agent Dashboard Updates",
+      "technical_takeaway": "Enhanced skills hub search and agent harness integration for comprehensive info and better agent workflows.",
+      "author_handle": "@Teknium",
+      "post_url": "https://x.com/Teknium/status/2063196628916273660",
+      "reason": "Relevant to agent tools but incremental update rather than new framework/repo/breakthrough."
+    },
+    {
+      "project": "Honcho/Sibyl Memory Layer Comparisons",
+      "technical_takeaway": "Memory and personalization layers for agents with accuracy/cost benchmarks.",
+      "author_handle": "@Jim_buildr",
+      "post_url": "https://x.com/Jim_buildr/status/2063178077161791971",
+      "reason": "Discusses existing projects and benchmarks but no new open-source release or core innovation detailed."
+    }
+  ],
+  "notes": "Seed experts had limited high-signal technical posts in the window (mostly non-technical). Global search surfaced several memory-focused agent repos/tools as the strongest matches for practical, actionable AI innovations. No major new orchestration frameworks or efficiency breakthroughs identified."
+}
