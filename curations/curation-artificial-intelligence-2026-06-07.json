@@ -1,0 +1,59 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [],
+  "global_discoveries": [
+    {
+      "project": "EverOS",
+      "technical_takeaway": "Long-term memory OS for self-evolving agents with dedicated memory layer outside the agent loop for versioning, auditing, and correcting agent beliefs without touching vendor internals; open source and self-hosted.",
+      "author_handle": "@luyi_luo",
+      "post_url": "https://x.com/luyi_luo/status/2063483006556500340"
+    },
+    {
+      "project": "RouteLLM",
+      "technical_takeaway": "Open-source framework for cost-aware LLM routing to optimize inference expenses in agentic systems.",
+      "author_handle": "@MahRabie",
+      "post_url": "https://x.com/MahRabie/status/2063272664173584391"
+    },
+    {
+      "project": "ANOLISA",
+      "technical_takeaway": "Agentic OS implementation from Alibaba Group enabling advanced agent orchestration and automation.",
+      "author_handle": "@MahRabie",
+      "post_url": "https://x.com/MahRabie/status/2063272664173584391"
+    },
+    {
+      "project": "OSCAR",
+      "technical_takeaway": "2-bit KV cache quantization technique for efficient long-context LLM serving and reduced memory footprint.",
+      "author_handle": "@MahRabie",
+      "post_url": "https://x.com/MahRabie/status/2063272664173584391"
+    },
+    {
+      "project": "hermes-agent",
+      "technical_takeaway": "Agent framework focused on adaptive, long-term behavior in reusable engineering systems rather than one-shot assistants; rapid open-source growth signals shift to persistent agent architectures.",
+      "author_handle": "@charlie_26c",
+      "post_url": "https://x.com/charlie_26c/status/2063516196390285749"
+    },
+    {
+      "project": "headroom",
+      "technical_takeaway": "Context compression infrastructure to manage logs, files, and tool outputs preventing agent overload in complex workflows.",
+      "author_handle": "@charlie_26c",
+      "post_url": "https://x.com/charlie_26c/status/2063516196390285749"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Codex shipping projects",
+      "technical_takeaway": "Personal project shipping and cleanup for AI-related tools after months of dust collection.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2063255336228643010",
+      "reason": "Vague on specific technical details or new innovations; more personal update than high-signal discovery."
+    },
+    {
+      "project": "modelgroup() routing",
+      "technical_takeaway": "Every modelgroup() call acts as a router in agent orchestration setups.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2063520061806252379",
+      "reason": "Brief mention without new repo, benchmarks, or actionable framework details."
+    }
+  ],
+  "notes": "Seed experts had limited high-signal technical posts in the window; focused on opinions and general updates. Global search surfaced strong open-source agent/memory innovations via semantic relevance. Selected max 6 per section prioritizing actionable, understandable AI advancements like memory architectures and routing frameworks."
+}
