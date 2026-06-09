@@ -1,0 +1,65 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Codex Goal Management",
+      "technical_takeaway": "Agents can create hypotheses in markdown, set persistent goals via set_goal tool, and support pause/resume for long-running tasks without losing progress; more context in goals reduces failure modes.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2064285048388325848"
+    },
+    {
+      "project": "Codex Goal Management",
+      "technical_takeaway": "PSA on pausing/resuming goals in Codex agents, allowing seamless continuation and better workflow orchestration.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2064267474929934809"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Hermes Agent",
+      "technical_takeaway": "Agents save workflows to disk as reusable skills for persistent memory and compounding across sessions; connects to local models to build 30-50 skills, enabling one laptop to handle repeated research/report tasks efficiently.",
+      "author_handle": "@fleyta88",
+      "post_url": "https://x.com/fleyta88/status/2064296896575996384"
+    },
+    {
+      "project": "Openhermit / OpenClaw Agents",
+      "technical_takeaway": "Scales OpenClaw-style agents to 13,000 per 48G memory server via open-source breakthrough; enables massive parallel agent deployment with efficiency gains.",
+      "author_handle": "@mattyryze",
+      "post_url": "https://x.com/mattyryze/status/2064170025297359353"
+    },
+    {
+      "project": "mem0ai State of AI Agent Memory 2026",
+      "technical_takeaway": "Token-efficient memory algorithms achieve 92.5 LoCoMo / 94.4 LongMemEval at ~7k tokens vs 26k for full-context; biggest gains in temporal reasoning (+29.6) and multi-hop recall (+23.1); highlights open problems like cross-session identity.",
+      "author_handle": "@actiandev",
+      "post_url": "https://x.com/actiandev/status/2064126250130575503"
+    },
+    {
+      "project": "memU Memory Harness",
+      "technical_takeaway": "Structured storage and intent capture for proactive agents delivers 10x token reduction; open-source memory system for production-grade persistent recall.",
+      "author_handle": "@AIDailyGems",
+      "post_url": "https://x.com/AIDailyGems/status/2064164686480765056"
+    },
+    {
+      "project": "OpenEnv Agent Memory Protocol",
+      "technical_takeaway": "One-socket protocol for any env/trainer enables shared memory training across Meta, Nvidia, etc.; closes the loop for open-source agents to train models and harnesses together.",
+      "author_handle": "@yiyadev",
+      "post_url": "https://x.com/yiyadev/status/2064154388718109175"
+    },
+    {
+      "project": "OpenSkill Self-Evolving Agents",
+      "technical_takeaway": "Framework for LLM agents to bootstrap skills and verification signals from open-world resources without target-task supervision; transferable skills across models with high automated benchmark performance.",
+      "author_handle": "@AINativeF",
+      "post_url": "https://x.com/AINativeF/status/2064134520111296964"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Reflex Self-Correcting Trading Agent",
+      "technical_takeaway": "AI trading agent that audits its own strategies for self-correction.",
+      "author_handle": "@Reflexbgt",
+      "post_url": "https://x.com/Reflexbgt/status/2064297358549041459",
+      "reason": "Domain-specific trading focus rather than general AI technical innovation or open framework."
+    }
+  ],
+  "notes": "Seed experts had limited high-signal technical posts in the window; prioritized @reach_vb's agent goal persistence details. Global search yielded strong memory/persistence and scaling themes. Max 6 per section enforced; only truly actionable technical items included."
+}
