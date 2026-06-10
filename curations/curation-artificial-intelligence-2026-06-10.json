@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Codex Mobile updates",
+      "technical_takeaway": "New mobile features for AI coding agent include branch/worktree management, goal creation, inline code reviews, side chats, prompt editing, skills/plugins integration, and UI improvements for better workflow on mobile.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2064622917028094176"
+    },
+    {
+      "project": "Abacus AI Agent - Claude Fable Mode",
+      "technical_takeaway": "Agent framework launches model routing: triggers high-capability Claude Fable for hard coding tasks while routing others to cheaper models (GPT 5.5, Gemini Flash) for cost efficiency in ChatLLM.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2064519990603399656"
+    },
+    {
+      "project": "Fable model code review",
+      "technical_takeaway": "Fable exhibits strong code review capabilities for catching issues pre-prod; non-pay-per-use access enables extensive 'Fable Check' usage revealing shipped code problems.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2064492823781789969"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Memory Augmented Neural Networks for agents",
+      "technical_takeaway": "Discussion of modern memory architectures (Memory Networks, RETRO, Product Key Memory, Engram) for intrinsic retrieval/continual learning in agents, beyond context RAG.",
+      "author_handle": "@rohan_virani",
+      "post_url": "https://x.com/rohan_virani/status/2064411732995682609",
+      "reason": "Thoughtful expert commentary on memory innovations but no new repo/framework release in past 24h."
+    },
+    {
+      "project": "Agentic systems infrastructure",
+      "technical_takeaway": "Agentic workflows increase need for orchestration, memory, and persistent compute layers vs simple generative inference.",
+      "author_handle": "@homeMetaX",
+      "post_url": "https://x.com/homeMetaX/status/2064510682914005159",
+      "reason": "Relevant to agent patterns but general commentary without specific new tool or benchmark."
+    }
+  ],
+  "notes": "Seed phase yielded 3 high-signal practical updates from experts on AI coding/agent tools. Global searches returned low relevance/irrelevant posts; no new open-source repos or major breakthroughs in 24h window. Near-misses capture thoughtful but non-innovative content."
+}
