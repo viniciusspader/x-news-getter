@@ -1,0 +1,59 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "OpenAI Codex updates",
+      "technical_takeaway": "New features include Developer Mode for browser with CDP access, deeper debugging tools, /init in app composer, customizable icons, enterprise Computer Use, Windows controls, faster browser use, and rate-limit reset banking for Plus/Pro users.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2065318050857877601"
+    },
+    {
+      "project": "Gemini 3.5 model",
+      "technical_takeaway": "Google's upcoming 3.5 model is expected to be the cheapest SOTA, used internally with high satisfaction; positioned as a strong competitor in the model landscape.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2065328668570964015"
+    },
+    {
+      "project": "Loopcraft for agents",
+      "technical_takeaway": "Focus on stacking loops (goals and orchestration) that scale with more agents rather than fixing issues manually; emphasizes going 'up' loops for leverage as models improve, per the 'Salty Lesson' for agents.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2065307558198567206"
+    },
+    {
+      "project": "Vibecoding platform",
+      "technical_takeaway": "Need for platforms that close the loop on errors and failures automatically, reducing 'webmaster' infra setup for every project by integrating monitoring, alerts, and orchestration into one system.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2065264832056889711"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Anthropic memory architecture",
+      "technical_takeaway": "Shift to structured, persistent memory layers instead of overloading context windows for more scalable production AI agents and long-term recall.",
+      "author_handle": "@Aiden_x_AI",
+      "post_url": "https://x.com/Aiden_x_AI/status/2064932163930534292"
+    },
+    {
+      "project": "llmff and Zaxy for agents",
+      "technical_takeaway": "Composable pipelines (FFmpeg-style) for workflow automation and multi-model orchestration; event-sourced memory layer to improve reliability, state management, and reproducibility in agent systems.",
+      "author_handle": "@corelumen",
+      "post_url": "https://x.com/corelumen/status/2065042719441920162"
+    },
+    {
+      "project": "Recursive Agent Harnesses and related papers",
+      "technical_takeaway": "LLM turned into stack of cooperating agents that spawn sub-agents, use tools, and reason over long contexts; plus operadic consistency for self-detecting reasoning errors and analogy-based retrieval for learning reusable skills.",
+      "author_handle": "@sikkha",
+      "post_url": "https://x.com/sikkha/status/2065273386906124502"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Decentralized AI stack (Akash, Bittensor, Fetch.ai etc.)",
+      "technical_takeaway": "Open compute markets, decentralized models, data ownership, and permissionless agents as alternative to centralized AI.",
+      "author_handle": "@RushiChavan_",
+      "post_url": "https://x.com/RushiChavan_/status/2065359403197567367",
+      "reason": "Interesting high-level overview but lacks specific technical details or new repo/framework release."
+    }
+  ],
+  "notes": "Seed experts yielded several relevant updates on tools and agent patterns; global search surfaced memory/orchestration innovations. Limited truly novel open-source releases in the window; focused on actionable technical insights."
+}
