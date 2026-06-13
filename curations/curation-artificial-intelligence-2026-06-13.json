@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [],
+  "global_discoveries": [
+    {
+      "project": "Hy-Memory",
+      "technical_takeaway": "Tencent open-sourced Hy-Memory, a 6-layer memory plugin for AI agents enabling long-term persistent memory via dual System1 (fast pattern matching) and System2 (deep reasoning) retrieval; achieves 35% token reduction and 70% less memory bloat for long-running collaborative agents.",
+      "author_handle": "@simplifyinAI",
+      "post_url": "https://x.com/simplifyinAI/status/2065484352994037784"
+    },
+    {
+      "project": "Mastra",
+      "technical_takeaway": "Open-source TypeScript AI agent framework featuring 'observational memory' that achieves 94.87% on LongMemEval with 10x cost reduction vs RAG; eliminates need for external vector DBs or knowledge graphs by using internal background agents with traffic-light priority context compression.",
+      "author_handle": "@mycomradio",
+      "post_url": "https://x.com/mycomradio/status/2065602910222696532"
+    },
+    {
+      "project": "Open Source AI Agent (32k GitHub stars)",
+      "technical_takeaway": "An open-source AI agent capable of screen viewing, mouse control, and operating any computer app, highlighting practical advancements in agentic computer-use capabilities.",
+      "author_handle": "@RoundtableSpace",
+      "post_url": "https://x.com/RoundtableSpace/status/2065739706403332289"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "DeepSWE model",
+      "technical_takeaway": "Mention of a competent new model at deepswe.datacurve.ai in context of AI capabilities.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2065701628334756043",
+      "reason": "From seed expert but lacks detailed technical innovation or benchmarks; primarily a link share."
+    },
+    {
+      "project": "10 GitHub repos for AI Agents",
+      "technical_takeaway": "Curated list of repos including Hands-On LLMs, AI Agents for Beginners, GenAI Agents, and others for building agent skills.",
+      "author_handle": "@ItsDarcy_AI",
+      "post_url": "https://x.com/ItsDarcy_AI/status/2065737924692611314",
+      "reason": "Useful compilation but not a single new innovation or framework release."
+    }
+  ],
+  "notes": "No high-signal technical posts from the 10 seed experts in the past 24 hours; their activity was mostly commentary on policy/AI bans. Global search yielded 3 solid memory/framework items meeting criteria; limited overall high-signal activity in the window."
+}
