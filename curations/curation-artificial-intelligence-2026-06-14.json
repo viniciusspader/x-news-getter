@@ -1,0 +1,53 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "GLM 5.2",
+      "technical_takeaway": "New Chinese open-source model at Opus 4.7 class level; highlights rapid open-source progress narrowing US lead amid regulatory standstills.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2066091588040970382"
+    },
+    {
+      "project": "Abacus AI SuperComputer",
+      "technical_takeaway": "Platform for hosting local open-source LLMs (Qwen, Gemma) with always-on agents and APIs; enables custom LLM apps/games using frontier models.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2065979796916723930"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "DecentMem",
+      "technical_takeaway": "Decentralized per-agent private memory (exploitation/exploration pools with online router) for multi-agent systems; improves accuracy ~9% avg, up to 24%, cuts tokens ~49%, accelerates self-evolution 2.5x vs centralized baselines.",
+      "author_handle": "@zhuokaiz",
+      "post_url": "https://x.com/zhuokaiz/status/2065671606416875996"
+    },
+    {
+      "project": "Mastra",
+      "technical_takeaway": "Open-source TS AI agent framework with observational memory; achieves 94.87% on LongMemEval, 10x cost reduction vs RAG without vector DBs via background compression and priority routing.",
+      "author_handle": "@mycomradio",
+      "post_url": "https://x.com/mycomradio/status/2065602910222696532"
+    },
+    {
+      "project": "EvoArena / EvoMem",
+      "technical_takeaway": "Benchmark for evolving environments with patch-based memory recording histories; boosts agent accuracy +1.5% overall, +3.7% chain-level, +6.1%/+4.8% on GAIA/LoCoMo.",
+      "author_handle": "@arxivsanitybot",
+      "post_url": "https://x.com/arxivsanitybot/status/2065857416135119227"
+    },
+    {
+      "project": "Artificial Analysis Agent Benchmark",
+      "technical_takeaway": "Production-focused inference benchmark using long-context multi-turn agent workloads with KV cache reuse; metric 'Agents per Megawatt' for scalable deployment decisions.",
+      "author_handle": "@kerrsee",
+      "post_url": "https://x.com/kerrsee/status/2065587947999769008"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "$SIGNAL / TheARCTERMINAL / HivemindOS",
+      "technical_takeaway": "Onchain AI agent stacks with verifiable identities, tool use, memory sharing, and multi-agent coordination.",
+      "author_handle": "@gintonic_eth",
+      "post_url": "https://x.com/gintonic_eth/status/2066105865988358429",
+      "reason": "Primarily crypto/NFT focused rather than core AI technical innovation or open frameworks."
+    }
+  ],
+  "notes": "Sparse high-signal activity from seed experts (mostly personal posts); global search surfaced strong memory management and agent framework/benchmark updates. Selected max relevant items meeting criteria."
+}
