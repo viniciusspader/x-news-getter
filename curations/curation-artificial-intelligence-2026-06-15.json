@@ -1,0 +1,26 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Kimi 2.7 code agentic loop and Fusion agent swarms",
+      "technical_takeaway": "Open-source releases for building full-stack apps with agentic loops and combining Opus 4.8 planning with Deepseek flash workers in agent swarms for orchestration.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2066381658505515132"
+    },
+    {
+      "project": "Subagents and dynamic workflows for repo parallelization",
+      "technical_takeaway": "Subagents act as intelligent subroutines for yakshaving tasks; parallelize repos to leverage fanout in dynamic workflows beyond static coding tasks.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2066415484149633329"
+    },
+    {
+      "project": "Cognitive loops as IP (Satya Nadella commentary)",
+      "technical_takeaway": "Build learning loops on models where human and token capital compound; focus on frontier ecosystems and institutional knowledge encoding rather than just models.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2066235625695850526"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [],
+  "notes": "Seed experts yielded 3 high-signal agent/orchestration posts in past 24h; global search returned no relevant AI technical updates meeting criteria."
+}
