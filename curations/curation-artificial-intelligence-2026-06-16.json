@@ -1,0 +1,60 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "OpenAI Codex",
+      "technical_takeaway": "Users experiencing 'Selected Model is at Capacity' errors; status updates available via OpenAI incident page, indicating scaling challenges in production AI coding tools.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2066863297173815427"
+    },
+    {
+      "project": "GPT 5.6 / Gemini 3.5",
+      "technical_takeaway": "Upcoming models claim parity with Fable performance at >2x lower cost, faster inference, and reduced censorship, highlighting rapid iteration in frontier model efficiency and accessibility.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2066844815489437885"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "DecentMem",
+      "technical_takeaway": "Decentralized per-agent memory with reuse/exploration pools prevents convergence in multi-agent systems; achieves O(log T) regret, up to 23.8% better accuracy and 49% fewer tokens vs centralized memory.",
+      "author_handle": "@askalphaxiv",
+      "post_url": "https://x.com/askalphaxiv/status/2066362692965691530"
+    },
+    {
+      "project": "FluxMem / MRAgent",
+      "technical_takeaway": "Graph-based evolving memory frameworks (heterogeneous graphs, Cue-Tag-Content with active reconstruction) for agents; SOTA on LoCoMo/Mind2Web/GAIA and up to 23% gains on long-horizon benchmarks with lower token costs.",
+      "author_handle": "@mycomradio",
+      "post_url": "https://x.com/mycomradio/status/2066608163223117983"
+    },
+    {
+      "project": "n8n + LangGraph",
+      "technical_takeaway": "Complementary layers for agent systems: n8n for visual workflow orchestration and tool integrations (700+ connectors); LangGraph for stateful, cyclical multi-agent reasoning with persistence and observability.",
+      "author_handle": "@LearnWithBrij",
+      "post_url": "https://x.com/LearnWithBrij/status/2066599494939238800"
+    },
+    {
+      "project": "Agent frameworks map (LangGraph, CrewAI, etc.)",
+      "technical_takeaway": "Open-source AI engineering stack overview emphasizing agent orchestration (LangGraph default substrate), retrieval, serving splits (prefill/decode), and fine-tuning trade-offs for production systems.",
+      "author_handle": "@saturn_cloud",
+      "post_url": "https://x.com/saturn_cloud/status/2066539172383379855"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Agent Switchboard orchestration category",
+      "technical_takeaway": "Curated list of multi-agent frameworks and durable engines including Temporal, Hatchet, AgentRQ alongside LangGraph/CrewAI for human-in-loop and parallel orchestration.",
+      "author_handle": "@assafbar",
+      "post_url": "https://x.com/assafbar/status/2066556337325253020",
+      "reason": "Useful directory but lacks novel technical details or benchmarks from the past 24h."
+    },
+    {
+      "project": "AI open-source trending repos",
+      "technical_takeaway": "Daily rank highlights agent skills (NVIDIA/SkillSpector), context compression (headroom), and domain models; emphasizes reusable skills, security, and lower context costs.",
+      "author_handle": "@charlie_26c",
+      "post_url": "https://x.com/charlie_26c/status/2066765775009161258",
+      "reason": "Aggregates trends but no deep technical explanation of innovations."
+    }
+  ],
+  "notes": "Phase 1 yielded limited high-signal technical posts from the exact seed experts (mostly operational updates). Phase 2 semantic/keyword searches surfaced strong memory and orchestration research. Selected only posts with clear technical implications; capped at 6 per main array."
+}
