@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Abacus AI Agent",
+      "technical_takeaway": "AI agents can now embed and use any app, perform detailed system/engineering design, and create 3D models for data centers/scientific research by mixing LLMs like Opus 4.8, GLM 5.2, and GPT 5.5.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2068569320968626422"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "ponytail (DietrichGebert/ponytail)",
+      "technical_takeaway": "Open-source repo gaining 4k+ stars rapidly; focuses on training coding agents for restraint and better engineering judgment rather than raw code generation.",
+      "author_handle": "@charlie_26c",
+      "post_url": "https://x.com/charlie_26c/status/2068251514158928038"
+    },
+    {
+      "project": "headroom (chopratejas/headroom)",
+      "technical_takeaway": "Context compression tool for agent workflows that reduces costs by compressing tool outputs, logs, files, and RAG chunks before LLM processing.",
+      "author_handle": "@charlie_26c",
+      "post_url": "https://x.com/charlie_26c/status/2068251514158928038"
+    },
+    {
+      "project": "codebase-memory-mcp (DeusData/codebase-memory-mcp)",
+      "technical_takeaway": "Persistent code knowledge graphs as a memory layer specifically for coding agents.",
+      "author_handle": "@charlie_26c",
+      "post_url": "https://x.com/charlie_26c/status/2068251514158928038"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "AI Engineer World's Fair 2026",
+      "technical_takeaway": "Event details on expanded expo, poster sessions, verticals in AI, and sponsor credits for attendees.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2068622544177909980",
+      "reason": "Event announcement rather than technical innovation or new repo/framework."
+    }
+  ],
+  "notes": "Limited high-signal technical posts from seed experts in the past 24h; global search surfaced open-source agent infrastructure repos as the strongest signals. Focused on actionable, understandable innovations in agents and memory/context handling."
+}
