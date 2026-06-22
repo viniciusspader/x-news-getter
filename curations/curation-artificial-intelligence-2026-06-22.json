@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Open source AGI acceleration via fine-tuning",
+      "technical_takeaway": "Dozens of AI labs fine-tuning on Kimi and GLM models; Deepseek also advancing; Fable-class models expected in 3 months that evade bans.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2068918464916644156"
+    },
+    {
+      "project": "Deep Agents for building Claude Code-like agents",
+      "technical_takeaway": "Model-agnostic, general-purpose framework for self-improving agent teams; community guide shows how to replicate Claude Code using LangChain's Deep Agents, especially strong with GLM-5.2.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2068700213783724191"
+    },
+    {
+      "project": "Internal world models updating",
+      "technical_takeaway": "Need to solve updating internal world models by 2027 to prevent AI systems from failing.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2068923927561400498"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Babelarr subtitle automation tool",
+      "technical_takeaway": "Open-source tool for local media libraries that automates subtitle extraction, translation, and sidecar generation; integrates with agents for full media pipeline.",
+      "author_handle": "@davezfr",
+      "post_url": "https://x.com/davezfr/status/2069049958477553971",
+      "reason": "Mentions agent integration but is primarily a media tool, not core AI technical innovation."
+    },
+    {
+      "project": "Agent design in market regimes",
+      "technical_takeaway": "Agent design assumptions must survive changing market conditions.",
+      "author_handle": "@hossainriad64",
+      "post_url": "https://x.com/hossainriad64/status/2069049936981774692",
+      "reason": "Vague commentary on agents without specific technical details or new frameworks."
+    }
+  ],
+  "notes": "Limited high-signal technical posts in the past 24 hours from seed experts; global search yielded mostly unrelated content. Focused on the most relevant AI agent and model advancements."
+}
