@@ -1,0 +1,47 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Codex Google Drive plugin and workflow memory",
+      "technical_takeaway": "One-click install for Google Sheets integration with Codex; agents can reference past PRs/sessions to auto-update global agents.md with branch naming, commit styles, testing plans for faster iteration.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2069684070615859241"
+    },
+    {
+      "project": "Enterprise-grade multiplayer coding agent",
+      "technical_takeaway": "Deeply integrated system where AI writes majority of code in a multiplayer, manager-like workflow for teams; goes beyond RAG/Slack Q&A or OpenClaw to enable new enterprise deployment patterns.",
+      "author_handle": "@karpathy",
+      "post_url": "https://x.com/karpathy/status/2069601818540392669"
+    },
+    {
+      "project": "GPT-5.6 sightings",
+      "technical_takeaway": "Multiple code sightings of GPT-5.6 suggest imminent release possibly Thursday, expected as major capability boost.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2069598464728842631"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Tencent long-term memory system for agents",
+      "technical_takeaway": "Open-source 4-tier semantic pyramid (L0 raw logs to L3 persona) with Mermaid graph compression for tool logs; cuts tokens 61%, boosts long-horizon success 51%, fully local SQLite, integrates with OpenClaw/Hermes.",
+      "author_handle": "@stretchcloud",
+      "post_url": "https://x.com/stretchcloud/status/2069695774292627957"
+    },
+    {
+      "project": "Agent-native memory systems evaluation",
+      "technical_takeaway": "Systematic eval of 12 agent memory architectures shows no universal winner; success depends on matching memory structure to workload bottlenecks; includes GitHub repo with benchmarks.",
+      "author_handle": "@_reachsumit",
+      "post_url": "https://x.com/_reachsumit/status/2069624295161295114"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Anamnesis 4D strategic memory engine",
+      "technical_takeaway": "Open-source temporal reasoning across memory layers with strategic prioritization for agents.",
+      "author_handle": "@gustavosalami",
+      "post_url": "https://x.com/gustavosalami/status/2069322133910557035",
+      "reason": "Mentions architecture innovation but lacks specific benchmarks or repo details in post."
+    }
+  ],
+  "notes": "Limited high-signal technical posts in past 24h from seeds; focused on practical agent tooling and memory. Global search surfaced memory management as key theme. No major new repos/frameworks beyond memory systems."
+}
