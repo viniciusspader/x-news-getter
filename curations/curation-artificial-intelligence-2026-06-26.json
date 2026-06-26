@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "LangChain Agents Deployment Cookbook",
+      "technical_takeaway": "Full-stack examples for shipping agents in real apps with streaming UI, subagents, thread history, and production persistence across JS frameworks; addresses the gap between local demos and production deployment.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2070220404162285712"
+    },
+    {
+      "project": "SmithDB Inverted Index for Agent Traces",
+      "technical_takeaway": "Technical details on constructing and querying a full-text search index over durable data in object storage (with 50-100ms GET costs) for agent traces in LangSmith.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2070192611894456634"
+    },
+    {
+      "project": "Asynchronous LLM Interactions",
+      "technical_takeaway": "Proposal for chatbots to handle hard queries asynchronously (e.g., 'give me 15m' response) with options for quicker guesses, extending org-wide persistent agent paradigms to one-on-one use.",
+      "author_handle": "@goodside",
+      "post_url": "https://x.com/goodside/status/2069982218248736883"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Portal Studio Beta",
+      "technical_takeaway": "AI-native tool for game creation and orchestration layer with creator workflows; seeking feedback on beta features.",
+      "author_handle": "@Portalcoin",
+      "post_url": "https://x.com/Portalcoin/status/2070455839031259545",
+      "reason": "Promotional beta announcement without deep technical details or benchmarks on AI capabilities."
+    },
+    {
+      "project": "CNPYNetwork AI x Web3 Framework",
+      "technical_takeaway": "AI-native framework to simplify onchain app development via prompts, backed by $8.5M.",
+      "author_handle": "@gemsmorro",
+      "post_url": "https://x.com/gemsmorro/status/2070456684141584691",
+      "reason": "High-level marketing post on infrastructure; lacks specific architecture, code, or performance insights."
+    }
+  ],
+  "notes": "Seed experts yielded limited high-signal technical posts in the window; focused on LangChain-related agent deployment and memory innovations. Global keyword search returned mostly crypto/Web3 agent promotions with insufficient technical depth for main sections."
+}
