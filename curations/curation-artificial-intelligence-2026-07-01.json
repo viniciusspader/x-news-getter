@@ -1,0 +1,47 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "LLM hardware optimization",
+      "technical_takeaway": "Engineering for max tokens/watt in LLMs involves very low voltage high current domains at tiny distances, opposite to power transmission lines; enables interactive tokens/sec/user at cluster scale with advanced memory tech.",
+      "author_handle": "@karpathy",
+      "post_url": "https://x.com/karpathy/status/2072061140943921550"
+    },
+    {
+      "project": "Fable agentic model",
+      "technical_takeaway": "Fable (agent model) returning to AbacusAI xHigh mode alongside Opus 4.8 and GPT 5.5 for complex agentic tasks and app building; triggers on SuperComputer for professional/enterprise use.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2072221109450313800"
+    },
+    {
+      "project": "LangChain voice/research agents",
+      "technical_takeaway": "Tutorial on Gemini Live + Deep Agents for voice research agents: low-latency natural speech-to-speech combined with long-running subagent tasks, full tracing via LangSmith; human-in-loop for wiki memory systems.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2072003684415000802"
+    },
+    {
+      "project": "GeneBench-Pro benchmark",
+      "technical_takeaway": "OpenAI benchmark for AI agents on realistic computational biology: messy data inspection, bad sample detection, analysis path selection, assumption revision, defensible conclusions beyond simple Q&A.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2072022456001270238"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Kite Agent Passport",
+      "technical_takeaway": "Verifiable cryptographic identity, programmable spend controls, and kill switch for autonomous onchain AI agents transacting across chains/DEXs.",
+      "author_handle": "@GoKiteAI",
+      "post_url": "https://x.com/GoKiteAI/status/2072028760896053439",
+      "reason": "Focuses on agent infrastructure but crypto-oriented, not core AI technical innovation like frameworks or memory."
+    },
+    {
+      "project": "AIEWF Poaster sessions",
+      "technical_takeaway": "Conference format for printing and discussing hottest AI takes in person instead of papers/posters.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2072048730581405800",
+      "reason": "Event-related, low technical signal on AI methods or tools."
+    }
+  ],
+  "notes": "Limited high-signal technical posts in past 24h from seeds or global search matching strict criteria (e.g., open repos, memory techniques, architecture breakthroughs). Most activity anecdotal or non-core AI."
+}
