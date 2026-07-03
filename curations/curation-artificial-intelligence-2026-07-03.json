@@ -1,0 +1,35 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "OpenAI Codex agent features",
+      "technical_takeaway": "Codex can now spin up sub-agents, create automations/heartbeats/loops, start new threads, and offload tasks to remote connections that continue even when laptop is off; these capabilities have been live for over a month.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2072957488702378172"
+    },
+    {
+      "project": "Abacus AI agent spend and routing",
+      "technical_takeaway": "CEO reports $12k/month AI spend (85% code) on Abacus AI general agent using smart routing across Opus, Fable, GPT 5.5, Kimi 2.7 with advanced context management and tooling.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2072850102880981269"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Greptile AI demo at aie event",
+      "technical_takeaway": "Flash mob demo highlighting AI code bug-catching capabilities in a live event setting.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2072961609094562283",
+      "reason": "AI-related but more event/promotional than a new technical innovation or framework."
+    },
+    {
+      "project": "Elon Musk AI predictions",
+      "technical_takeaway": "AI and robots could make work optional in a decade with digital intelligence surpassing humans in 5 years, leading to universal high income.",
+      "author_handle": "@thedailyblock",
+      "post_url": "https://x.com/thedailyblock/status/2072990531119177797",
+      "reason": "High-level speculation without technical details, benchmarks, or actionable insights."
+    }
+  ],
+  "notes": "Very low volume of high-signal technical posts in the past 24 hours from seeds or global search. Focused on agent orchestration mentions from OpenAI-related accounts."
+}
