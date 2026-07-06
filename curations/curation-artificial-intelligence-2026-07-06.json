@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [],
+  "global_discoveries": [
+    {
+      "project": "ai-memory-comparison",
+      "technical_takeaway": "Open-source feature comparison matrix of 77 memory systems for AI coding agents, mapping 79 features across data models, retrieval, knowledge lifecycle, extraction, architecture and benchmarks with source-backed evidence for each claim.",
+      "author_handle": "@DanKornas",
+      "post_url": "https://x.com/DanKornas/status/2074064293629165903"
+    },
+    {
+      "project": "codebase-memory-mcp",
+      "technical_takeaway": "MCP server that indexes codebases into a persistent knowledge graph so AI agents avoid re-reading entire projects every session; signals shift from bigger context windows (2024) and retrieval (2025) to long-term agent memory (2026).",
+      "author_handle": "@olanetsoft",
+      "post_url": "https://x.com/olanetsoft/status/2074043543090274487"
+    },
+    {
+      "project": "Marktechpost AI Agent Tutorials",
+      "technical_takeaway": "2.7k-star open-source GitHub library with 985 commits containing full runnable notebooks for multi-agent orchestration (LangGraph, CrewAI, etc.), persistent memory (Mem0, hierarchical FAISS+SQLite), reasoning loops, MCP servers, A2A protocols and agentic RAG.",
+      "author_handle": "@Marktechpost",
+      "post_url": "https://x.com/Marktechpost/status/2073989549815202089"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "langchain-nuggets",
+      "technical_takeaway": "Tool-call interceptor for LangChain/LangGraph agents that enforces delegation scope and limits while emitting signed proof artifacts; adds verifiable guardrails without changing existing agent code.",
+      "author_handle": "@Filip_Perica",
+      "post_url": "https://x.com/Filip_Perica/status/2074097439200379024",
+      "reason": "Practical agent tooling but lower engagement and narrower scope than memory/architecture repos above."
+    },
+    {
+      "project": "Fable on Abacus AI",
+      "technical_takeaway": "Agent capable of one-shot generation of complex 3D games, full SaaS/mobile/desktop apps and workflow automation with free hosting/compute; promotes smart routing across LLMs (mixture-of-agents).",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2074021076221263877",
+      "reason": "Promotional product demo from seed expert rather than new open-source innovation or benchmark."
+    }
+  ],
+  "notes": "Seed experts yielded only casual/promotional posts in the 24h window; no high-signal technical discoveries. Global search surfaced three strong memory-and-agent-infrastructure items meeting all filtering criteria. Additional agent-tooling posts placed in near_misses due to lower signal or promotional nature."
+}
