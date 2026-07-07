@@ -1,0 +1,59 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Fable 5 screensaver prototype",
+      "technical_takeaway": "Fable generates infinite procedurally generated VHS-style Backrooms footage using raw numpy for 3D rendering, PIL/scipy post-processing, and ffmpeg output; plans include seed cycling every 120s and rarity-based features for long-running screensavers.",
+      "author_handle": "@goodside",
+      "post_url": "https://x.com/goodside/status/2073956822151479486"
+    },
+    {
+      "project": "Anthropic global workspace research (J-space paper)",
+      "technical_takeaway": "Demonstrates 'brain surgery' interventions to alter model reasoning midstream and the model's ability to detect such interventions, providing evidence of causal understanding beyond correlation and prompted eval awareness.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2074344727202463832"
+    },
+    {
+      "project": "Fable 5 Max Mode / Abacus AI agent",
+      "technical_takeaway": "Prompt-based agent builds complex SaaS apps, custom workflows, iOS/Android apps, and always-on trading servers with full backend (servers, storage, DB, checkpointing) included; outperforms Opus 4.8 + GPT 5.5 on some tasks.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2074374612117492207"
+    },
+    {
+      "project": "Codex agent delegation",
+      "technical_takeaway": "Agents can autonomously explore multiple codebases, set up working copies, test features/flags, and update docs overnight, enabling true delegation of complex engineering tasks.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2074424445922337110"
+    },
+    {
+      "project": "LLM Wikis for agent memory",
+      "technical_takeaway": "OpenWiki (nearly 7k GitHub stars in <1 week) and related frameworks explore wikis as shared memory abstractions for agents vs humans; emergency webinar on practical implementation.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2074165007768785339"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Fable 5 optimization & cost strategies",
+      "technical_takeaway": "Fable excels at planning/review while cheaper models (Sonnet/Opus) handle execution; reusable CLAUDE.md skills, handoff patterns, and usage caps enable 10x cost reduction for production workflows.",
+      "author_handle": "@charliejhills",
+      "post_url": "https://x.com/charliejhills/status/2074435644332404822"
+    },
+    {
+      "project": "GenLayer adjudication layer for agents",
+      "technical_takeaway": "Independent validator network for resolving AI agent disputes in high-stakes economies (projected $9T by 2030); focuses on payments, identity, and interoperability when agents disagree.",
+      "author_handle": "@when_tge",
+      "post_url": "https://x.com/when_tge/status/2074440143973335045"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "AI agent wallet integration",
+      "technical_takeaway": "Agents need on-chain wallets for real autonomy (trading, prediction markets) beyond chatbots; partnership enables gasless execution.",
+      "author_handle": "@NeoSoulAI",
+      "post_url": "https://x.com/NeoSoulAI/status/2074434691609027017",
+      "reason": "Lower signal; promotional rather than deep technical innovation or benchmark."
+    }
+  ],
+  "notes": "Fable 5 dominates recent discussion as a high-capability agentic coding/model tool. Seed experts provided the strongest technical signals on architectures, memory, and interventions. Global search yielded mostly Fable chatter; filtered to max 6 high-signal items total."
+}
