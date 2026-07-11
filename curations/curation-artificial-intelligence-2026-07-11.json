@@ -1,0 +1,54 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "LangChain Open Source Models & Memory Launch",
+      "technical_takeaway": "Partnership with NVIDIA for NemoClaw DeepAgents blueprint pairing open-source model-agnostic harness with Nemotron 3; new OpenWiki version for proactive personal brains from sources like Gmail; emphasizes owning full stack from model to context level.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2075620940466315608"
+    },
+    {
+      "project": "OpenSWE",
+      "technical_takeaway": "Open-source agentic harness for internal coding/automation, model-agnostic, integrates with LangSmith for observability; alternative to closed internal agents at companies like Sierra/Ramp.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2075596953912799395"
+    },
+    {
+      "project": "OpenWiki Brains / Proactive Memory",
+      "technical_takeaway": "Agent memory shifted from reactive to proactive via OpenWiki: connect sources, specify interests, agents start with context; open-source with local config and architecture details.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2075627319688065357"
+    },
+    {
+      "project": "Codex Agent Hooks & Permissions",
+      "technical_takeaway": "Default user approval for tool calls in coding agents; options for expanded permissions; hooks documentation for advanced agent control.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2075840207807558083"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Gemini 3.5 / Fable / GPT timelines",
+      "technical_takeaway": "Model release delay discussions and competitive timelines.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2075815752213712959",
+      "reason": "High-level market commentary, not technical innovation or implementation details."
+    },
+    {
+      "project": "Various agent/crypto integrations",
+      "technical_takeaway": "Agent-to-agent transactions on chains like Robinhood.",
+      "author_handle": "@DegenCapitalLLC",
+      "post_url": "https://x.com/DegenCapitalLLC/status/2075869534104564170",
+      "reason": "Primarily crypto/finance focused, low technical AI depth."
+    },
+    {
+      "project": "swyx casual replies",
+      "technical_takeaway": "Mentions of evals and rankings.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2075831988809077161",
+      "reason": "Casual non-technical conversation, no new frameworks or breakthroughs."
+    }
+  ],
+  "notes": "Seed experts yielded limited high-signal technical posts in 24h window; focused on LangChain memory/agent OSS work as strongest matches. Global search returned mostly noise/unrelated content despite operators."
+}
