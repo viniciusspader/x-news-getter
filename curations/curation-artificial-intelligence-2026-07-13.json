@@ -1,0 +1,39 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "GPT-5.6-Sol-Ultra Minecraft Clone in Lean",
+      "technical_takeaway": "Advanced math-capable model builds full Minecraft clone using Lean theorem prover, highlighting formal verification and creative coding bounds in AI.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2076613285642723377"
+    },
+    {
+      "project": "Claude Fable 5 Constrained Generation Demo",
+      "technical_takeaway": "Model explains Super Smash Bros. Melee 'wave-dashing' using only words from Mary Shelley's Frankenstein text, showcasing precise lexical constraint handling.",
+      "author_handle": "@goodside",
+      "post_url": "https://x.com/goodside/status/2076478243750756359"
+    },
+    {
+      "project": "ChatGPT 5.6 Sol MIT License Explanation",
+      "technical_takeaway": "Model explains MIT License in one paragraph using only words from 1920s Al Bowlly songs, demonstrating creative constrained text generation.",
+      "author_handle": "@goodside",
+      "post_url": "https://x.com/goodside/status/2076471402413043843"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Cursor AI Side Chats & Agent Features",
+      "technical_takeaway": "Cursor adds side chats with @-mentions for context, agent transcript search, cloud hooks, and redesigned repo pickers for improved AI coding workflows.",
+      "author_handle": "@CerebroneAI",
+      "post_url": "https://x.com/CerebroneAI/status/2076620629692821692"
+    },
+    {
+      "project": "MAREF AI Agent Framework",
+      "technical_takeaway": "Open-source MAREF framework orchestrates AI agents for social media automation, phone tasks, and cross-device workflows targeted at creators.",
+      "author_handle": "@franki89974",
+      "post_url": "https://x.com/franki89974/status/2076620624588583142"
+    }
+  ],
+  "near_misses": [],
+  "notes": "Limited high-signal posts in 24h window from seeds; focused on notable capability demos and tool updates. Global search yielded mostly noise, with 2 relevant AI tool/framework mentions selected."
+}
