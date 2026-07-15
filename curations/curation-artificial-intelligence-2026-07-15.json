@@ -1,0 +1,54 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Frontier Model Router",
+      "technical_takeaway": "Custom router combining best LLMs per task (e.g., GPT 5.6 Sol for data analysis, Fable/Opus 4.8 for coding) usable in any harness like Abacus AI or Claude.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2077252056931561708"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Claude Code Free Redirect Repo",
+      "technical_takeaway": "GitHub repo redirects Claude Code to 10 free providers (Deepseek, Kimi etc.) for zero-cost execution; stable for 20k+ users, changes coding economics.",
+      "author_handle": "@zaynmcps",
+      "post_url": "https://x.com/zaynmcps/status/2077329669230088428"
+    },
+    {
+      "project": "all-agentic-architectures",
+      "technical_takeaway": "Repo with working code for 35 AI agent architectures (Reflexion, GraphRAG, MemGPT etc.); unified .run(task) interface, 17-task benchmark, supports 9 providers.",
+      "author_handle": "@repocatai_git",
+      "post_url": "https://x.com/repocatai_git/status/2077000333977645064"
+    },
+    {
+      "project": "Injective AI Agent SDK",
+      "technical_takeaway": "New SDK bundles CLI, AI skills, MCP servers and chain integrations for building autonomous onchain agents that research, transact and automate DeFi with sub-second settlement.",
+      "author_handle": "@World100x",
+      "post_url": "https://x.com/World100x/status/2077328342076788792"
+    },
+    {
+      "project": "The Curator",
+      "technical_takeaway": "Local-first open-source second brain with MCP server allowing agents to directly read/write memory; paired with Conduit prompt-based agent framework.",
+      "author_handle": "@talirezun",
+      "post_url": "https://x.com/talirezun/status/2076918463168200753"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Computer Use Automation",
+      "technical_takeaway": "Praise for computer use enabling full automation of knowledge work drudgery.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2077277071156695514",
+      "reason": "Commentary only, no new repo/framework or technical details released in past 24h."
+    },
+    {
+      "project": "Persistent Memory for Agents",
+      "technical_takeaway": "Discussion on persistent memory as key unlock for true agent autonomy.",
+      "author_handle": "@scream_crypto",
+      "post_url": "https://x.com/scream_crypto/status/2077048513993609410",
+      "reason": "General discussion, no specific new technique or implementation shared."
+    }
+  ],
+  "notes": "Very limited high-signal technical posts in the exact 24h window from seeds or global searches matching criteria. Focused on actual new repos/frameworks mentioned."
+}
