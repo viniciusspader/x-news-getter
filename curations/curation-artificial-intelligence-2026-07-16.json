@@ -1,0 +1,29 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "AutoBots - Multi-LLM Self-Improving Agents",
+      "technical_takeaway": "Recursively self-improving autonomous AI agents using tiered LLMs (Deepseek/Kimi for easy, Sonnet/Grok for medium, Opus/Sol for hard, Fable for coding) that run on schedule/trigger to automate work; goal is employees monitoring role-specific agents.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2077640358406783007"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Claude Fable 5 Max SVG generation",
+      "technical_takeaway": "Demonstrates advanced SVG generation capabilities with harder variations like 'pelican on bicycle chasing through Backrooms' as basic prompts saturate.",
+      "author_handle": "@goodside",
+      "post_url": "https://x.com/goodside/status/2077600091259482476",
+      "reason": "Visual demo of model capability but not a new framework/repo or actionable technical update."
+    },
+    {
+      "project": "Coding agent safety practices",
+      "technical_takeaway": "Advice on using Rules, Sandbox, Approve mode & Hooks instead of full-access to prevent rare file deletion issues in agents like GPT-5.6/Codex.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2077631651203432508",
+      "reason": "Practical safety tip for agent use but not an innovation or new tool release."
+    }
+  ],
+  "notes": "Seed search yielded one strong agent-related post from bindureddy; global search with broad terms returned mostly low-signal or unrelated content in the past 24h. No new open-source repos or major architecture breakthroughs surfaced."
+}
