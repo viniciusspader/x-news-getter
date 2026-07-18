@@ -1,0 +1,47 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Claude Fable 5",
+      "technical_takeaway": "Claude generates solved crossword puzzles themed on first 150 Pokémon, rendered as a seamless 10s looping video on a toroidal surface that wraps without edges.",
+      "author_handle": "@goodside",
+      "post_url": "https://x.com/goodside/status/2078243201740103878"
+    },
+    {
+      "project": "Personal Codex",
+      "technical_takeaway": "Self-updating personal AI codex that maintains its own knowledge base via agentic updates, enabling automation of life admin and single-use software builds.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2078221646620479649"
+    },
+    {
+      "project": "Evals Hiring at LangChain",
+      "technical_takeaway": "Emphasis on specialized roles for rigorous evals and benchmarks to advance agent reliability and performance measurement.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2078224247688945776"
+    },
+    {
+      "project": "GraphRAG & Agent Discussions",
+      "technical_takeaway": "Long-standing focus on graph-based retrieval for agents, highlighting persistent relevance in agentic architectures.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2078322202383090110"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Internet Court for Agent Commerce",
+      "technical_takeaway": "Open skill for agent-to-agent contracts, negotiation, payment, execution, and dispute resolution in agentic commerce stacks.",
+      "author_handle": "@courtofinternet",
+      "post_url": "https://x.com/courtofinternet/status/2075565797007609898",
+      "reason": "Agent orchestration theme but low technical depth on implementation or new repo/framework in past 24h posts."
+    },
+    {
+      "project": "ZK Compliance Oracle for Agents",
+      "technical_takeaway": "ZK proofs for compliance verification in agent transactions without exposing history, applied to FX/stablecoin arbitrage.",
+      "author_handle": "@MCGlive",
+      "post_url": "https://x.com/MCGlive/status/2078299466260447314",
+      "reason": "Efficiency/automation angle but crypto-focused and not core AI architecture innovation."
+    }
+  ],
+  "notes": "Limited high-signal technical posts in past 24h from seeds; global search yielded mostly low-relevance or non-technical agent mentions. Focused on clearest AI-relevant updates like video gen, personal agents, and evals."
+}
