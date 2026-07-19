@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Model routing on ChatLLM",
+      "technical_takeaway": "Automatically routes to best models per use case (e.g., Sonnet 4.6/Kimi for medium agentic, Grok 4.5 for PDF/agentic simple) with fallback graph of backup models for reliability.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2078687965149336024"
+    },
+    {
+      "project": "LangChain OSS software factory",
+      "technical_takeaway": "Dcode, openswe, openswe review, open wiki combine into fully open-source software engineering automation pipeline.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2078576948922708200"
+    },
+    {
+      "project": "Continuous project memory enrichment",
+      "technical_takeaway": "Automatically gather context from related projects/sessions, enrich continuously, and append to persistent memory for every task.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2078627419297075400"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Europe AI talent arena",
+      "technical_takeaway": "Europe hosts top AI engineers; competitive global arena measured by talks/workshops as WF eval window approaches.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2078628617987518855",
+      "reason": "Commentary on talent but not a new technical update, repo, or framework."
+    },
+    {
+      "project": "AEO revenue impact",
+      "technical_takeaway": "AI Engine Optimization (AEO) projected to drive $1M revenue via ChatGPT referrals at current rates.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2078581967768166591",
+      "reason": "Business implication of AI search/optimization, not core technical innovation."
+    }
+  ],
+  "notes": "Searches limited to past 24h (since 2026-07-18). Seed experts yielded limited high-signal technical content; global broad search returned mostly unrelated noise. No new open-source repos or major architecture breakthroughs identified meeting strict criteria."
+}
