@@ -1,0 +1,53 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "LLM Voice Rambling Interaction",
+      "technical_takeaway": "Using extended voice rambles (stream of consciousness) with LLMs improves context understanding and reduces corrections by allowing models to reconstruct and clean up incoherent thoughts.",
+      "author_handle": "@karpathy",
+      "post_url": "https://x.com/karpathy/status/2079610838143623371"
+    },
+    {
+      "project": "Devin Outposts",
+      "technical_takeaway": "Devin AI software engineer now supports running on any machine including Mac mini, GPU boxes, VMs, or Kubernetes clusters, emphasizing separable control/data planes in agent architectures.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2079775327539339329"
+    },
+    {
+      "project": "One-Person AI Companies",
+      "technical_takeaway": "Explosion of solo founders using AI for full app development, marketing, and operations with free backend/hosting and open-source models on platforms like Abacus AI.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2079774566898118898"
+    },
+    {
+      "project": "LangSmith Voice Agent Tracing",
+      "technical_takeaway": "Native tracing integrations for voice frameworks (Pipecat, LiveKit, OpenAI Realtime, Gemini Live) to make voice agents observable in production rather than black boxes.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2079620091545784583"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Multi-Agent Workflow Design",
+      "technical_takeaway": "Multi-agent systems (node-edge-state like LangGraph/AutoGen) are needed when tasks split into distinct specialties; single-agent loops suffice otherwise to avoid unnecessary complexity.",
+      "author_handle": "@neil_xbt",
+      "post_url": "https://x.com/neil_xbt/status/2079873084870525200"
+    },
+    {
+      "project": "Vendo Customization Layer",
+      "technical_takeaway": "Open-source platform enabling users to build custom features/micro-apps on top of products, tailored for the agentic era of software.",
+      "author_handle": "@lopushok09",
+      "post_url": "https://x.com/lopushok09/status/2079872346194870574"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "AI Trading Agent Setup",
+      "technical_takeaway": "Non-custodial AI agents for trading with plain-English strategy definition and live decision logs.",
+      "author_handle": "@AbdulRehma77317",
+      "post_url": "https://x.com/AbdulRehma77317/status/2079871610681712970",
+      "reason": "More crypto/trading focused than core AI technical innovation."
+    }
+  ],
+  "notes": "Searches limited to past 24 hours (since 2026-07-21). Seed experts yielded high-signal posts on LLM techniques, agents, and observability. Global search surfaced agent orchestration patterns. Few ultra-novel repos/frameworks in window."
+}
