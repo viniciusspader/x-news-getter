@@ -1,0 +1,60 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Abacus AI Agent with long-term memory brain",
+      "technical_takeaway": "Long-running agent with self-correcting long-term memory boosts Fable-5 performance by 200%, enabling persistent recall across sessions for super-intelligence capabilities.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2080113130957631757"
+    },
+    {
+      "project": "LangChain evals automation",
+      "technical_takeaway": "Using coding agents with codebase + traces to iteratively build, run, and refine evals (via Harbor) reduces manual effort while keeping human-in-the-loop for direction and review.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2080012123401560070"
+    },
+    {
+      "project": "Open source vs closed AI trends",
+      "technical_takeaway": "Open-source AI sees 20% monthly performance gains and 50% cost drops; closed AI sees 10% gains but 20% cost increases, signaling open-source dominance.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2080201854731038823"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Mi-Memory framework",
+      "technical_takeaway": "Memory framework for personal AI agents using lifecycle roles (Structure, Expansion, Evolution, Deployment) without vector DB or cloud dependency; traceable governance substrate.",
+      "author_handle": "@nurbol_sakenov",
+      "post_url": "https://x.com/nurbol_sakenov/status/2079835500324802902"
+    },
+    {
+      "project": "Agent memory projects for coding agents",
+      "technical_takeaway": "Multiple open-source approaches: codebase structure memory, hybrid search retrieval, workspace context persistence, Markdown knowledge bases, and cross-vendor handoff continuity.",
+      "author_handle": "@milvusio",
+      "post_url": "https://x.com/milvusio/status/2079944561393037580"
+    },
+    {
+      "project": "Multi-agent orchestration patterns",
+      "technical_takeaway": "Parallel execution for independent steps in multi-agent systems dramatically reduces latency (e.g., 40 sequential calls from 5min to <15s) by avoiding unnecessary sequential waits.",
+      "author_handle": "@kv1nsiii",
+      "post_url": "https://x.com/kv1nsiii/status/2080232087995511073"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "CXL memory pooling for scale-up AI",
+      "technical_takeaway": "Proposes CXL-based composable memory fabric for LLM KV cache and state beyond accelerator HBM, separating memory semantics from interconnect fabrics.",
+      "author_handle": "@yyw2000",
+      "post_url": "https://x.com/yyw2000/status/2079771209169080735",
+      "reason": "Conceptual architecture discussion without new repo, benchmark, or implementation details."
+    },
+    {
+      "project": "Enterprise AI agent memory tiers",
+      "technical_takeaway": "4-tier memory (Working, Episodic, Semantic, Organizational) with Context Broker for dynamic assembly and ACLs to manage context bloat and permissions.",
+      "author_handle": "@cv_usk",
+      "post_url": "https://x.com/cv_usk/status/2080186903735963862",
+      "reason": "High-level pattern overview without specific new tools, code, or empirical results."
+    }
+  ],
+  "notes": "Limited high-signal technical releases in the 24h window; focused on memory and agent patterns from experts and global searches. Many posts were casual or non-AI."
+}
