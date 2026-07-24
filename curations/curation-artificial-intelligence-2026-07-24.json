@@ -1,0 +1,47 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Agentic GitHub clone prototype",
+      "technical_takeaway": "Dogfooding an agentic GitHub clone with built-in CI/CD via Workers for Platforms; focuses on feature exploration in agent tooling.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2080500752183960017"
+    },
+    {
+      "project": "Kimi K3 open-weight model",
+      "technical_takeaway": "Upcoming truly open-weight Kimi K3 model claimed 3x faster; suitable for migrating standard workloads from Sonnet or GPT 5.5 due to speed, cost, and performance gains.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2080452464898367874"
+    },
+    {
+      "project": "ChatGPT Voice enhancements",
+      "technical_takeaway": "Voice mode now supports app screenshots, browser interaction, MCPs/Apps, cross-thread/project work; enables brain-dumping thoughts for Codex to process with output relay.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2080407991665258733"
+    },
+    {
+      "project": "OpenWiki 0.2.3 with diagram support",
+      "technical_takeaway": "Adds sequence/architecture diagrams to wikis for codebase knowledge organization; reduces tokens for agents while providing structured data flows and relationships.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2080367820966363220"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Sentient study on AI agent failure modes",
+      "technical_takeaway": "Study shows agent looping/repetition (not just errors) as key failure predictor; suggests need for agents to detect dead-ends and adapt strategies.",
+      "author_handle": "@IMenlikovaOG",
+      "post_url": "https://x.com/IMenlikovaOG/status/2080594748398534697",
+      "reason": "Relevant to agent orchestration but indirect commentary on external study, not a new tool/release."
+    },
+    {
+      "project": "Local AI automation setup",
+      "technical_takeaway": "Rack of used PCs with TrueNAS and open-source models for local AI automation; charges $450/mo, cuts cloud costs 85%.",
+      "author_handle": "@SonnyFani",
+      "post_url": "https://x.com/SonnyFani/status/2080594240426385523",
+      "reason": "Practical efficiency example but lacks specific framework/repo details or benchmarks."
+    }
+  ],
+  "notes": "Searches limited to past 24h (since 2026-07-23). Only 4 seed experts posted relevant content; global search yielded low-signal results, hence near_misses only. Focused on technical AI agent/model/voice innovations."
+}
