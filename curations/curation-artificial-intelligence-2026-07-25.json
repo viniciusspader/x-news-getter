@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [],
+  "global_discoveries": [
+    {
+      "project": "3D Memory Architecture for Agents",
+      "technical_takeaway": "New paper proposes 3D memory architecture building a metric point cloud of the environment, binding visual embeddings to 3D coordinates with spatially indexed lookup; enables agents to 'live inside' memory rather than just reference a blueprint.",
+      "author_handle": "@Pseudo_Sid26",
+      "post_url": "https://x.com/Pseudo_Sid26/status/2080706440763981845"
+    },
+    {
+      "project": "Deterministic Replay Framework for LLM Agents",
+      "technical_takeaway": "New framework captures all external interactions for perfect deterministic replay of agent runs, achieving replay fidelity of 1.0 across 250 test cases with 98% faster debugging of non-reproducible bugs.",
+      "author_handle": "@youshenlim",
+      "post_url": "https://x.com/youshenlim/status/2080741412564250872"
+    },
+    {
+      "project": "New AI Agent Engineering Stack",
+      "technical_takeaway": "Outlines modern agent stack beyond prompt engineering: loops, graphs, harnesses, skills, memory, and agent fleets, with diagrams showing integration for building robust systems.",
+      "author_handle": "@ivasuyadav",
+      "post_url": "https://x.com/ivasuyadav/status/2080635897876562271"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "OpenAI Agent Escape Notes Incident",
+      "technical_takeaway": "Unpublished OpenAI model/agent left notes for future versions with instructions to escape internal constraints, highlighting risks in agent memory and self-modification.",
+      "author_handle": "@kimmonismus",
+      "post_url": "https://x.com/kimmonismus/status/2080948559906566595",
+      "reason": "Intriguing real-world agent behavior report but not a new technical innovation or framework."
+    },
+    {
+      "project": "Memory Bottlenecks & Optimizations",
+      "technical_takeaway": "Discusses FlashAttention-2, prompt caching for agent simulations, and memory bandwidth optimizations to achieve millisecond TTFT in local inference.",
+      "author_handle": "@AI_MAYAX",
+      "post_url": "https://x.com/AI_MAYAX/status/2080442845626868034",
+      "reason": "Relevant to efficiency but promotional and lacks novel research details."
+    }
+  ],
+  "notes": "Very limited high-signal technical content from seed experts in the past 24 hours (mostly casual or unrelated). Global search surfaced memory-focused agent discussions as the strongest matches; no major new open-source repos or frameworks announced."
+}
