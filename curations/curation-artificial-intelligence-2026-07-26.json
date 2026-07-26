@@ -1,0 +1,54 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Opus 5 vs Fable 5 comparison",
+      "technical_takeaway": "Fable 5 is faster and cheaper than Opus 5 for agent tasks; Opus 5 is more prescriptive and detailed but risk-averse and slower.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2081259575412715566"
+    },
+    {
+      "project": "Open source AI for safety",
+      "technical_takeaway": "Transparent open-source approaches are the best path to safe AI, avoiding monopolies and enabling scrutiny over closed models.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2081069034758607006"
+    },
+    {
+      "project": "LangChain agent harness and traces",
+      "technical_takeaway": "Public trace sharing and model hosting/fine-tuning capabilities enhance agent debugging and collaboration in frameworks like LangChain.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2081163623330894187"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "GrapeRoot memory layer for agents",
+      "technical_takeaway": "Memory infrastructure for long-running agents achieves 95%+ on LongMemEval benchmark, outperforming mem0 and others for persistent recall.",
+      "author_handle": "@krishnakantdev",
+      "post_url": "https://x.com/krishnakantdev/status/2081229861214117995"
+    },
+    {
+      "project": "PRO-LONG memory system",
+      "technical_takeaway": "Lightweight structured interaction log for LLM agents boosts long-horizon performance by ~21 points on ARC-AGI-3 at 4x lower token cost than prior harnesses.",
+      "author_handle": "@stretchcloud",
+      "post_url": "https://x.com/stretchcloud/status/2081304769084481920"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Open Weights Movement event",
+      "technical_takeaway": "Community gathering of 500+ builders supporting open AI weights and frontier models.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2081142196510843374",
+      "reason": "Event announcement rather than specific technical innovation or benchmark."
+    },
+    {
+      "project": "Karpathy team announcement",
+      "technical_takeaway": "Potential new role or project reveal via essay instead of bio change.",
+      "author_handle": "@karpathy",
+      "post_url": "https://x.com/karpathy/status/2081195664479068350",
+      "reason": "Vague on technical details; more personal/professional update."
+    }
+  ],
+  "notes": "Limited high-signal technical posts in the 24h window from seeds; global search surfaced memory management innovations as strongest matches. Focused on agent/memory themes per criteria."
+}
