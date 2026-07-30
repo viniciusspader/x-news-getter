@@ -1,0 +1,54 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "OpenWiki + LangSmith tracing for coding agents",
+      "technical_takeaway": "Background process analyzes LangSmith traces of coding agents interacting with repos to dynamically update a codebase wiki, enabling 'dreaming' memory and better context for agents like Claude Code or Codex.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2082536230181650862"
+    },
+    {
+      "project": "Deep agents 0.7",
+      "technical_takeaway": "Update to deep agents framework, highlighting advancements in agent capabilities.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2082513111018586397"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Dot Loom Conductor 14B",
+      "technical_takeaway": "Open-source (Apache 2.0) research release including Rank-32 LoRA adapter on Mistral 14B, 11k orchestration corpus, achieving 90.8% execution-plan accuracy (+11.5pp over deterministic), model-agnostic orchestration with learned policies for agents; supports multiple models and endpoints.",
+      "author_handle": "@usedotai",
+      "post_url": "https://x.com/usedotai/status/2082771439715746175"
+    },
+    {
+      "project": "China open-sourced local memory system",
+      "technical_takeaway": "Fully local memory system for AI agents providing long-term recall while cutting token usage by 61%.",
+      "author_handle": "@RoundtableSpace",
+      "post_url": "https://x.com/RoundtableSpace/status/2082734187249872976"
+    },
+    {
+      "project": "TencentDB Agent Memory",
+      "technical_takeaway": "Open-source (MIT) local-first hierarchical memory (raw convos, atomic facts, summaries, persona) with SQLite backend; improves persona accuracy 48%->76%, cuts tokens 61%, boosts SWE-bench; part of growing structured memory trend vs naive RAG.",
+      "author_handle": "@stretchcloud",
+      "post_url": "https://x.com/stretchcloud/status/2082750797096558984"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "ChatGPT Work daily planning",
+      "technical_takeaway": "Uses cloud tools to aggregate Slack/Gmail/calendar for day planning across surfaces.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2082718766207471824",
+      "reason": "Practical agent use case but not a new framework/repo/innovation."
+    },
+    {
+      "project": "Persistent memory infrastructure (RetainDB, Mem0, Zep, Letta, etc.)",
+      "technical_takeaway": "Various memory layers for long-term recall, graph/vector hybrids in agents.",
+      "author_handle": "@Demi1ig",
+      "post_url": "https://x.com/Demi1ig/status/2082301825395421605",
+      "reason": "Relevant to memory but summaries of existing projects without new high-signal release."
+    }
+  ],
+  "notes": "Very limited high-signal technical posts in the 24h window from seeds or global search matching strict criteria. Focused on the strongest matches around agent orchestration and memory systems."
+}
