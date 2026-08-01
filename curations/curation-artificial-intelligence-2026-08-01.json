@@ -1,0 +1,35 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "OpenAI Astra internal model",
+      "technical_takeaway": "Internal Astra model solved 10 long-standing open problems in math and theoretical CS at ~$2000 token cost, then auto-formalized proofs in Lean; repo at github.com/openai/ten-proofs",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2083474385252364537"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "TencentDB Agent Memory",
+      "technical_takeaway": "Open-source four-tier persistent memory framework (L0 raw convos → L1 facts → L2 scenarios → L3 persona) plus shared skills/wiki/code-graph assets; 61% token reduction, self-hostable, framework-neutral, MIT-licensed Docker setup for agent fleets",
+      "author_handle": "@svpino",
+      "post_url": "https://x.com/svpino/status/2083209823412510846"
+    },
+    {
+      "project": "TencentDB Agent Memory (detailed breakdown)",
+      "technical_takeaway": "Extracts layered chat memory, executable skills, linked wiki docs, and code graphs from sessions; team ACLs and local LLM support turn memory into shared team asset rather than single-agent scratchpad",
+      "author_handle": "@neil_xbt",
+      "post_url": "https://x.com/neil_xbt/status/2083375916181307482"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "LangChain Agent Data Stack",
+      "technical_takeaway": "Overview of production agent infrastructure covering memory, tools, eval, and orchestration patterns",
+      "author_handle": "@rsnkyx",
+      "post_url": "https://x.com/rsnkyx/status/2083409890698289219",
+      "reason": "High-level framework discussion without new repo or specific benchmark/innovation details"
+    }
+  ],
+  "notes": "Seed search yielded only one high-signal post from listed experts; global semantic/keyword searches surfaced strong memory-management innovations but limited additional technical breakthroughs in the 24h window."
+}
