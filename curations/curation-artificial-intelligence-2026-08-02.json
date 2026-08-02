@@ -1,0 +1,60 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Opus 5 LoTR 3js procedural render",
+      "technical_takeaway": "LLM with 1M token budget generates 5500 lines of 3js code to procedurally render and animate Lord of the Rings story over 2 hours, highlighting stamina for hyper-custom worlds/games but weakness in native video/game auditing",
+      "author_handle": "@karpathy",
+      "post_url": "https://x.com/karpathy/status/2083749667410727319"
+    },
+    {
+      "project": "Clanker repo agents",
+      "technical_takeaway": "Every repository gets its own agent for decision logging and automation; protocol focus over specific tech stack",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2083695562004771063"
+    },
+    {
+      "project": "Fable self-improving agents",
+      "technical_takeaway": "Self-improving agents on Fable 5 can solve any problem; rapid adoption risk for competitors like OpenAI Astra",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2083604322294825292"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "MemoryCustodian",
+      "technical_takeaway": "Agent-first memory system with manifest context, stale memory correction, conflict audits, and cross-agent handoffs for repo-native persistent memory",
+      "author_handle": "@jvivas_official",
+      "post_url": "https://x.com/jvivas_official/status/2083563281730662594"
+    },
+    {
+      "project": "Agent memory repo (MIT licensed)",
+      "technical_takeaway": "Extracts layered chat memory, executable skills/workflows, wiki graphs, code graphs, and team ACLs from sessions for cumulative team memory decoupled from frameworks; runs locally in Docker",
+      "author_handle": "@neil_xbt",
+      "post_url": "https://x.com/neil_xbt/status/2083375916181307482"
+    },
+    {
+      "project": "29k+ star open-source memory repo",
+      "technical_takeaway": "AI agents build long-term memory using context graphs for persistent recall and orchestration",
+      "author_handle": "@RoundtableSpace",
+      "post_url": "https://x.com/RoundtableSpace/status/2083474062349574228"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "BNB Chain agent economy standards",
+      "technical_takeaway": "ERC-8004, BAP-578, x402, ERC-8183 for agent identity, capability, payments, accountability",
+      "author_handle": "@BNBCHAIN",
+      "post_url": "https://x.com/BNBCHAIN/status/2083825143969685845",
+      "reason": "More blockchain-focused than core AI technical innovation"
+    },
+    {
+      "project": "OpenAI Astra multi-agent system",
+      "technical_takeaway": "Long-running tasks with multiple agents collaborating on hard projects and math",
+      "author_handle": "@chetaslua",
+      "post_url": "https://x.com/chetaslua/status/2083834074729480696",
+      "reason": "Rumors/leaks without specific technical details or repo"
+    }
+  ],
+  "notes": "Searches limited to past 24 hours (since 2026-08-01). Seed experts yielded 3 high-signal posts on LLM code gen, repo agents, and self-improving agents. Global search prioritized memory/orchestration innovations; many results were low-signal or off-topic (e.g., sports, politics). Max 6 per section enforced; near_misses for borderline items."
+}
