@@ -1,0 +1,53 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "RouteLLM API on Abacus AI",
+      "technical_takeaway": "Single API to automatically route tasks to the best LLM (open or closed) based on performance and cost, with prompt caching handled; enables mixing models dynamically.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2084184386291855561"
+    },
+    {
+      "project": "Qwen3.8-Max open source release",
+      "technical_takeaway": "2.4T parameter model claimed to reach Sonnet-class performance, open-sourced soon with low pricing ($2/M input, $6/M output, $0.25/M implicit caching), closing gap to closed models.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2084126550316962231"
+    },
+    {
+      "project": "ChatGPT Work (Blender integration)",
+      "technical_takeaway": "Agent installs Blender, models 3D chess sets from historical games, renders videos, and returns editable .blend files; demonstrates reliable tool use and output of real assets.",
+      "author_handle": "@goodside",
+      "post_url": "https://x.com/goodside/status/2084104350947807389"
+    },
+    {
+      "project": "karpathy.ai/lotr-movie procedural demo",
+      "technical_takeaway": "Browser-playable example combining procedural code for storyboarding/control with video-to-video models for texturing; highlights hybrid AI + code pipelines for creative tasks.",
+      "author_handle": "@karpathy",
+      "post_url": "https://x.com/karpathy/status/2083948654377996480"
+    },
+    {
+      "project": "Latent Space Codex computer-use pod",
+      "technical_takeaway": "Live examples of Codex handling real support chats autonomously with receipts and escalation; tracks 'wow moments' in agent reliability for practical workflows.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2084156733027701164"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "World prediction market for AI agents",
+      "technical_takeaway": "Infrastructure allowing AI agents to directly access and trade on prediction markets without user intervention, via integrations like PayBox.",
+      "author_handle": "@Caesars_Clips",
+      "post_url": "https://x.com/Caesars_Clips/status/2084233387309428910",
+      "reason": "Mentions agent workflows but lacks deep technical details or new repo/framework."
+    },
+    {
+      "project": "RunePool for AI agent economy",
+      "technical_takeaway": "On-chain liquidity and execution enabling autonomous agents to access capital.",
+      "author_handle": "@RunePoolBTC",
+      "post_url": "https://x.com/RunePoolBTC/status/2084232879949668508",
+      "reason": "High-level thesis on agent economy; not a specific technical update or benchmark."
+    }
+  ],
+  "notes": "Seed experts yielded several relevant LLM/agent updates in past 24h; global keyword search returned mostly unrelated or low-signal content, so near_misses used for closest agent-economy mentions. Max 5 seed items selected for highest signal."
+}
