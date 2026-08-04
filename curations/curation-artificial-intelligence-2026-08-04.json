@@ -1,0 +1,47 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Qwen 3.8",
+      "technical_takeaway": "Strong at agentic coding, only slightly worse than K3 but 2x cheaper; top model in its price range for practical agent workflows.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2084525790176444525"
+    },
+    {
+      "project": "LangChain Managed Deep Agents",
+      "technical_takeaway": "Public beta adds opinionated evals (Harbor), agent/user-level memory, OAuth for tools, Slack/GitHub integrations, and sandbox support to let developers focus on agent logic instead of infra.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2084449633955115352"
+    },
+    {
+      "project": "Computer Use Agents (CUA)",
+      "technical_takeaway": "Bots now handle support chats, clear captchas, and escalate issues with full receipts; questions whether captchas remain viable against capable agents.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2084312752437481937"
+    },
+    {
+      "project": "OpenAI Codex",
+      "technical_takeaway": "New GitHub repo provides a harness for computer-use agent development and testing.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2084487109373530545"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Microsoft Agent Framework Memory Engineering",
+      "technical_takeaway": "Free public-preview guide shows how a managed memory layer (consolidation, scoping, shared stores) turns stateless agents into persistent, contradiction-aware systems that share context across agents without repetition.",
+      "author_handle": "@N01ennn",
+      "post_url": "https://x.com/N01ennn/status/2084585849207890135"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "DeepSeek V4 Flash / Qwen comparisons",
+      "technical_takeaway": "Cost/performance benchmarks for small models in agentic tasks, but mostly hype vs. practical routing advice.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2084355533658874302",
+      "reason": "Benchmark discussion rather than new framework or architecture innovation."
+    }
+  ],
+  "notes": "Limited high-signal technical posts in the 24h window from seed experts or global search; focused on agent memory, infra, and cost-efficient models. No major new open-source repos or architecture breakthroughs surfaced."
+}
