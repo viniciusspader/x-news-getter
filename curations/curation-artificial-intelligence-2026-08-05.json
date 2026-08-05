@@ -1,0 +1,53 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "SSI Continual Learning Drop",
+      "technical_takeaway": "Speculation that Ilya’s SSI will announce breakthrough in continual learning enabling AI to learn on the fly, a major potential advance if true.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2084874057586205042"
+    },
+    {
+      "project": "Open Source AI Dominance 2027",
+      "technical_takeaway": "Prediction that open source AI will win long-term due to Chinese labs collecting high-quality agentic traces, advantages in memory/chips/power, and need to open source for trust.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2084839055586726272"
+    },
+    {
+      "project": "open-swe",
+      "technical_takeaway": "Open source starterkit from LangChain for building your own cloud agent orchestrator to 'own your intelligence'.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2084849762625536099"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Claude Opus 5 Self-Improving Agents",
+      "technical_takeaway": "Anthropic engineers use loops + 'dreaming' + CLAUDE.md for self-improving agents that get better while sleeping; close the loop for output verification.",
+      "author_handle": "@polydao",
+      "post_url": "https://x.com/polydao/status/2084946263485624732"
+    },
+    {
+      "project": "NarraNexus Agent Teams",
+      "technical_takeaway": "Multi-agent collaboration platform with persistent memory, task splitting, inter-agent communication, storylines, and historical event tracking for long-term recall.",
+      "author_handle": "@yanhua1010",
+      "post_url": "https://x.com/yanhua1010/status/2084945596570611737"
+    },
+    {
+      "project": "AI Agent Delegation Framework",
+      "technical_takeaway": "Analysis of why AI agent adoption is low: requires learned delegation skills like natural language programming and junior employee management; ROI calculation for when to delegate.",
+      "author_handle": "@paraschopra",
+      "post_url": "https://x.com/paraschopra/status/2084947103596609898"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "24/7 Agentic System",
+      "technical_takeaway": "Example setup using GPT Luna as worker and Opus 5 as auditor in looped automated system.",
+      "author_handle": "@kenn_ronin",
+      "post_url": "https://x.com/kenn_ronin/status/2084947250640212390",
+      "reason": "Basic example rather than novel framework or breakthrough."
+    }
+  ],
+  "notes": "Searches limited to past 24 hours yielded limited ultra-high-signal technical posts from seeds; focused on agent/orchestration/memory themes. Global search added practical agent patterns and explanations."
+}
