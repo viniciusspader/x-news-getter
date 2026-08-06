@@ -1,0 +1,45 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "open-swe",
+      "technical_takeaway": "Open source starterkit for building your own cloud agent orchestrator, emphasizing ownership of intelligence in agent systems.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2084849762625536099"
+    },
+    {
+      "project": "Self-Improving Agents",
+      "technical_takeaway": "Recursively self-improving agents using frontier models like Fable 5 and DeepSeek Flash for complex tasks, enabling autonomous goal achievement like viral growth or profit maximization.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2085193072355545220"
+    },
+    {
+      "project": "Forge multiagent harness",
+      "technical_takeaway": "Primitive multiagent orchestration via dependent threads in coding agents, creating implicit kanban graphs for platform-product workflows.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2085253030417461661"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Memory Engineering for Agents",
+      "technical_takeaway": "Formalizes memory as core state-management with write-manage-read loops, unifying temporal scope and policy-learned retention to turn stateless LLMs into adaptive agents; includes context compression, episodic history, and reflective updates.",
+      "author_handle": "@beamnxw",
+      "post_url": "https://x.com/beamnxw/status/2084985269975928983"
+    },
+    {
+      "project": "Cognitive Workspace / Memory Engineering",
+      "technical_takeaway": "Replaces passive RAG with hierarchical cognitive buffers and active curation for 18% efficiency gain and 58.6% memory reuse; solves context degradation via task/episodic buffers and consolidation layers.",
+      "author_handle": "@beamnxw",
+      "post_url": "https://x.com/beamnxw/status/2084951600716530032"
+    },
+    {
+      "project": "Meta Memory Agent Architecture",
+      "technical_takeaway": "Separate Memory Agent reviews trajectories, updates structured memory bank, and selectively injects reminders to prevent behavioral state decay; yields 8.3pp gains on benchmarks with Claude models.",
+      "author_handle": "@Intellectualins",
+      "post_url": "https://x.com/Intellectualins/status/2084897193836912644"
+    }
+  ],
+  "near_misses": [],
+  "notes": "Seed experts had limited high-signal technical posts in the window; global search surfaced strong memory engineering content matching priorities. No new repos/frameworks beyond the mentioned starterkit."
+}
