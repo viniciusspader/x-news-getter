@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Deepseek Flash model",
+      "technical_takeaway": "Enables 100x cheaper agentic loops with no loss in quality for easy tasks, making intelligence too cheap to meter.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2085615956852936881"
+    },
+    {
+      "project": "ARC-AGI re-test on GPT-5.6 Luna",
+      "technical_takeaway": "Maintains high performance (59.6% ARC-AGI-2, 90.7% ARC-AGI-1) at 80% lower cost ($0.18/$0.07 per task).",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2085616395262599241"
+    },
+    {
+      "project": "AI-devblog skill",
+      "technical_takeaway": "Elicits user story interpretation, traces reading faithfully, and generates visuals for AI-assisted dev blogging.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2085616830786543667"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Agentic Coding Workshop",
+      "technical_takeaway": "Covers building advanced coding agents with models, tools, guardrails, skills, commands, and prompting.",
+      "author_handle": "@zivergetech",
+      "post_url": "https://x.com/zivergetech/status/2085645689690681660",
+      "reason": "Promotional workshop announcement, lacks specific technical details or new repo/framework release."
+    },
+    {
+      "project": "AI Agent Economy on Base",
+      "technical_takeaway": "x402 support enables agents to pay for web data autonomously without keys or subscriptions.",
+      "author_handle": "@Sifat551_",
+      "post_url": "https://x.com/Sifat551_/status/2085642005930283287",
+      "reason": "Conceptual discussion on agent payments, not a new open-source tool or architecture innovation."
+    }
+  ],
+  "notes": "Seed experts had limited activity in the past 24h; focused on efficiency gains and benchmarks. Global search yielded mostly promotional agent economy content with low technical signal, hence near_misses only."
+}
