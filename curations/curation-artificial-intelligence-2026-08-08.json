@@ -1,0 +1,34 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Kill My SaaS Hackathon",
+      "technical_takeaway": "Remote hackathon using any coding agents/models (up to $500 tokens) to clone enterprise SaaS in a weekend; winner gets $10k, all code open-sourced; extends to ambitious SMB SaaS until boundary of what's still hard to replicate.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2085995879966921177"
+    },
+    {
+      "project": "Recursively Self-Improving Agents",
+      "technical_takeaway": "AI agents (e.g., Fable 5 paired with self-improving tasks on Abacus AI) that run entire companies, manage trading, or run experiments to maximize profits/metrics autonomously.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2085957052309082614"
+    },
+    {
+      "project": "Agents.md Best Practices",
+      "technical_takeaway": "Key rules for agent prompts: be concise/direct/candid, challenge assumptions, ask questions only on ambiguous/risky decisions, keep changes simple, test observable behavior, preserve goals, use skills/subagents judiciously.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2085932251070775490"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Cloudflare Browser Run",
+      "technical_takeaway": "Cloud-hosted headless browser service (REST API or Puppeteer/Playwright sessions) for AI agents to render JS-heavy pages, extract Markdown/structured data, automate tasks; scales to thousands, ~$0.09/hour, integrates with Workers/Agents.",
+      "author_handle": "@pirrer",
+      "post_url": "https://x.com/pirrer/status/2086002542161375471",
+      "reason": "Relevant to agent web interaction/memory but not from seed experts and more infrastructure than core AI innovation."
+    }
+  ],
+  "notes": "Seed phase yielded 3 high-signal agent-related posts from @swyx, @bindureddy, @reach_vb in past 24h. Global search (agent/orchestration/etc. since 2026-08-07) returned mostly unrelated crypto/football content; no additional high-signal technical AI updates found."
+}
