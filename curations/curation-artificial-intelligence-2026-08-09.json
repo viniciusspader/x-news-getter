@@ -1,0 +1,59 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "LLM-as-judge evals for Kill My SaaS competition",
+      "technical_takeaway": "swyx shipped initial LLM-as-judge evaluations allowing competitors to validate solutions quickly; highlights dynamic workflows like Anthropic's Ultracode for efficient agentic coding in time-constrained challenges.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2086348591518585026"
+    },
+    {
+      "project": "Anthropic Ultracode dynamic workflows",
+      "technical_takeaway": "Ultracode enables powerful dynamic workflows for coding agents; competitors achieved strong results in just 3 prompts, underscoring its importance for long-horizon tasks.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2086324411385426346"
+    },
+    {
+      "project": "Gemini 3.5 Pro potential release and pricing",
+      "technical_takeaway": "Possible imminent release of Gemini 3.5 Pro as an Opus-class model at competitive (Luna-like) pricing, following OpenAI's strategy for broader adoption.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2086320369695383833"
+    },
+    {
+      "project": "Managed agents architecture (Anthropic)",
+      "technical_takeaway": "Emphasizes separating 'brain' (reasoning) from 'hands' (execution/sandbox) in agent systems for better safety and control, per Anthropic engineering insights.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2086211089487061045"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Best GitHub repos for shipping AI products",
+      "technical_takeaway": "Key repos include LiteLLM (unified model interface), LangGraph (reliable multi-agent systems), CrewAI (role-based teams), Mem0 (long-term agent memory), and OpenDevin/Aider (code-writing agents).",
+      "author_handle": "@dharmvir_",
+      "post_url": "https://x.com/dharmvir_/status/2086361763998736664"
+    },
+    {
+      "project": "2026 AI agent stack for product building",
+      "technical_takeaway": "Recommended stack: Codex/Claude/Grok models for specialized tasks, Hermes Agent for 24/7 automation, NotebookLM for learning, local models for privacy; focus on orchestration and output judgment over raw coding.",
+      "author_handle": "@Axel_bitblaze69",
+      "post_url": "https://x.com/Axel_bitblaze69/status/2086365603359785268"
+    },
+    {
+      "project": "Ramp's Claude Code agent workflows",
+      "technical_takeaway": "Ramp removed token budgets as engineer time > intelligence cost; details agent workflows cutting CI time 66%, dynamic vs loop workflows, guardrails, and building AI SRE with production context and least-privilege access.",
+      "author_handle": "@Gyome1_",
+      "post_url": "https://x.com/Gyome1_/status/2086359650417459483"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "AI-native business framework repo",
+      "technical_takeaway": "GitHub repo (42k+ stars) outlines 9-step agentic workflow: intent → issue → agent → runtime → execute → observe → verify → skill compounding → cron rerun for full business automation.",
+      "author_handle": "@alextalksai",
+      "post_url": "https://x.com/alextalksai/status/2086042868875989462",
+      "reason": "Popular but lacks deep technical details or benchmarks; more high-level overview than innovation."
+    }
+  ],
+  "notes": "Seed searches yielded 4 high-signal posts from @swyx, @bindureddy, @hwchase17 on evals, workflows, models, and architectures. Global searches surfaced practical repo recommendations and real-world agent implementations after refinement for quality. No ultra-novel breakthroughs in 24h window; focused on actionable technical insights."
+}
