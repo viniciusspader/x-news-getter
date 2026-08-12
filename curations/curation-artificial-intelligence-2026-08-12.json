@@ -1,0 +1,65 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Extracting Hidden Reasoning Traces",
+      "technical_takeaway": "Frontier models' reasoning tokens can be extracted 1:1 via API vulnerabilities; methodology distilled from new paper.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2087437017840046156"
+    },
+    {
+      "project": "Forge Smol.ai Observable Skill Kits",
+      "technical_takeaway": "Telemetry and component inventory for observable agent skill systems and skill-cutting policies.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2087272443903918266"
+    },
+    {
+      "project": "Managed Deep Agents 101",
+      "technical_takeaway": "Core concepts and video series on managed deep agents in LangSmith.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2087357728918561135"
+    },
+    {
+      "project": "Nemotron 3.5 Lightning Integration",
+      "technical_takeaway": "Open efficient long-run agent model integrated with LangChain deep agents and benchmarks.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2087228501015646233"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Agent Reach",
+      "technical_takeaway": "Open-source repo giving Claude live internet access and 17+ platform tool integrations without APIs or fees.",
+      "author_handle": "@MAXdeg0",
+      "post_url": "https://x.com/MAXdeg0/status/2087439361256095774"
+    },
+    {
+      "project": "Monid",
+      "technical_takeaway": "Runtime tool discovery, execution, and payment for 1200+ APIs by agents; 1M+ calls routed.",
+      "author_handle": "@shengkunye",
+      "post_url": "https://x.com/shengkunye/status/2087252962842460663"
+    },
+    {
+      "project": "Grok Bot Workflows",
+      "technical_takeaway": "10 practical agentic automation patterns for content, CRM, support, research, and engineering.",
+      "author_handle": "@levithefirst",
+      "post_url": "https://x.com/levithefirst/status/2087434002256830675"
+    },
+    {
+      "project": "Google Cloud Agent Graphs Workshop",
+      "technical_takeaway": "Shift from RAG to Graph RAG, memory, multimodal agents using Spanner, Gemini, ADK.",
+      "author_handle": "@0xMorlex",
+      "post_url": "https://x.com/0xMorlex/status/2087148774875373587"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Grok Bot Beta",
+      "technical_takeaway": "AI teammates that sign into tools and complete real work autonomously.",
+      "author_handle": "@bot",
+      "post_url": "https://x.com/bot/status/2087224798078517251",
+      "reason": "Promotional announcement rather than deep technical innovation or benchmark."
+    }
+  ],
+  "notes": "Limited high-signal technical posts in past 24h from seeds; focused on agent reasoning extraction, frameworks, and tool orchestration. Global search yielded several agent tooling repos and patterns meeting criteria."
+}
