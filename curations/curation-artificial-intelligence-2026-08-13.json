@@ -1,0 +1,51 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Managed Deep Agents",
+      "technical_takeaway": "Build social media agents that scan HN/X, draft posts, use durable memory, and integrate Slack; demonstrates custom tools and persistent memory in LangChain-managed agents.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2087607611097264579"
+    },
+    {
+      "project": "AutoBots Multi-LLM Self-Improving Loop",
+      "technical_takeaway": "Route tasks across optimized LLMs (cost/performance), set goals/metrics for autonomous long-horizon automation; highlights Fable 5 for large codebases and cheap DeepSeek for simple tasks.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2087773087534129615"
+    },
+    {
+      "project": "Codex Desktop for Linux",
+      "technical_takeaway": "Full agentic desktop experience (parallel agents, worktrees, diffs, skills, automations, browser) now on Ubuntu/Debian/Fedora with native sandboxing and package manager updates.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2087639484275863830"
+    },
+    {
+      "project": "$10K Kill My SaaS Hackathon",
+      "technical_takeaway": "Crowdsourced AI-powered replacements for conference CFP software in a weekend; eval harness turns it into infrastructure hill-climbing exercise with multiple production submissions.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2087799423774646316"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Universal Managed Agents API (UMA)",
+      "technical_takeaway": "Extends Claude Managed Agents to 8+ harnesses (Claude Code, Codex, etc.) and 50+ models; deploy agents instantly on secure sandboxes from Modal/E2B/Daytona without managing infra.",
+      "author_handle": "@BrainbaseHQ",
+      "post_url": "https://x.com/BrainbaseHQ/status/2087620315648282940"
+    },
+    {
+      "project": "GRAFT for Claude Code",
+      "technical_takeaway": "Provides repo map to Claude Code, slashing search time/cost without model changes; enables efficient navigation of large codebases for agentic coding.",
+      "author_handle": "@RoundtableSpace",
+      "post_url": "https://x.com/RoundtableSpace/status/2087822716879466828"
+    },
+    {
+      "project": "Grok 4.6 on 3DCodeBench",
+      "technical_takeaway": "Ranks #1 on benchmark requiring AI agents to generate engine-ready 3D assets via code/APIs/geometric reasoning, outperforming Claude Opus 5 in real-world engineering tasks.",
+      "author_handle": "@XFreeze",
+      "post_url": "https://x.com/XFreeze/status/2087824747451003144"
+    }
+  ],
+  "near_misses": [],
+  "notes": "Seed experts yielded strong agent/memory and multi-LLM orchestration signals; global search surfaced managed agent frameworks and efficiency tools. All within 24h window. No ultra-high-signal new open-source repos but practical agent patterns dominate."
+}
