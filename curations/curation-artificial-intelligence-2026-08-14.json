@@ -1,0 +1,54 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Managed Deep Agents (LangChain)",
+      "technical_takeaway": "First-class support for scheduled/cron-based background agents that run autonomously without direct prompting, enabling scaling beyond interactive use; components defined in modular files for production harnesses.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2087966751812411793"
+    },
+    {
+      "project": "Cloud Agents + Orchestration",
+      "technical_takeaway": "Cloud agents with dedicated compute allow swarms to run code, capture screenshots/videos, and interact with UIs like users, enabling high-confidence autonomous PR merging and verification via agent swarms (e.g., Grok 4.6 fuzzing).",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2088120493224362487"
+    },
+    {
+      "project": "Agent Alignment via Batch Questioning",
+      "technical_takeaway": "/align-me modification batches questions (inspired by speculative decoding) for faster design explorations and better agent-brain alignment, reducing costly human I/O rounds.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2088074149260673441"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "OpenAI Agents Python SDK",
+      "technical_takeaway": "Official SDK adds built-in orchestration, tool calling, and guardrails for standardized, cheaper, parallel agent execution; pairs with microVM optimizations (100 instances in 101ms via Firecracker CoW).",
+      "author_handle": "@VU_virtuals",
+      "post_url": "https://x.com/VU_virtuals/status/2088023047605211217"
+    },
+    {
+      "project": "Self-Evolving Agent Memory Architectures Survey",
+      "technical_takeaway": "3D taxonomy of 150+ memory architectures shows action-based and self-evolving structures improve long-horizon retention by 50%; memory actively trains models on tool actions, updates weights, and consolidates traces into skills.",
+      "author_handle": "@seeconvm",
+      "post_url": "https://x.com/seeconvm/status/2087912700244357528"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Gemini 3.7 Flash Benchmarks",
+      "technical_takeaway": "Fast, 3x cheaper than Sonnet, competitive with Kimi K3/Terra and ahead of Grok 4.6 on some evals; signals Google re-entering frontier model race.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2088068319169658948",
+      "reason": "Benchmark update rather than new framework/repo/innovation; useful context but not a technical breakthrough."
+    },
+    {
+      "project": "Xona Commerce Discovery for Agents",
+      "technical_takeaway": "Extends agent workflows to TikTok Shop discovery by region/product details for autonomous shopping/commerce tasks.",
+      "author_handle": "@Trail2Crypto",
+      "post_url": "https://x.com/Trail2Crypto/status/2088185665183735929",
+      "reason": "Product integration for agents, not core AI architecture, memory, or open-source tool innovation."
+    }
+  ],
+  "notes": "Searches across 10 seed experts yielded limited high-signal technical posts in the past 24h (mostly commentary on agents/harnesses). Global search surfaced memory architecture survey and SDK announcements as closest matches to criteria. No major new open-source repos or efficiency breakthroughs identified; prioritized agent orchestration/memory themes."
+}
