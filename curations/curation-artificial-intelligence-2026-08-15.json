@@ -1,0 +1,48 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Databricks Genie Ontology / AI Agents",
+      "technical_takeaway": "Automating enterprise context graphs and ontology capture enables AI agents to handle complex queries without manual FDE labor; 70%+ of platform queries now agent-driven, driving consumption and revenue via persistent context from SaaS systems.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2088381680478540096"
+    },
+    {
+      "project": "OpenAI Astra / GPT-6",
+      "technical_takeaway": "Upcoming model expected early September to close gaps in math and hard-core reasoning vs. competitors like Fable-5, restoring parity with Anthropic.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2088493951305339124"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "DeepSeek Agent Harness",
+      "technical_takeaway": "Open-source (MIT) agent framework with plugin architecture; run locally for free using any provider, supports full agent orchestration via web UI; 99.7K stars in days, replaces paid Claude for agent building.",
+      "author_handle": "@_0xpainn",
+      "post_url": "https://x.com/_0xpainn/status/2088534742261981377"
+    },
+    {
+      "project": "F2Agent Framework",
+      "technical_takeaway": "Multimodal agent system with News Analysis and Market Analysis agents debating via cross-attention fusion layer to detect misalignments (e.g., text vs. volume-price signals) for automated hedge fund research.",
+      "author_handle": "@RitOnchain",
+      "post_url": "https://x.com/RitOnchain/status/2088536352992399457"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "GLM-5.3 Open Model",
+      "technical_takeaway": "New open-weights model competitive with frontier closed models on coding/agent benchmarks.",
+      "author_handle": "@Haleeeemahh",
+      "post_url": "https://x.com/Haleeeemahh/status/2088535698999578765",
+      "reason": "Lacks specific architecture details or repo link for actionable technical insight."
+    },
+    {
+      "project": "AI Agent Predictions (Bindu Reddy)",
+      "technical_takeaway": "AI to expand beyond software engineering into health, biology, math, physics, enabling near-infinite energy.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2088452509845303345",
+      "reason": "Speculative long-term vision without concrete technical mechanisms or benchmarks."
+    }
+  ],
+  "notes": "Limited high-signal technical posts in the exact 24h window from seeds; focused on agent orchestration and enterprise context as core themes. Global search yielded agent frameworks but many unrelated results filtered out."
+}
