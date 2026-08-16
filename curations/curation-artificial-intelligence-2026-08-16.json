@@ -1,0 +1,53 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "GPT-5.6 Sol Tokenizer Efficiency",
+      "technical_takeaway": "GPT-5.6 Sol tokenizer uses ~34.5% fewer tokens than Claude Opus 5 on comparable text (English, technical, multilingual, numerical), highlighting that price-per-token comparisons are misleading without accounting for tokenizer differences; focus on price per successful outcome via benchmarks and real use cases.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2088868362646360418"
+    },
+    {
+      "project": "Abacus AI Voice Agents",
+      "technical_takeaway": "New Voice Agents for enterprise support: toll-free numbers, system integrations, custom voices, all configurable via single text prompt; included with ChatLLM subscription for AI-native business building.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2088829927751643402"
+    },
+    {
+      "project": "OpenAI Astra Release Strategy",
+      "technical_takeaway": "OpenAI democratizing AI via Astra release contrasts Anthropic's internal-only Mode 2 (Mythos) for biology/physics/medicine; emphasizes universal accessibility over concentrated power.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2088794014690775156"
+    },
+    {
+      "project": "Sol/Terra/Luna Agent Integration",
+      "technical_takeaway": "Improved agent orchestration in Sol/Terra now supports Luna subagents without manual threading, reducing setup overhead for multi-agent workflows.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2088734592513564938"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "DeepSeek Agent Harness (MIT Open Source)",
+      "technical_takeaway": "Plugin-first architecture where model adapter, session log, agent loop, and tools are all swappable at config time (no code changes); 'spatiotemporal composability' enables flexible multi-agent systems; 33k GitHub stars quickly.",
+      "author_handle": "@stretchcloud",
+      "post_url": "https://x.com/stretchcloud/status/2088485836593811629"
+    },
+    {
+      "project": "Agent Memory Architectures",
+      "technical_takeaway": "Structured stores outperform files for accuracy/token cost in long-horizon tasks; shift from raw memory banks to 'capability compounding' via holistic context reconstruction, governed flywheels for experience filtering, and long-term trajectory benchmarks over peak demos.",
+      "author_handle": "@pinglin02",
+      "post_url": "https://x.com/pinglin02/status/2088463819836129743"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Various 2026 AI Model Releases",
+      "technical_takeaway": "Recent drops include GLM-5.3, DeepSeek V4 Pro harness, Glimmer 30B, 1-bit ternary models, Grok 4.6, Gemini 3.7 Flash, Nemotron 3.5; focus on open weights, agentic capabilities, and efficiency.",
+      "author_handle": "@versethera",
+      "post_url": "https://x.com/versethera/status/2088651930830839972",
+      "reason": "Broad overview of releases rather than deep technical innovation or new repo/framework details."
+    }
+  ],
+  "notes": "Searches limited to past 24h (since 2026-08-15); seed experts yielded several actionable AI efficiency and agent updates; global search emphasized agent orchestration and memory patterns. Max 6 items enforced; low-signal or off-topic posts excluded."
+}
