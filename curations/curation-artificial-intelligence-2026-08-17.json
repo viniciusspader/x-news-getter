@@ -1,0 +1,48 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Codex 1M Context Window Config",
+      "technical_takeaway": "Update config.toml or CLI flags to set model_context_window=1000000 and auto_compact_token_limit=900000 for GPT-5.6 Sol, enabling retention of more code/tool output/history before compaction; note 2x usage cost for excess tokens and default calibration advice.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2089089080604914056"
+    },
+    {
+      "project": "Open Source AI Model Improvements",
+      "technical_takeaway": "GLM and DeepSeek need vision capabilities, reduced spinning, faster inference, and lower costs vs frontier models; community should focus on practical enhancements rather than hype claims of parity.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2089194292090917355"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "DeepSeek Agent Harness",
+      "technical_takeaway": "MIT-licensed open-source agent framework with plugin architecture; run locally via npx for $0 using free models/providers, supports full agent workflows without credit cards.",
+      "author_handle": "@_0xpainn",
+      "post_url": "https://x.com/_0xpainn/status/2089267365141790904"
+    },
+    {
+      "project": "Hermes Agent Repo Contributions",
+      "technical_takeaway": "Community PRs improving NousResearch Hermes agent; rapid curation of contributions enables ongoing open-source agent development.",
+      "author_handle": "@Teknium",
+      "post_url": "https://x.com/Teknium/status/2089268920264065438"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Aaronson Mechanism for LLMs",
+      "technical_takeaway": "Bias applies only to close tournament candidates; scales with better LLM routing of usecases.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2089264969309389138",
+      "reason": "Conceptual discussion without new repo, benchmark, or actionable technical details."
+    },
+    {
+      "project": "GenLayer Adjudication for Agents",
+      "technical_takeaway": "Validator-based reasoning for contract disputes in agent economy.",
+      "author_handle": "@web3_YSL",
+      "post_url": "https://x.com/web3_YSL/status/2089266997490077782",
+      "reason": "High-level vision on agent infrastructure without specific technical implementation or code."
+    }
+  ],
+  "notes": "Searches limited to past 24h yielded sparse high-signal technical content from seeds; global yielded agent framework mentions. Prioritized context management and open agent tools per directives. Max 6 per array not reached due to filtering."
+}
