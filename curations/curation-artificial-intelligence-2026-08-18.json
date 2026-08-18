@@ -1,0 +1,35 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Model Routing for Optimal Use Cases",
+      "technical_takeaway": "Automatically route queries to specialized models: Fable 5 (hard-coding), GPT 5 Sol (data analysis), Flash 3.7 (research), SeeDance 2.5 (video), Opus 5 (design), Kimi K3 (cheap agentic), Grok 4.6 (real-time), GPT Image 2 (image), Qwen 3.8 27B (classifier). Qwen 3.8 27B highlighted as strong open-source small model for fast inference and classifiers.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2089551023497175497"
+    },
+    {
+      "project": "Compound Tools for Smaller Models",
+      "technical_takeaway": "Periodically use larger models to create deterministic 'compound tools' (composed of primitive tools) that smaller models can reliably use without errors; acts as 'muscle memory' for frequent sequences.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2089499493083529476"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Cursor Origin Code Hosting",
+      "technical_takeaway": "New code hosting platform integrated with Cursor for syncing repos from GitHub.",
+      "author_handle": "@cursor_ai",
+      "post_url": "https://x.com/cursor_ai/status/2089399057659596847",
+      "reason": "Announcement of tool integration but lacks technical details on architecture, benchmarks, or innovations."
+    },
+    {
+      "project": "AINFT Grid Decentralized AI",
+      "technical_takeaway": "Decentralized platform for distributed AI training, LLM development, and open-source collaboration.",
+      "author_handle": "@AINFTcom",
+      "post_url": "https://x.com/AINFTcom/status/2082364753750478868",
+      "reason": "High-level concept without specific technical updates, repos, or benchmarks from the past 24 hours."
+    }
+  ],
+  "notes": "Limited high-signal technical content in past 24 hours from seeds or global search. Focused on model selection/routing and tool composition patterns as most relevant. No new open-source repos or major architecture breakthroughs identified."
+}
