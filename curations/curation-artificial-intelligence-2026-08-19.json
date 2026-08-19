@@ -1,0 +1,53 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Flash 3.7 Model",
+      "technical_takeaway": "Google's Flash 3.7 is very fast, excellent at chat, follows instructions better than Terra, and beats Claude on research tasks; surprisingly under-hyped.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2089873700090941751"
+    },
+    {
+      "project": "LangChain Managed Deep Agents",
+      "technical_takeaway": "New onboarding flow for managed deep agents; team hiring open source devs focused on frontier agents with quick ownership.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2089848534988468481"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "DeepSeek Modular Agent Framework",
+      "technical_takeaway": "Open-sourced modular agent framework with swappable plugins for model, memory, tools, sandbox, and execution loop; enables changing components without breaking downstream systems.",
+      "author_handle": "@adityarya_ai",
+      "post_url": "https://x.com/adityarya_ai/status/2089570753494622489"
+    },
+    {
+      "project": "Agentic ESOpt",
+      "technical_takeaway": "New arXiv work on fine-tuning long-horizon LLM agents via evolutionary strategies in parameter space for minimal GPU memory, flexibility in prompt/skill co-evolution, and better long-horizon scalability; fully open-sourced with code, logs, checkpoints.",
+      "author_handle": "@zhengzhi20",
+      "post_url": "https://x.com/zhengzhi20/status/2089894713675690259"
+    },
+    {
+      "project": "Oracle AI Agent Memory",
+      "technical_takeaway": "Updates include hybrid search, custom memory extraction, and context cards for building smarter, faster enterprise AI agents combining semantic recall with exact match.",
+      "author_handle": "@DPushkashu",
+      "post_url": "https://x.com/DPushkashu/status/2089951345893630185"
+    },
+    {
+      "project": "Qwen 3.8 27B Local MLX Build",
+      "technical_takeaway": "MLX build enables local Mac running of Qwen 3.8 27B in 2-8 bit quantizations without CUDA or cloud, shifting model distribution to hardware/privacy decisions.",
+      "author_handle": "@IamAustinVo",
+      "post_url": "https://x.com/IamAustinVo/status/2089659754482376976"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Agentic Payments Alliance",
+      "technical_takeaway": "Coalition including Monad, Avalanche, Visa etc. building infrastructure for AI agent-driven commerce, focusing on identity, authorization, and payments.",
+      "author_handle": "@BSCNews",
+      "post_url": "https://x.com/BSCNews/status/2089977404269985982",
+      "reason": "More infrastructure/news than core technical AI innovation or repo/framework details."
+    }
+  ],
+  "notes": "Searches limited to past 24h (since 2026-08-18); focused on high-signal technical content from seeds and global terms. Many global results were low-signal or unrelated; prioritized open-source, memory, agent architecture items. Max 6 per array enforced."
+}
