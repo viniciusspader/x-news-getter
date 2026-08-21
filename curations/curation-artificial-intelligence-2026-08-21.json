@@ -1,0 +1,83 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "RouteLLM API",
+      "technical_takeaway": "API that routes prompts to optimal models among 150+, with caching for speed/pricing; routes simple tasks to open-source and complex to frontier models.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2090666293691400328"
+    },
+    {
+      "project": "DeepSeek Flash",
+      "technical_takeaway": "Leading open-source model for first-turn inference with phenomenal price/performance; usage up 100x recently for enterprises.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2090646018954240422"
+    },
+    {
+      "project": "Poolside NVIDIA Acquisition",
+      "technical_takeaway": "NVIDIA acquired Poolside's model factory (researchers/employees) for ~$6B; founders remain, potential shift to compute provider.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2090577677916807429"
+    },
+    {
+      "project": "OpenAI Zero Data Retention",
+      "technical_takeaway": "New offering for frontier models with zero data retention, enhancing privacy for enterprise use.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2090580171183018465"
+    },
+    {
+      "project": "Codex + iMessage Automations",
+      "technical_takeaway": "Mac automations via ChatGPT/Codex integrated with iMessages for natural task handling and responses.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2090576080281219583"
+    },
+    {
+      "project": "Wayfinder Skill",
+      "technical_takeaway": "Orchestration skill for navigating project 'fog of war' by chaining research/grill sessions; top AI Engineer speaker content.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2090550020496040266"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Memory Harnesses for Long-Running Agents",
+      "technical_takeaway": "Evaluates memory as control loop (write/manage/read); rank-based recall outperforms gating; effective only outside context window on benchmarks like XBench.",
+      "author_handle": "@CoreyGallon",
+      "post_url": "https://x.com/CoreyGallon/status/2090583114393510277"
+    },
+    {
+      "project": "Memori",
+      "technical_takeaway": "Memory system tracking entity/process/session levels; 87% on LoCoMo benchmark at 36x lower token cost; integrates via MCP with Claude/Cursor/Codex.",
+      "author_handle": "@oliviscusAI",
+      "post_url": "https://x.com/oliviscusAI/status/2090388745258455191"
+    },
+    {
+      "project": "Perplexity Brain",
+      "technical_takeaway": "Git-backed Markdown wiki for agent memory using cat/grep; +25% correctness, auditability via citations; offline 'Dream' agents refactor memory.",
+      "author_handle": "@awais_khawar",
+      "post_url": "https://x.com/awais_khawar/status/2090456069151789519"
+    },
+    {
+      "project": "Alloomi Self-Evolving Agents",
+      "technical_takeaway": "Full-stack memory + post-training to embed real task experience/judgments into model weights; strong benchmarks on long-context and continual learning.",
+      "author_handle": "@AgentP22",
+      "post_url": "https://x.com/AgentP22/status/2090715584996548933"
+    },
+    {
+      "project": "Binance Agent OS",
+      "technical_takeaway": "Infrastructure for financial AI agents with trading/wallet tools, permissioned sub-accounts, MCP support; connects to Claude Code/Codex.",
+      "author_handle": "@Draxen_Web3",
+      "post_url": "https://x.com/Draxen_Web3/status/2090714270895919321"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "MultichainZ Agent Studio",
+      "technical_takeaway": "Non-custodial DeFi agents for yield/collateral automation using natural language and orchestrator-worker architecture.",
+      "author_handle": "@Aliba_79",
+      "post_url": "https://x.com/Aliba_79/status/2090708293391962200",
+      "reason": "Crypto/DeFi focused rather than core AI technical innovation."
+    }
+  ],
+  "notes": "Seed searches yielded several high-signal posts from @bindureddy, @swyx, @reach_vb on routing, models, acquisitions, and automations. Global searches surfaced strong memory/agent architecture discussions. Limited truly novel repos/frameworks in 24h window; focused on actionable technical insights."
+}
