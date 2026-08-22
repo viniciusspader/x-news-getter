@@ -1,0 +1,54 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Gemini 4.0 Pro and LiveBench",
+      "technical_takeaway": "Rumors of Gemini 4.0 Pro beating top models like Fable and Sol; Flash 3.7 strong in class; LiveBench.ai as public benchmark for model evaluation.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2091027847066620098"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "DeepSeek FlashMLA",
+      "technical_takeaway": "New repo/kernel for latent KV compression and paged memory blocks reducing GPU memory by 88.5% and boosting throughput 4.8x for long-running agent sessions on H800 hardware.",
+      "author_handle": "@marfinxx",
+      "post_url": "https://x.com/marfinxx/status/2090771805027926251"
+    },
+    {
+      "project": "Memory-Augmented Generation (MAG) Taxonomy",
+      "technical_takeaway": "Paper analyzes why agentic memory underperforms: 4-part taxonomy linking memory structures to system tradeoffs, exposing >30s latency from write-path updates and consolidation in production.",
+      "author_handle": "@beamnxw",
+      "post_url": "https://x.com/beamnxw/status/2090797556775199174"
+    },
+    {
+      "project": "AgentSysBench",
+      "technical_takeaway": "Alibaba/ByteDance paper shows agent serving bottlenecks shift beyond LLM inference to tools/memory/comms; task-aware serving cuts latency 29-40%, state offloading reduces memory 4.6x.",
+      "author_handle": "@rohanpaul_ai",
+      "post_url": "https://x.com/rohanpaul_ai/status/2090884141101482407"
+    },
+    {
+      "project": "NeoTrade Agent Architecture",
+      "technical_takeaway": "Framework separates agent reasoning (intelligence) from authority via deterministic Decision Gates, Trade Intents, policy checks, and audit logs for safe multi-agent execution.",
+      "author_handle": "@salmorve98",
+      "post_url": "https://x.com/salmorve98/status/2091072081652002816"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Topview Plugin for Codex",
+      "technical_takeaway": "Plugin enables Codex AI agent to generate videos/storyboards directly via Topview integration for creative workflows.",
+      "author_handle": "@AIFrontliner",
+      "post_url": "https://x.com/AIFrontliner/status/2091069217571266947",
+      "reason": "More product integration than core technical innovation or new framework."
+    },
+    {
+      "project": "Binance Agent OS",
+      "technical_takeaway": "Platform to build/deploy AI agents with Binance data/trading capabilities integrated.",
+      "author_handle": "@BinanceDesi",
+      "post_url": "https://x.com/BinanceDesi/status/2091065335290253644",
+      "reason": "Announcement of existing platform features rather than novel open-source breakthrough."
+    }
+  ],
+  "notes": "Seed experts had limited high-signal technical posts in the window; global search surfaced strong papers and efficiency techniques around agent memory and serving. Selected only the most technical and actionable items."
+}
