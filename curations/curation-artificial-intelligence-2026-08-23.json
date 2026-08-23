@@ -1,0 +1,29 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Anthropic model regressions",
+      "technical_takeaway": "Opus 5 and Sonnet 5 show regressions vs prior versions (Opus 4.8/Sonnet 4.6); higher cost, more spinning, limited quality gains; benchmarks appear broken or maxxed.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2091369766003130455",
+      "reason": "Expert commentary on model performance but no new repo/framework/tool or technical innovation details."
+    },
+    {
+      "project": "OpenAI GPT pricing prediction",
+      "technical_takeaway": "Prediction of 80% price slash on GPT 5.6 SOL to boost usage/adoption and outcompete Anthropic/open-source; notes on inference costs and margins.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2091419391028261287",
+      "reason": "Market/strategy discussion on AI models, not a technical update on architectures, memory, or new tools."
+    },
+    {
+      "project": "Codex rate limit fixes",
+      "technical_takeaway": "Fixes for inefficiencies in image usage in long sessions, computer history p95, and title generation; full usage reset for paid subs; efficiency improvements planned.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2091436697560944794",
+      "reason": "Practical update on AI tool (Codex) performance but operational fixes rather than new agent patterns or innovations."
+    }
+  ],
+  "notes": "No high-signal technical AI updates (repos, frameworks, memory techniques, benchmarks, or architecture innovations) found in past 24 hours from seed experts or global search matching keywords. Searches returned mostly unrelated or low-signal content; near_misses are the most relevant expert posts on model performance and tooling."
+}
