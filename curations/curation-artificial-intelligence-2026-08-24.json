@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Anthropic model releases",
+      "technical_takeaway": "Multiple new Anthropic models (Opus 5.1, Sonnet 5.1, Fable 5.1) dropping soon; Opus/Sonnet fix regressions and outperform priors, Fable tops leaderboards.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2091646922201432352"
+    },
+    {
+      "project": "Small model dominance & breakthroughs",
+      "technical_takeaway": "95% tasks by small 250B open-source models in 6 months; large models handle complex tasks like training smaller ones; imminent small continually learning model from stealth labs.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2091772479417294904"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Letta",
+      "technical_takeaway": "24.3k-star open-source repo for persistent agent memory, identity, and state across sessions; includes harness, server, SDK, terminal UI for long-term recall instead of stateless chats.",
+      "author_handle": "@gippp69",
+      "post_url": "https://x.com/gippp69/status/2091492229097386179"
+    },
+    {
+      "project": "Repo0",
+      "technical_takeaway": "SJTU framework treats code architecture as living system with continuous refactoring/merging; +29.7% Pass Rate on complex codebases vs static planners like SWE-agent/Cursor.",
+      "author_handle": "@godhearsw",
+      "post_url": "https://x.com/godhearsw/status/2091584221642965263"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Eidoverse 3D agent framework",
+      "technical_takeaway": "Framework letting agents create 3D skits/worlds with full agent-human integration and VR support.",
+      "author_handle": "@KingBootoshi",
+      "post_url": "https://x.com/KingBootoshi/status/2091803443887231063",
+      "reason": "Interesting agentic demo but lacks deep technical details or benchmarks compared to memory/architecture innovations."
+    }
+  ],
+  "notes": "Very limited high-signal technical posts in the 24h window from seeds or global searches matching criteria; focused on model trends, persistent memory, and dynamic architectures as the strongest matches."
+}
