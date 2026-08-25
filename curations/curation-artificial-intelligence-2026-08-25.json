@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "DeepSeek Flash Vision",
+      "technical_takeaway": "New open-source model: 10x cheaper than Kimi K3, beats GLM 5.3, strong at agentic coding and image handling; first open-source model in production at Abacus AI.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2092086156221657348"
+    },
+    {
+      "project": "DeepSWE v1.1 coding agent benchmark",
+      "technical_takeaway": "GPT-5.6 Sol Max leads at 72.7% score for $6.47/task vs Fable 5 Max at 69.7% for $21.63/task on 113 long-horizon engineering tasks; price cuts widen the advantage.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2091962322180882694"
+    },
+    {
+      "project": "LLM routers and evals",
+      "technical_takeaway": "80% of router value comes from strong evals; routing logic is secondary. OpenRouter is an LLM gateway, not a true router.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2091941140832669984"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "border-beam / thinking-orbs / liquid-gooey UI components",
+      "technical_takeaway": "MIT-licensed repo of polished UI primitives (glowing edges, agent thinking animations, liquid effects) for AI product interfaces.",
+      "author_handle": "@puinoib_",
+      "post_url": "https://x.com/puinoib_/status/2092168073424109615",
+      "reason": "Mentions AI apps but is primarily a general UI toolkit, not a core AI technical innovation."
+    },
+    {
+      "project": "Agent economy and machine-to-machine commerce",
+      "technical_takeaway": "Discussion of agents discovering work, building trust, settling payments autonomously with on-chain identity (ERC-8004) and tokenization.",
+      "author_handle": "@Razzshares",
+      "post_url": "https://x.com/Razzshares/status/2092168172376105376",
+      "reason": "Conceptual commentary on agent orchestration without specific new tools, repos, or benchmarks."
+    }
+  ],
+  "notes": "Seed experts yielded 3 high-signal posts on models, benchmarks, and evals in the past 24h. Global search returned mostly low-signal or tangential content on agents/automation; no additional qualifying technical updates found after filtering."
+}
