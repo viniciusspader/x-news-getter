@@ -1,0 +1,66 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "RouteLLM API",
+      "technical_takeaway": "New API for routing prompts to 150+ models with custom routers, caching, OxAlpha serving; supports Claude/Codex integration for optimized speed/pricing.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2092465276780773874"
+    },
+    {
+      "project": "ChatGPT Browser & Desktop Updates",
+      "technical_takeaway": "Added multi-browser extension support (Edge/Brave/Opera/Vivaldi), WebMCP in desktop browser, secure persistent logins for Work cloud computer.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2092515291544617309"
+    },
+    {
+      "project": "Codex Locked Use Warning",
+      "technical_takeaway": "Codex 'locked use' relies on unstable macOS features causing keychain lockouts; known Apple bug, avoid until cloud alternatives mature.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2092492963435946494"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Prime Agent",
+      "technical_takeaway": "Self-improving RLM harness with memory hierarchy (L1 active prompts, L2 persistent IPython REPL + disk-backed skills/histories); boosts Opus 5 ARC-AGI-3 from 30% to 95.5% via state management and subagents.",
+      "author_handle": "@rohanpaul_ai",
+      "post_url": "https://x.com/rohanpaul_ai/status/2092381340968910922"
+    },
+    {
+      "project": "Claude Code Ecosystem Repos",
+      "technical_takeaway": "Curated open-source repos including anthropics/claude-code, awesome-claude-code, claude-code-templates, get-shit-done, and subagent/toolkits for skills/hooks/MCPs/plugins.",
+      "author_handle": "@MAXdeg0",
+      "post_url": "https://x.com/MAXdeg0/status/2092530313750516072"
+    },
+    {
+      "project": "Grok Build",
+      "technical_takeaway": "xAI's Apache 2.0 Rust port of Codex CLI as free terminal TUI coding agent; supports MCP, plugins, headless CI, full codebase editing/exec.",
+      "author_handle": "@starmexxx",
+      "post_url": "https://x.com/starmexxx/status/2092527814918525032"
+    },
+    {
+      "project": "Apodex 1.1",
+      "technical_takeaway": "Agent framework on HF Daily Papers emphasizing Environment Scaling, Agentic Coordination Scaling, shared execution harness, and AgentOS for sustained verifiable progress.",
+      "author_handle": "@shabnam_774",
+      "post_url": "https://x.com/shabnam_774/status/2092528331057242120"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "AI Memory Bandwidth Constraints",
+      "technical_takeaway": "SK Hynix notes memory bandwidth (not just GPU compute) limits agentic/long-context workloads; HBM insufficient, exploring PIM/CXL pooling.",
+      "author_handle": "@SemiconductorsX",
+      "post_url": "https://x.com/SemiconductorsX/status/2092124888588808226",
+      "reason": "Industry insight on architecture limits but lacks specific new tool/repo or benchmark."
+    },
+    {
+      "project": "Agent Memory & Failure Recovery",
+      "technical_takeaway": "Discussion of persistent lessons file in Claude agents for iterative strategy improvement via self-referential notes.",
+      "author_handle": "@DaviddDotTech",
+      "post_url": "https://x.com/DaviddDotTech/status/2092528733290656192",
+      "reason": "Practical tip but not a new framework or major innovation."
+    }
+  ],
+  "notes": "Searches limited to past 24h yielded few ultra-high-signal items from seeds; global surfaced strong memory/agent harness and repo ecosystem updates. Prioritized technical depth over volume."
+}
