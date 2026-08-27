@@ -1,0 +1,53 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Abacus AI SuperComputer",
+      "technical_takeaway": "Enables 1-person companies to build ambitious products like custom YouTube, voice agents, hosted LLMs, trading servers via simple text prompts, with self-improving growth marketing tasks.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2092839974014263648"
+    },
+    {
+      "project": "Ox-Alpha (GLM 3.5 Flash) inference stack",
+      "technical_takeaway": "Custom SGLang engine with disaggregated Encode-Prefill-Decode architecture + self-optimizing GLM-5.3 agent for GPU kernels achieved 3x gains and Nvidia parity on Chinese chips, processing 42T tokens in 6 days.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2092780519566221711"
+    },
+    {
+      "project": "openwiki v0.4.0 + OKF v0.2",
+      "technical_takeaway": "Claims runtime provides persistent source of truth for wikis to forget/self-correct; supports page-level sources, verification, and generation stamps for trust and transparency.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2093029332457590993"
+    },
+    {
+      "project": "Deepagents multiplayer harness",
+      "technical_takeaway": "Agent framework adding auth, memory, and multi-user thread support for shared agent interactions.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2092443725817676049"
+    },
+    {
+      "project": "Codex macOS integration issues",
+      "technical_takeaway": "Unstable mac features causing keychain lockouts; highlights need for stable cloud alternatives over local 'locked use' capabilities.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2092492963435946494"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Braintrust agent cost optimization",
+      "technical_takeaway": "Routing + guarded escalation outperforms single-model replacement for cost per resolved request in production agents.",
+      "author_handle": "@braintrust",
+      "post_url": "https://x.com/braintrust/status/2093046390301585725",
+      "reason": "Mentions agent efficiency but lacks specific technical details or new repo/framework."
+    },
+    {
+      "project": "ChatGPT Work & Codex usage reset",
+      "technical_takeaway": "Usage limits reset for Work and Codex users, improving access.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2093021128545407110",
+      "reason": "Product update, not a technical innovation or architecture insight."
+    }
+  ],
+  "notes": "Seed phase yielded several relevant AI agent and infrastructure posts from experts; global keyword search returned mostly low-signal or unrelated content, so no global_discoveries qualified under strict high-signal criteria."
+}
