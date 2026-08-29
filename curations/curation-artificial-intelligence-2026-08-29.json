@@ -1,0 +1,59 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Open-source AI catch-up",
+      "technical_takeaway": "Compounding intelligence across DeepSeek/Qwen/Kimi/GLM families via pooled weights; open models closing long-horizon agentic loops with RLHF trajectory data; Chinese compute enabling 100T tokens giveaway; predicts 80-90% price cuts in 6-12 weeks.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2093505054234062865"
+    },
+    {
+      "project": "LangChain as neutral model harness",
+      "technical_takeaway": "Model labs will block cross-lab harness access post-acquisitions (e.g., OpenAI/Cursor); only independent frameworks like LangChain enable multi-model orchestration with observability via LangSmith.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2093523086725542304"
+    },
+    {
+      "project": "ChatGPT weekly features",
+      "technical_takeaway": "Scheduled tasks for free users, temp chat saving with memory, multi-Google account plugins, voice lock-screen widgets, stickers; emphasizes persistent memory and task automation improvements.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2093592299523518570"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Meta ARE/Gaia2 agent benchmark",
+      "technical_takeaway": "Static benchmarks miss real-world failures; new async event-driven architecture with multi-agent coordination, temporal constraints, and hierarchical memory yields +48% task success, -78% token use on noisy long-horizon tasks.",
+      "author_handle": "@marfinxx",
+      "post_url": "https://x.com/marfinxx/status/2093670917519929420"
+    },
+    {
+      "project": "Trending AI agent repos (deepseek-harness, etc.)",
+      "technical_takeaway": "Shift to plugin-first runtimes, portable skills, model routing, and knowledge graphs; deepseek-harness leads with +thousands stars daily for standardized agent workflows and extension points.",
+      "author_handle": "@alexchen77sh",
+      "post_url": "https://x.com/alexchen77sh/status/2093544051995988384"
+    },
+    {
+      "project": "Qwen/GLM Flash agent models",
+      "technical_takeaway": "Sparse attention, gated architectures, 1M context, MoE efficiency (6B/18B active params) for agent economics; massive price cuts and benchmarks on DeepSWE/Toolathlon signal orchestration/routing wars over raw model power.",
+      "author_handle": "@null_founder",
+      "post_url": "https://x.com/null_founder/status/2093194954860601768"
+    },
+    {
+      "project": "Infer-forge agent harness on SGLang",
+      "technical_takeaway": "Three-layer system (Harness/Loop/Graph) for long-running inference optimization agents; increases peak tasks in flight, catches silent corruption, enables full serving projects autonomously.",
+      "author_handle": "@lmsysorg",
+      "post_url": "https://x.com/lmsysorg/status/2093377329728991626"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "OpenAI Astra/Cursor drama",
+      "technical_takeaway": "Partnership end due to acquisition impacts developer access to models; highlights ecosystem lock-in risks.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2093519746088202317",
+      "reason": "More business drama than technical innovation or framework details."
+    }
+  ],
+  "notes": "Seed posts from past 24h yielded strong expert commentary on open-source trajectories and neutral frameworks. Global semantic search surfaced agent architecture, benchmarks, and repo trends; filtered to max 6 high-signal items focused on actionable technical insights. No ultra-novel repos but clear patterns in agent orchestration and efficiency."
+}
