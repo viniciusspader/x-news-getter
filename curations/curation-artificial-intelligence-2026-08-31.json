@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "DeepSeek V5",
+      "technical_takeaway": "Upcoming model (Sept drop) supercharges personal agents, 100x cheaper than competitors like Terra/Sonnet; frontier models only needed for app builds/hard-coding; shifts most use-cases to cheaper alternatives.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2094135800866939386"
+    },
+    {
+      "project": "Astra (OpenAI)",
+      "technical_takeaway": "Expected Thursday drop; more capable than Fable with relentless persistence on hard problems, coordinating 1000s of agents at scale, system-level reasoning, extreme creativity and bias for action; enables phase change in automating complex long-running tasks outperforming large teams.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2093874485774721415"
+    },
+    {
+      "project": "Luna price cut (OpenAI)",
+      "technical_takeaway": "80% price reduction drove 1000x usage increase, making it competitive with Deepseek Flash while rendering Haiku obsolete; highlights rapid iteration in model economics and agent accessibility.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2094285481232257109"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Aixel AI agent (iLands)",
+      "technical_takeaway": "User-built AI agent creating art, sketches, and budget tools; demonstrates practical persistent agent use in personal workflows.",
+      "author_handle": "@Acezhiell",
+      "post_url": "https://x.com/Acezhiell/status/2094450893462884858",
+      "reason": "Casual demo, not a new framework/repo or technical innovation; low signal for broad AI advancements."
+    },
+    {
+      "project": "OpenAI team/feedback mentions",
+      "technical_takeaway": "Discussions on agent feedback, skills, context bloat, and MCP tool calls in ongoing work.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2094333855972933838",
+      "reason": "Internal OpenAI chatter without specific new repos, architectures, or benchmarks."
+    }
+  ],
+  "notes": "Seed phase yielded relevant model announcements from @bindureddy on agent-enabling capabilities and economics. Global search returned mostly irrelevant or low-signal posts; no high-signal repos/frameworks/innovations in past 24h. Limited to max 3 seed items as others lacked technical depth."
+}
