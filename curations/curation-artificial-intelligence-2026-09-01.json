@@ -1,0 +1,26 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "AI Agent Workflows for Dev Reviews",
+      "technical_takeaway": "QoL improvement: agents autonomously send emails attaching videos of their work for human review alongside PRs, streamlining oversight in agentic development pipelines.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2094693882055336259"
+    },
+    {
+      "project": "Frontier LLM Capabilities in Scientific Discovery",
+      "technical_takeaway": "LLMs excel at out-of-distribution problems by compressing reasoning structures and learning universe patterns (not memorization); evidenced by AlphaProof (IMO silver via Lean search), FunSearch (new math via proposal+checker), and AlphaFold-style generalization to unseen proteins via physics simulation.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2094658967788208296"
+    },
+    {
+      "project": "LangGraph Agent Framework",
+      "technical_takeaway": "Continued community-driven growth in LangGraph for building agentic systems, with emphasis on ongoing iteration based on user feedback.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2094620546407567754"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [],
+  "notes": "Seed experts yielded 3 high-signal posts on agent workflows and LLM scientific reasoning. Global search (agent/orchestration/etc.) returned no relevant AI technical content in past 24h; all results were unrelated noise."
+}
