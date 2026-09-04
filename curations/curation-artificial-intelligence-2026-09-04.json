@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "OpenAI Astra",
+      "technical_takeaway": "Astra excels at long-running agentic workflows, browser use, 3D models, model training/selection, data labeling, pipeline management, logging, deployment/debugging, subagent orchestration, and maintaining coherence over billions of tokens; runs at <$6/hour with fewer iterations than Fable.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2095621785953984782"
+    },
+    {
+      "project": "OpenAI Astra",
+      "technical_takeaway": "Early readout shows strong performance on 3D models, browser use, very long running loops, faster/cheaper than Fable; potential for nerfing due to external pressures.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2095771979106394334"
+    },
+    {
+      "project": "LangChain Deep Agents + MongoDB",
+      "technical_takeaway": "MongoDB Atlas now powers the virtual file system backend for Deep Agents via BackendProtocol; enables persistent, inspectable, swappable storage for long-running/multi-agent workflows with vector/hybrid search and S3 integration without changing agent code.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2095546785234321600"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "OpenAI Astra rollout compensation",
+      "technical_takeaway": "Banked resets provided for ChatGPT paid users without Astra access; highlights scaling challenges for new agentic models.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2095656387132915902",
+      "reason": "Related to Astra but more operational than technical innovation."
+    },
+    {
+      "project": "CREAO AI agent platform",
+      "technical_takeaway": "No-code platform for turning conversations into reusable AI workers/agents with credits for community demos.",
+      "author_handle": "@sakatayasha",
+      "post_url": "https://x.com/sakatayasha/status/2095849528708784333",
+      "reason": "Agent framework mention but promotional/low-signal on technical details."
+    }
+  ],
+  "notes": "Seed searches yielded high-signal posts primarily on OpenAI's Astra (new agentic model) and LangChain agent memory/storage innovations. Global keyword search returned mostly unrelated or low-signal content on agents/blockchain; no additional high-signal technical repos/frameworks found in past 24h."
+}
