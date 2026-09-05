@@ -1,0 +1,42 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Astra (computer use agent)",
+      "technical_takeaway": "Astra achieves SoTA on ScreenSpot-Pro (92.7%), OSWorld 2.0 (72.6% with 47% less latency), and 1.9x faster on Mind2Web vs prior models like GPT-5.6; major jump in desktop/web agent capabilities.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2096148742399201521"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Curated AI Agent Frameworks List",
+      "technical_takeaway": "Weekly-updating list of 10+ sections covering core frameworks, multi-agent orchestration, memory/context tools, safety, domain agents, retrieval, and infrastructure; emphasizes picking by use case (e.g., memory for persistence, orchestration for teams).",
+      "author_handle": "@beamnxw",
+      "post_url": "https://x.com/beamnxw/status/2095908000540107144"
+    },
+    {
+      "project": "Oracle AI Agent Memory",
+      "technical_takeaway": "Treats agent memory as a database problem: persistent, governed, scoped, efficient with custom extraction, thread-level overrides, and tool-result metadata for durable, auditable long-term recall in support workflows.",
+      "author_handle": "@OracleDevs",
+      "post_url": "https://x.com/OracleDevs/status/2095879558876574207"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Ritual (agent execution verification)",
+      "technical_takeaway": "Uses TEE for verifiable execution proofs linking code, input, and results for agent payments and services via x402/ERC-8004.",
+      "author_handle": "@F0HuazzZ",
+      "post_url": "https://x.com/F0HuazzZ/status/2096198193818267659",
+      "reason": "Discusses protocol-level agent tooling but lacks specific new repo or benchmark details in post."
+    },
+    {
+      "project": "Acemoglu Automation and Repression paper",
+      "technical_takeaway": "Mathematical model linking AI/automation-driven inequality to increased political repression over redistribution in democracies.",
+      "author_handle": "@HasanAyer_",
+      "post_url": "https://x.com/HasanAyer_/status/2096198830404338104",
+      "reason": "Economic/policy analysis rather than technical AI innovation or implementation."
+    }
+  ],
+  "notes": "Limited high-signal activity in past 24h; only one seed expert active. Focused on agent capabilities, frameworks, and memory management as closest matches to criteria. No major new open-source repo drops identified."
+}
