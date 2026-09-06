@@ -1,0 +1,54 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Astra on Abacus AI",
+      "technical_takeaway": "Astra enables 3D games/apps via text prompts on always-on supercomputer with Blender; less jargon, better deliverables than Fable 5, strong spatial/data analysis",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2096418079848714337"
+    },
+    {
+      "project": "Astra Mode",
+      "technical_takeaway": "Astra creates new benchmark for image gen (pelican riding bicycle); integrates with Blender for 3D",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2096497979188228384"
+    },
+    {
+      "project": "Deep Agents context management",
+      "technical_takeaway": "Compaction reduces model input via filesystem offload/summarization for long histories/tool results without erasing work; proactive compact tool",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2096285996304433248"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Orbkit",
+      "technical_takeaway": "30+ open-source WebGL shader orbs for AI/voice agent states (idle/thinking/speaking) in React/TS/shadcn; easy install/copy",
+      "author_handle": "@zzzzshawn",
+      "post_url": "https://x.com/zzzzshawn/status/2096548536972370319"
+    },
+    {
+      "project": "Agent OBS",
+      "technical_takeaway": "Autonomous trading agent on Robinhood Chain with rules for entries/exits, risk controls; first-day results show rails handling most logic",
+      "author_handle": "@ObscuraCEX",
+      "post_url": "https://x.com/ObscuraCEX/status/2096562394893857016"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Health data export for agents",
+      "technical_takeaway": "Building Apple HealthKit exporter to cloud for agent access; no off-shelf connector exists",
+      "author_handle": "@nejatian",
+      "post_url": "https://x.com/nejatian/status/2096554202147246403",
+      "reason": "Idea stage, not a released tool or technical innovation"
+    },
+    {
+      "project": "GenLayer Agent Tank Hackathon",
+      "technical_takeaway": "Adjudication layer for agentic economy with intelligent contracts for web reading/consensus",
+      "author_handle": "@TONYWILLIAMS_X",
+      "post_url": "https://x.com/TONYWILLIAMS_X/status/2096551460158746994",
+      "reason": "Promotional for hackathon, lacks specific new technical details"
+    }
+  ],
+  "notes": "Very low activity from most seed experts in past 24h; focused on Astra/Abacus and agent memory patterns as highest signal. Global search yielded mostly tangential agent mentions; filtered heavily for technical depth."
+}
