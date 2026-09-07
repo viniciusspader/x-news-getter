@@ -1,0 +1,55 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "DeepSeek vs Astra/Fable",
+      "technical_takeaway": "DeepSeek Flash handles 80% of everyday tasks at 100x lower cost; reserve premium models like Astra/Fable for complex problems only.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2096946683900784918"
+    },
+    {
+      "project": "Astra vs Fable 5.1 for coding",
+      "technical_takeaway": "Astra excels for knowledge workers but spins/guzzles tokens on large codebases; Fable 5.1 wins for hard coding tasks.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2096724325113991544"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Claude agent for TikTok analysis",
+      "technical_takeaway": "Low-cost ($0.003) Claude agent scans niches, identifies viral outliers, and explains success factors without subscriptions.",
+      "author_handle": "@RoundtableSpace",
+      "post_url": "https://x.com/RoundtableSpace/status/2096957911129882673"
+    },
+    {
+      "project": "Agent graphs and loops",
+      "technical_takeaway": "Shift from prompting agents to building graphs/loops for agentic systems; future is graph engineering per Boris Cherny talk.",
+      "author_handle": "@shikamarutsai",
+      "post_url": "https://x.com/shikamarutsai/status/2096956532378292345"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Astra without words demo",
+      "technical_takeaway": "Quick $3 demo site replicating Astra capabilities via ChatGPT.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2096881999411614149",
+      "reason": "Demo rather than core technical innovation or framework release."
+    },
+    {
+      "project": "OpenRouter for tools discussion",
+      "technical_takeaway": "Idea for unified tool access to avoid multiple service signups.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2096669964228821068",
+      "reason": "Conceptual discussion, not a new repo/framework or benchmark."
+    },
+    {
+      "project": "X cleanup agent on CreaoAI",
+      "technical_takeaway": "Agent finds non-followers for account cleanup (1,334 candidates in test).",
+      "author_handle": "@Mr_Hy4",
+      "post_url": "https://x.com/Mr_Hy4/status/2096957364523954589",
+      "reason": "Practical agent use case but no novel architecture or open-source release."
+    }
+  ],
+  "notes": "Limited high-signal technical posts in past 24h from seeds or global search; focused on model comparisons and agent patterns. No major new repos/frameworks found."
+}
