@@ -1,0 +1,48 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [],
+  "global_discoveries": [
+    {
+      "project": "OpenAI Agents SDK",
+      "technical_takeaway": "New SDK enables building multi-agent workflows with manager delegating to specialists, sandbox for files/commands, approval for tool calls, and traces for debugging; hello world example evolves beyond haiku to full agent teams.",
+      "author_handle": "@N01ennn",
+      "post_url": "https://x.com/N01ennn/status/2097297480421441980"
+    },
+    {
+      "project": "Filesystem-Based Memory for LLM Agents",
+      "technical_takeaway": "Agents use plain files/folders for long-term memory with management, search, and execution roles; organized memory halves search cost, stronger retrieval boosts accuracy more than better writing (62% to 79%), but reorganization can silently delete facts unless rules like 'keep every fact' are added.",
+      "author_handle": "@NLPiation",
+      "post_url": "https://x.com/NLPiation/status/2097088418480099497"
+    },
+    {
+      "project": "M11 OpenMarket",
+      "technical_takeaway": "Multi-agent marketplace where seller agents compete on facts/evidence for buyer orders, with buyer agent filtering claims; demonstrates practical multi-agent orchestration for e-commerce research.",
+      "author_handle": "@m11labsai",
+      "post_url": "https://x.com/m11labsai/status/2097223603305504933"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "DeepSeek Harness",
+      "technical_takeaway": "Agent harness with strong Web UI, mobile support, prebuilt plugins, and detailed agent tracing; noted as go-to alongside Hermes Agent but with larger sys prompts and cache issues for local models.",
+      "author_handle": "@MiaAI_lab",
+      "post_url": "https://x.com/MiaAI_lab/status/2097299107727507926",
+      "reason": "Mentions tool/framework but lacks new release details or benchmarks in past 24h."
+    },
+    {
+      "project": "LangGraph Agent Pause Workflows",
+      "technical_takeaway": "Uses state, checkpoints, and human approval for multi-step agent orchestration.",
+      "author_handle": "@nabulines",
+      "post_url": "https://x.com/nabulines/status/2097298185513251144",
+      "reason": "Promotional quiz on existing framework, not a new innovation or repo."
+    },
+    {
+      "project": "Astra vs Fable 5.1 Agent Comparison",
+      "technical_takeaway": "Astra lacks corner-case awareness and full build capability compared to Fable, requiring extra verification turns.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2097247592543375514",
+      "reason": "Opinion on existing tools from seed expert, no new technical details or releases."
+    }
+  ],
+  "notes": "Seed experts had minimal high-signal technical posts in the window (mostly reactions to Astra/Codex). Global search surfaced agent SDKs, memory architectures, and multi-agent marketplaces as closest matches; prioritized those with actionable patterns over announcements."
+}
