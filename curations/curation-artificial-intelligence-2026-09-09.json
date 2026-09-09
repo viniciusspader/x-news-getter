@@ -1,0 +1,47 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Abacus AI open-weights LLM release",
+      "technical_takeaway": "New open-weights LLM optimized for long-running personal agentic loops, available via API and claimed better than DeepSeek Flash; focuses on persistent agent performance.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2097530072236204086"
+    },
+    {
+      "project": "LangChain DeepAgents memory layer",
+      "technical_takeaway": "Built-in memory for agents: save lessons/skills from runs, load into future tasks to avoid starting from zero each time; part of managed-deepagents updates.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2097447020554289488"
+    },
+    {
+      "project": "LangChain Managed Connections for agent auth",
+      "technical_takeaway": "Simplifies OAuth/auth for agents acting as self or user via single arg; handles tokens, consent, refresh without custom code.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2097443947161243902"
+    },
+    {
+      "project": "LangChain context engineering in DeepAgents",
+      "technical_takeaway": "Forking subagents as a context engineering trick now built-in; harnesses make managing context easier for complex agent workflows.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2097410530717704546"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "OpenAI ChatGPT Images 2.5 and test-time compute scaling",
+      "technical_takeaway": "Faster image gen with better editing; discussion on massive test-time compute scaling enabling high performance at low cost.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2097399096000581655",
+      "reason": "Relevant to AI capabilities but more product announcement than technical framework/repo/innovation detail."
+    },
+    {
+      "project": "Stripe company brain (Kai) on DeepAgents",
+      "technical_takeaway": "Internal AI platform with projects as governance, skill routing, telemetry; built by small team in weeks.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2097355841183596632",
+      "reason": "Practical example of agent frameworks in production but not a new open-source release or core technical breakthrough."
+    }
+  ],
+  "notes": "Seed experts yielded limited high-signal posts in 24h window; global search returned mostly low-relevance noise. Focused on agent/memory/auth innovations from LangChain and Abacus as top matches to criteria."
+}
