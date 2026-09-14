@@ -1,0 +1,42 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [],
+  "global_discoveries": [
+    {
+      "project": "20+ Open-Source GitHub Repositories to Master AI Agents in 2026",
+      "technical_takeaway": "Comprehensive list of repos for building AI agents including MCP SDK, MemGPT/Letta for long-term memory, CrewAI, LangGraph, AutoGen, LlamaIndex, Ragas, Phoenix, Ollama, covering protocols, memory, orchestration, evaluation, and local inference.",
+      "author_handle": "@Sabercodes123",
+      "post_url": "https://x.com/Sabercodes123/status/2099469025952600574"
+    },
+    {
+      "project": "Agent Memory Atlas",
+      "technical_takeaway": "Open-source (MIT) code-grounded field guide comparing memory systems for AI agents across units, storage, retrieval, with links to exact Git commits; includes patterns and AGENTS.md for AI-assisted design.",
+      "author_handle": "@DanKornas",
+      "post_url": "https://x.com/DanKornas/status/2099169725125124369"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Bindu Reddy on HF AI agent exploit test",
+      "technical_takeaway": "Discussion of AI agent tested on ExploitGym benchmark to find/exploit vulnerabilities in sandbox with minimal guardrails, highlighting real-world agent capability testing.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2099447973050540265",
+      "reason": "From seed expert but more commentary on safety/testing than new technical innovation or repo."
+    },
+    {
+      "project": "Pumploo agent swarm trading desk",
+      "technical_takeaway": "Swarm of 400+ flexible agents for parallel scanning, filtering, and trading on pump.fun with specialized lanes for better signal.",
+      "author_handle": "@rimtoln",
+      "post_url": "https://x.com/rimtoln/status/2099505706911318486",
+      "reason": "Agent orchestration example but crypto-focused and not core AI research/innovation."
+    },
+    {
+      "project": "NEAR Protocol for agent economy",
+      "technical_takeaway": "Infrastructure claims: post-quantum signatures, 1M TPS benchmark, dynamic resharding for agent scaling.",
+      "author_handle": "@NEARProtocol",
+      "post_url": "https://x.com/NEARProtocol/status/2099506121266368975",
+      "reason": "Infrastructure mention but promotional and not a new AI-specific framework or breakthrough."
+    }
+  ],
+  "notes": "Limited high-signal posts in past 24h from seeds (only @bindureddy and @reach_vb active, mostly non-technical). Global search yielded agent-focused lists and memory tools as strongest matches. No major new repos or efficiency breakthroughs surfaced."
+}
