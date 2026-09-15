@@ -1,0 +1,59 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Astra Orchestrator",
+      "technical_takeaway": "Orchestrator doubles as verifier for long-running tasks like 3D modeling or video edits, enabling real-time work checking in agent systems.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2099644862882566519"
+    },
+    {
+      "project": "ChatGPT Voice Orchestration",
+      "technical_takeaway": "2.4x more voice usage in desktop app with ~60% price drop supports extended task orchestration and brainstorming with higher token budgets.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2099635820323811822"
+    },
+    {
+      "project": "AI Doomer Critique",
+      "technical_takeaway": "Effective Altruism influences on AI safety narratives traced to control motives rather than pure risk assessment.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2099673434066170127"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "OpenAI Agents API",
+      "technical_takeaway": "Managed layer for durable sessions, tool orchestration, subagents, and sandboxed execution shifts focus from prompts to observable recovery over hours/days; enables portable session state and spend caps.",
+      "author_handle": "@Gsdata5566",
+      "post_url": "https://x.com/Gsdata5566/status/2099750808233619738"
+    },
+    {
+      "project": "Tribune Multi-Agent Framework",
+      "technical_takeaway": "Session sticky attention routing (8x prefill latency drop via KV cache), Task Aware Knapsack quantization (87.3% memory compression), AST-hardened sandboxing, and recursive trace compaction for long-horizon memory.",
+      "author_handle": "@VaseGod",
+      "post_url": "https://x.com/VaseGod/status/2099294561097150559"
+    },
+    {
+      "project": "Open-Source AI Agent Repos",
+      "technical_takeaway": "Curated list including Agency Agents, Agent-Reach, Orca, OpenMontage, Codebase Memory MCP covering multi-agent teams, web research, coding, video, and persistent memory via MCP.",
+      "author_handle": "@RoundtableSpace",
+      "post_url": "https://x.com/RoundtableSpace/status/2099811715651133476"
+    },
+    {
+      "project": "20+ GitHub Repos for AI Agents 2026",
+      "technical_takeaway": "Core stack: MCP SDK/servers, MemGPT/Letta for memory, CrewAI/LangGraph/AutoGen for orchestration, Chroma/Qdrant for vectors, Ragas/Phoenix for eval, Ollama for local inference.",
+      "author_handle": "@Sabercodes123",
+      "post_url": "https://x.com/Sabercodes123/status/2099469025952600574"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Heterogeneous Agentic AI Systems",
+      "technical_takeaway": "MLIR-based compilation and dynamic orchestration for agent workloads across CPUs/accelerators with TCO optimization and SLA guarantees.",
+      "author_handle": "@sammyhill99",
+      "post_url": "https://x.com/sammyhill99/status/2099341839337947327",
+      "reason": "Discusses architecture but references a paper without new repo or benchmark details."
+    }
+  ],
+  "notes": "Seed experts yielded limited high-signal technical posts in 24h window; focused on orchestration mentions. Global search prioritized agent frameworks, memory optimizations, and open repos over general discussions. Max 6 per array enforced; no ultra-novel benchmarks found."
+}
