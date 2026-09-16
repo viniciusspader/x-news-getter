@@ -1,0 +1,47 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Abacus AI Bot",
+      "technical_takeaway": "100% free personal AI agent that runs locally on open-source code, automatically routes to free web LLMs for tasks like calendar management, bookings, and reservations; emphasizes data privacy and zero cost vs paid alternatives.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2100203322783178986"
+    },
+    {
+      "project": "Codex prompting techniques",
+      "technical_takeaway": "Models perform better with direct 'be fast' prompting than explicit plan mode; highlights shift toward reliable agentic execution without structured planning overhead.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2100127257075265687"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "DeepSeek V4.1-Flash",
+      "technical_takeaway": "New multimodal architecture with significantly smaller KV cache enabling faster/cheaper inference for long-context and agent workloads.",
+      "author_handle": "@AlpacaNetworkAI",
+      "post_url": "https://x.com/AlpacaNetworkAI/status/2100207745785905386"
+    },
+    {
+      "project": "Momo Code",
+      "technical_takeaway": "Evolving AI-powered coding agent framework for dynamic code generation and iteration.",
+      "author_handle": "@RepoGems",
+      "post_url": "https://x.com/RepoGems/status/2100207730678006166"
+    },
+    {
+      "project": "Minecraft as agent benchmark",
+      "technical_takeaway": "Practical, interpretable eval environment for testing agent capabilities in farming, crafting, and safe interaction before production deployment.",
+      "author_handle": "@akashc777",
+      "post_url": "https://x.com/akashc777/status/2100207742426222631"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "OpenAI Agents API + GPT-Live-1",
+      "technical_takeaway": "New infrastructure for agent workflows and real-time voice, plus other weekly AI news.",
+      "author_handle": "@AlpacaNetworkAI",
+      "post_url": "https://x.com/AlpacaNetworkAI/status/2100207745785905386",
+      "reason": "Aggregated news summary rather than primary technical deep-dive or new repo/framework release."
+    }
+  ],
+  "notes": "Limited high-signal activity in the 24h window; seed experts mostly quiet except Bindu Reddy's Abacus announcement and VB's Codex insights. Global results skewed toward general discussion; prioritized efficiency (KV cache) and agent tooling mentions."
+}
