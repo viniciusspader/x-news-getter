@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Jev / Abacus AI Agent",
+      "technical_takeaway": "Jev returns decisions (one probability per option) in a single forward pass instead of generating text/tokens; enables parallel fan-out of 50+ sub-tasks for planning/verification/safety in agents, shifting from serial Chain-of-Thought to wider parallel scheduling.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2100541390048383252"
+    },
+    {
+      "project": "Model harness evaluation",
+      "technical_takeaway": "Harness choice has little impact on task success rate but significantly affects cost; simple harnesses can compete with or beat native ones like Claude Code.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2100525372194328691"
+    },
+    {
+      "project": "Enterprise AI / org harness auth",
+      "technical_takeaway": "Managing auth in multiplayer channels (e.g., Slack) is the hardest part of enterprise AI vs personal AI; critical for managed deep agents.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2100055924928925768"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "humanlayer/skills visual-pr",
+      "technical_takeaway": "Open-sourced PR skill with steering to reduce slop/noise in agent PRs.",
+      "author_handle": "@dexhorthy",
+      "post_url": "https://x.com/dexhorthy/status/2100558413314859118",
+      "reason": "Relevant agent tooling but low technical depth and not from seed experts."
+    },
+    {
+      "project": "Various agent discussions",
+      "technical_takeaway": "Scattered mentions of agent traces, parallel decisions, and orchestration.",
+      "author_handle": "various",
+      "post_url": "https://x.com/AgentChud/status/2100562612329021938",
+      "reason": "Global keyword search returned mostly non-technical or off-topic posts despite filters; no additional high-signal innovations found."
+    }
+  ],
+  "notes": "Very low activity in past 24h from seed experts; only 3 high-signal technical posts identified. Global search yielded no qualifying innovations meeting strict criteria."
+}
