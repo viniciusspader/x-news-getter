@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Abacus AI SuperComputer for 3D Apps and Models",
+      "technical_takeaway": "Prompt to generate 3D games/models using Astra + Fable 5.1 in Max mode; supports hosting virtual worlds, multiplayer, payments, and databases for building full 3D companies.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2101134903622484175"
+    },
+    {
+      "project": "Jev model for agent loops",
+      "technical_takeaway": "Jev enables up to 200x faster inference and 400x lower cost on classification tasks; sparks internal demos for agent use, semantic triggers/crons, and browser automation like Wikipedia game or flight booking.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2101095843096912100"
+    },
+    {
+      "project": "Abacus AI Astra-level models",
+      "technical_takeaway": "Rumored Gemini 4 Pro pricing at $3/1M input and $12/1M output positions 5x cheaper Astra-level models as potentially earth-shattering for AI agents and supercomputing.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2101068283101536495"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Hermes Agent community tools",
+      "technical_takeaway": "Read-only web page for Hermes install details including skills, conversations, cron schedules, costs, memory, and plugins.",
+      "author_handle": "@witcheer",
+      "post_url": "https://x.com/witcheer/status/2101279655281955219",
+      "reason": "Mentions agent memory/plugins but low engagement and not a core technical innovation from seeds or high-signal global terms."
+    },
+    {
+      "project": "Astra agent building with EXAMINER/BUILDER/TRIAL/BIRTH",
+      "technical_takeaway": "Build test/exam first before agent code to ensure robustness; filters failures pre-shipment for agent orchestration.",
+      "author_handle": "@0xCodio",
+      "post_url": "https://x.com/0xCodio/status/2101281362493755759",
+      "reason": "Agent pattern discussion but from non-expert account and tangential to specified search terms."
+    }
+  ],
+  "notes": "Seed search yielded 3 high-signal AI agent/model posts from experts; global search returned mostly off-topic content despite filters, leading to empty global_discoveries array."
+}
