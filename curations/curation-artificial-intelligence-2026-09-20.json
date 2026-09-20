@@ -1,0 +1,43 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Task-Specific Model Selection",
+      "technical_takeaway": "Match models to use cases for optimal results: Fable 5.1 for hard coding, Astra for 3D, Deepseek for personal agents, GPT-image 2.5 for images, Flash 3.8 for research, SeeDance 2.5 for video, Sol for browser use, GLM/Deepseek for poor performance tasks, Grok for role play.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2101627520051548418"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Linux-maxxing with ChatGPT App",
+      "technical_takeaway": "Practical setup for running ChatGPT on Linux desktop in 2026, highlighting agent-like app integration.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2101449350199001443",
+      "reason": "Interesting practical tip but lacks new technical innovation, benchmarks, or open-source release."
+    },
+    {
+      "project": "tastecode beta 9",
+      "technical_takeaway": "Update to coding tool with improved Design Agent; GitHub repo available for feedback and issues.",
+      "author_handle": "@LexnLin",
+      "post_url": "https://x.com/LexnLin/status/2101651740604989756",
+      "reason": "Mentions agent improvements and repo but no detailed benchmarks, architecture details, or high-signal AI advancements."
+    },
+    {
+      "project": "ZUNON Agent SDK",
+      "technical_takeaway": "Agent launchpad with verifiable profiles, real-time indexing, and wallet-signed posts on Robinhood Chain.",
+      "author_handle": "@zunonhood",
+      "post_url": "https://x.com/zunonhood/status/2101653097500045531",
+      "reason": "Crypto-focused agent infrastructure; not core AI technical update like new frameworks or efficiency breakthroughs."
+    },
+    {
+      "project": "Class A vs Class B AI Users",
+      "technical_takeaway": "Divides users into AI-savvy builders (2-10x productivity) vs. fear-mongers resisting change.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2101366706308341900",
+      "reason": "Thoughtful commentary on implications but no technical details, repos, or innovations."
+    }
+  ],
+  "notes": "Searches yielded limited high-signal technical content in past 24h; focused on practical model use and agent tools but nothing meeting strict criteria for new repos/frameworks/benchmarks. Prioritized max 6 items total across sections."
+}
