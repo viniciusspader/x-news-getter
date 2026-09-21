@@ -1,0 +1,59 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Jev Decision Model",
+      "technical_takeaway": "New frontier model class optimized for decisions (20-200x faster, 40-400x cheaper); useful as cheap/fast semantic verifiers for agent evals and building harnesses",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2101873256097804529"
+    },
+    {
+      "project": "Jev as Judge / Decision Models",
+      "technical_takeaway": "Decision models output decisions vs language models outputting language; great for online evals grading many traces and building better agent harnesses",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2101710833810063632"
+    },
+    {
+      "project": "Frontier Model Launches & Task-Specific Models",
+      "technical_takeaway": "Expect multiple frontier drops soon; match models to tasks (e.g., Fable for hard coding, Astra for 3D, Deepseek for personal agents)",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2101627520051548418"
+    },
+    {
+      "project": "OpenAI Codex Computer Use",
+      "technical_takeaway": "Codex excels at reliable computer use/agentic tasks with easy prompting for fallbacks; acquisition of Sky/AriX underrated for this capability",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2101799938547962072"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "NEAR AI Cloud for Agents",
+      "technical_takeaway": "Hardware-sealed enclaves with cryptographic proof of execution for verifiable agent actions without trusting the provider",
+      "author_handle": "@NEARProtocol",
+      "post_url": "https://x.com/NEARProtocol/status/2102039549048209821"
+    },
+    {
+      "project": "Actionist Automation Framework",
+      "technical_takeaway": "Demonstrate tasks once (tabs, tools, decisions) to generate repeatable AI automations; community-owned model in Action Model ecosystem",
+      "author_handle": "@ActionModelAI",
+      "post_url": "https://x.com/ActionModelAI/status/2102038635688202680"
+    },
+    {
+      "project": "Meta Muse Personal Agent",
+      "technical_takeaway": "Focused implementation of ongoing-chat personal assistant agent (OpenClaw idea); highly accessible for non-technical users",
+      "author_handle": "@emollick",
+      "post_url": "https://x.com/emollick/status/2102033312554287270"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Jev Pod Discussion",
+      "technical_takeaway": "Podcast on new Jev model release and implications",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2101873256097804529",
+      "reason": "Announcement of discussion rather than technical details or code"
+    }
+  ],
+  "notes": "Limited high-signal technical posts in past 24h from seeds; focused on Jev/decision models and agent capabilities. Global search yielded verifiable agents and demo-based automation as strongest matches."
+}
