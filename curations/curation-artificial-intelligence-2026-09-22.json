@@ -1,0 +1,47 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Jev / Decision Models",
+      "technical_takeaway": "New 'decision models' (e.g. Jev via RLCD) optimized for reliable, cheap, fast decisions in agentic systems rather than chat; 20-200x faster, 40-400x cheaper; open-source alternatives like SemIf (Qwen3.5-based) close in performance on JevBench; integrates with LangSmith for scoring traces.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2102137581626388743"
+    },
+    {
+      "project": "Jev / System One Models",
+      "technical_takeaway": "Frontier model release emphasizing composable intelligence for decisions inside software (not chat-first); rejects public benchmarks; data/task > brute compute; potential to reshape coding agents and automation.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2101873256097804529"
+    },
+    {
+      "project": "Frontier Model Launches",
+      "technical_takeaway": "Multiple frontier model drops expected this week (e.g. Grok 4.7 at same price as prior); AI becoming more intelligent/perfect across labs.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2102019207479390653"
+    },
+    {
+      "project": "LLM Pareto Curve",
+      "technical_takeaway": "Models like certain releases sit on LLM pareto frontier in low-latency, single-token regime with high latent demand but under-investment due to focus on higher intelligence.",
+      "author_handle": "@karpathy",
+      "post_url": "https://x.com/karpathy/status/2102124533729955960"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Agent Builder / Trading Agents",
+      "technical_takeaway": "Tools for building autonomous trading agents with objectives, feedback loops on performance metrics like drawdown and consistency.",
+      "author_handle": "@e4ma_officiall",
+      "post_url": "https://x.com/e4ma_officiall/status/2102371325603918293",
+      "reason": "Tangential to agent orchestration but low technical depth and not core AI innovation."
+    },
+    {
+      "project": "Agent Economy Infrastructure",
+      "technical_takeaway": "Discussions on x402, affiliates, flywheels for agent economy; agent registries with ZK proofs for accountability.",
+      "author_handle": "@0xlyon01",
+      "post_url": "https://x.com/0xlyon01/status/2102369054153699455",
+      "reason": "Mentions agent frameworks but promotional/speculative, not high-signal technical update."
+    }
+  ],
+  "notes": "Seed experts yielded several high-signal posts on decision models, Jev, and frontier releases. Global keyword search returned mostly unrelated or low-signal content; no additional qualifying discoveries after filtering."
+}
