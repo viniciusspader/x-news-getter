@@ -1,0 +1,48 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "AGI/ASI Terminology",
+      "technical_takeaway": "Standard terminology shift: AGI leads to ASI; dropping 'Artificial' for cleaner terms like GI/SI after a decade of discussion.",
+      "author_handle": "@karpathy",
+      "post_url": "https://x.com/karpathy/status/2103528977583546678"
+    },
+    {
+      "project": "Model Comparison: Opus 5.5 vs Fable",
+      "technical_takeaway": "Opus 5.5 requires significantly more prompt iteration than Fable 5.1, resulting in 2x higher costs and time; users reverting to Fable.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2103761248030790052"
+    },
+    {
+      "project": "LangGraph + Jev for Agent Modeling",
+      "technical_takeaway": "LangGraph excels at modeling agents as complex systems; combining with Jev turbocharges small decision-making in agent workflows.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2103561974613446862"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "OpenCognit AI Agent OS",
+      "technical_takeaway": "Open-source agent OS with CEO agent breaking goals into tasks, persistent memory, critic loops, and specialist agents for team-like orchestration.",
+      "author_handle": "@mikenevermiss",
+      "post_url": "https://x.com/mikenevermiss/status/2103822961006321804",
+      "reason": "Mentions a repo but lacks direct link/details or benchmarks; tangential to core criteria."
+    },
+    {
+      "project": "E-commerce AI Agents Framework",
+      "technical_takeaway": "Practical patterns for agents in support, discovery, cart recovery with tools, permissions, idempotency, and policy enforcement.",
+      "author_handle": "@devXritesh",
+      "post_url": "https://x.com/devXritesh/status/2103824554959458615",
+      "reason": "Actionable but not a new repo/framework release; explanatory rather than innovative breakthrough."
+    },
+    {
+      "project": "UMAP Explainer Video",
+      "technical_takeaway": "Iterative prompting for educational video on UMAP with author feedback; rated 'not terrible' for undergrad level.",
+      "author_handle": "@goodside",
+      "post_url": "https://x.com/goodside/status/2103567337500840242",
+      "reason": "Low-signal commentary on existing technique, no new innovation or repo."
+    }
+  ],
+  "notes": "Past 24h yielded limited high-signal technical content from seeds or global search matching strict criteria (new repos, memory tech, benchmarks). Most posts are discussions or comparisons. Curated max relevant items; focused on expert commentary where possible."
+}
