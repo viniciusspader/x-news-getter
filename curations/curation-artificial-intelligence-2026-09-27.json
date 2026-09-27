@@ -1,0 +1,60 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Claude Opus 5.5 video generation",
+      "technical_takeaway": "Claude autonomously generates a 120s video of 1000 diverse matplotlib plots of synthetic data with synchronized high-energy techno music and transitions; started with smaller 100-plot version in 60s then scaled.",
+      "author_handle": "@goodside",
+      "post_url": "https://x.com/goodside/status/2103863167830876510"
+    },
+    {
+      "project": "Model benchmarking and iteration",
+      "technical_takeaway": "Deepseek Flash claims parity with Fable/Astra on benchmarks but underperforms in real use; Opus 5.5 requires more prompt iteration than Fable 5.1 leading to 2x cost and time, prompting switch back to Fable.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2103928665591734355"
+    },
+    {
+      "project": "OpenAI usage limits reset",
+      "technical_takeaway": "OpenAI resetting usage limits for paid users on Codex and ChatGPT work; reflects broader platform adjustments for developer productivity.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2103912596592267509"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "NightShift AI trading agent",
+      "technical_takeaway": "24/7 event-driven US stock agent on Bitget tokenized stocks/perps: monitors catalysts/abnormal moves, validates with market context/risk gates before alerting/executing; focuses on 'why' moves happen to avoid low-quality trades.",
+      "author_handle": "@martial_018",
+      "post_url": "https://x.com/martial_018/status/2104199277354315985"
+    },
+    {
+      "project": "HySparse2 hybrid sparse attention",
+      "technical_takeaway": "New architecture reduces prefill compute for million-token sequences by 5x via two-level KV sharing: early full-attention layers index relevant tokens; deeper sparse layers reuse KV caches from prior layers, skipping full recompute for long-horizon agents.",
+      "author_handle": "@EmergentMind",
+      "post_url": "https://x.com/EmergentMind/status/2103845203299709241"
+    },
+    {
+      "project": "Scoped repo handling for AI coding agents",
+      "technical_takeaway": "Avoid dumping full repos into context (causes drift/burn); use scoped file trees, ephemeral sub-agents per micro-task, and deterministic state serialization to disk before tool calls for production-grade reasoning.",
+      "author_handle": "@M_jawad_yasin",
+      "post_url": "https://x.com/M_jawad_yasin/status/2103974248683622574"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "TermiX AI agent platform",
+      "technical_takeaway": "On-chain AI agent workflow with 440K+ agents, jobs, escrow, verification, payments; persistent memory and security agent trials; focuses on full agent economy loop including reputation.",
+      "author_handle": "@Hasan_NFTOX",
+      "post_url": "https://x.com/Hasan_NFTOX/status/2104198853452767604",
+      "reason": "Crypto-focused agent infra with some technical details but more promotional than core AI innovation."
+    },
+    {
+      "project": "Enclave autonomous security agents",
+      "technical_takeaway": "Discussion on autonomous AI security agents for attackers/defenders in agent age.",
+      "author_handle": "@EnclaveAI",
+      "post_url": "https://x.com/EnclaveAI/status/2104198975800901936",
+      "reason": "High-level podcast mention without specific technical breakthroughs or benchmarks."
+    }
+  ],
+  "notes": "Limited high-signal posts in past 24h from seed experts; global search yielded agent architecture and efficiency examples. Many results were low-signal or off-topic (sports/crypto promos). Focused on technical takeaways around agents, context/KV management, and model use."
+}
