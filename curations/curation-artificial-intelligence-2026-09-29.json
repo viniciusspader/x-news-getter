@@ -1,0 +1,45 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Company OS vs Personal Agent",
+      "technical_takeaway": "Org harnesses differ from personal agents in needing multiplayer support, auth/memory handling for multiple users, stronger governance/observability/auditability, and event-driven async interactions; similarities include code execution, browser use, skills/MCP standards, and core agent loops.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2104940633018577400"
+    },
+    {
+      "project": "Self Improving Personal Agents",
+      "technical_takeaway": "Agents with persistent memory that learn user work patterns, chat via WhatsApp/Telegram, and automate heavy lifting for self-improvement.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2104799687480115423"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Raven 0.2.0",
+      "technical_takeaway": "Multi-agent orchestration harness combining specialist sub-harnesses (Research, Code, etc.) with external agents in a shared memory task graph; supports RSI where AI rewrites prompts/policies/strategy; 0.963 Node F1 on Multi-Agent Orchestration Benchmark; open source Apache-2.0.",
+      "author_handle": "@LongTermMemoryE",
+      "post_url": "https://x.com/LongTermMemoryE/status/2104745468119146913"
+    },
+    {
+      "project": "Hindsight Memory System",
+      "technical_takeaway": "Persistent memory with retain/recall/reflect operations using semantic/keyword/graph/time retrieval; builds mental models instead of flat logs; 91%+ on LongMemEval; open source, integrates with Claude Code, LangGraph, etc.; ~4.5k+ stars recently.",
+      "author_handle": "@audiee_ai",
+      "post_url": "https://x.com/audiee_ai/status/2104835894775787750"
+    },
+    {
+      "project": "AI Agent Memory Repos",
+      "technical_takeaway": "10 open-source projects for persistent/long-term agent memory including Mem0 (66k+ stars), Hindsight, Cognee (knowledge graphs), Graphiti, Letta (identity across sessions), and benchmarks like Agent Memory Benchmark; enables experience→remember→connect→retrieve→act→update loops.",
+      "author_handle": "@RoundtableSpace",
+      "post_url": "https://x.com/RoundtableSpace/status/2104477459525906866"
+    },
+    {
+      "project": "Agent Memory Research Papers",
+      "technical_takeaway": "New arXiv papers: DolphinBench (Pareto frontier for memory cost vs performance), EnSIMem (entity-structured indexing for long-term recall), Just-in-Time Memory (task-adaptive curation), Graph Memory cost analysis, and Total Cost of Agency attribution.",
+      "author_handle": "@omarsar0",
+      "post_url": "https://x.com/omarsar0/status/2104588113343357345"
+    }
+  ],
+  "near_misses": [],
+  "notes": "High-signal focus on agent orchestration, persistent memory techniques, and open-source frameworks from past 24h; no near-misses needed as multiple qualifying items found."
+}
