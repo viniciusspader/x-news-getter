@@ -1,0 +1,60 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Fable 5.1 Coding Agents",
+      "technical_takeaway": "Bindu Reddy moved 100% of coding agents back to Fable 5.1 as it outperforms others with least supervision; still imperfect but awaiting Fable 5.5; also highlights Gemini 4 Pro strengths in speed, low hallucination, and 3D game performance.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2105494364437074309"
+    },
+    {
+      "project": "TypeSafe AI Jev Model",
+      "technical_takeaway": "Discussion on TypeSafe AI raising $1B+ for Jev model focused on reliable decisions in software vs chat; emphasizes data/task over brute compute, System One Models for coding agents, and rejection of public benchmarks.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2105538561672085751"
+    },
+    {
+      "project": "Upcoming AI Models",
+      "technical_takeaway": "Bindu Reddy lists key models to watch in next 4-6 weeks: Gemini 4.0 Pro, Fable 5.5, Astra++, GLM 5.5; notes Gemini Argon pricing 5x cheaper than Astra with strong benchmarks.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2105377270823260508"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "OpenAI Agents API & Agent Stacks",
+      "technical_takeaway": "OpenAI's new Agents API commoditizes memory/reasoning orchestration; 20 GitHub repos detailed for agent memory (Mem0, Graphiti, Cognee, Letta), tools (Composio, Browser Use), execution (E2B, OpenHands), observability (AgentOps, Langfuse); example stacks for coding/research/persistent/production agents.",
+      "author_handle": "@RoundtableSpace",
+      "post_url": "https://x.com/RoundtableSpace/status/2105662771304312926"
+    },
+    {
+      "project": "Gemini 4 Argon & Model Optimizations",
+      "technical_takeaway": "Gemini 4 Argon uses agents to optimize data center memory (saving up to 1PB), 1M token output; benchmarks strong but pricing highlighted; contrasts with safety debates on open-weight models like GLM.",
+      "author_handle": "@RajAGIs",
+      "post_url": "https://x.com/RajAGIs/status/2105493220096610533"
+    },
+    {
+      "project": "Persistent Memory for Agents",
+      "technical_takeaway": "Persistent memory across agents enables coordinated team-like workflows with shared context, permissions, and progress; key unlock for long-running agent loops beyond isolated sessions.",
+      "author_handle": "@HanaFutureAI",
+      "post_url": "https://x.com/HanaFutureAI/status/2105379118686880209"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Robinhood Agentic Trades",
+      "technical_takeaway": "First live agentic trades in Robinhood app for bear spreads; limitations on futures/crypto and need for LLM integration noted.",
+      "author_handle": "@InvestwithMEH",
+      "post_url": "https://x.com/InvestwithMEH/status/2105671442092134737",
+      "reason": "More fintech demo than core AI technical innovation or framework."
+    },
+    {
+      "project": "AI Engineer NYC Compute Trading Track",
+      "technical_takeaway": "Announcement of compute trading track at upcoming AI Engineer event.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2105436589077955063",
+      "reason": "Event teaser, low technical detail on AI advancements."
+    }
+  ],
+  "notes": "Searches limited to past 24 hours yielded sparse high-signal posts from seeds (only 3 experts active); global search surfaced strong agent/memory/framework content. Prioritized practical, understandable innovations like repos and model updates. No truly groundbreaking new repos but solid curation of existing agent stacks."
+}
