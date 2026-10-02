@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "LLM Output Understanding Techniques",
+      "technical_takeaway": "Use ASD-STE100 controlled language, diagrams, HTML web pages, or custom explainer videos (e.g., 3b1b style with ElevenLabs) to better parse and understand LLM outputs as models improve; shifts work to oversight and custom artifacts.",
+      "author_handle": "@karpathy",
+      "post_url": "https://x.com/karpathy/status/2105819303471976479"
+    },
+    {
+      "project": "Decision Models and Agent Harnesses",
+      "technical_takeaway": "Open-sourced decision models like pplx-decider-27b and Cloudflare's Clef enable cheap typed answers for routing/approvals in agent harnesses; swap decision models easily; durable runtimes needed (e.g., Pi Durable, LangGraph).",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2105806366405484628"
+    },
+    {
+      "project": "Fable 5.5 and Gemini 4 Pro",
+      "technical_takeaway": "Upcoming Fable 5.5 as most capable accessible model; Gemini 4 Pro shows strong 3D game performance, speed, lower hallucinations; coding agents moved to Fable 5.1 for minimal supervision.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2105926692003074344"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Jev Model and TypeSafe AI",
+      "technical_takeaway": "Discussions around $1B raise for Jev model focused on reliable decisions in software vs chat; emphasizes data/tasks over brute compute and System One Models for agents.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2105538561672085751",
+      "reason": "Industry news on agent reliability but lacks specific technical repo/framework details or benchmarks."
+    },
+    {
+      "project": "SEO Agent by 哥飞",
+      "technical_takeaway": "AI agent combining SimilarWeb/SEMrush-like features for SEO tasks, useful for non-experts in overseas markets.",
+      "author_handle": "@_HIT_SZ_",
+      "post_url": "https://x.com/_HIT_SZ_/status/2106026687620325545",
+      "reason": "Mentions practical AI agent tool but not high-signal innovation or open-source release in past 24h."
+    }
+  ],
+  "notes": "Seed experts yielded insightful commentary on LLM usage and agent architectures; global keyword search returned mostly irrelevant results (jobs, crypto). No major new open-source repos or benchmarks found in 24h window."
+}
