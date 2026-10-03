@@ -1,0 +1,47 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [],
+  "global_discoveries": [
+    {
+      "project": "BitNet.cpp",
+      "technical_takeaway": "Inference framework for 1-bit/1.58-bit LLMs using ternary weights and optimized kernels; delivers 2-6x faster inference and 55-82% lower energy use on CPUs, enabling 100B-param models at 5-7 tokens/sec on single CPU; now with GPU kernels too.",
+      "author_handle": "@DivyanshT91162",
+      "post_url": "https://x.com/DivyanshT91162/status/2106363040895799770"
+    },
+    {
+      "project": "Expo + TesterArmy AI Agent Testing",
+      "technical_takeaway": "AI agents run E2E tests in plain English on cloud phone simulators integrated into PR workflows; automates mobile app testing via open-source framework.",
+      "author_handle": "@expo",
+      "post_url": "https://x.com/expo/status/2106364896049061891"
+    },
+    {
+      "project": "Core-Tail World Model (CTWM)",
+      "technical_takeaway": "Rank-based memory controller for long-horizon agents that allocates prompt budget via exponent τ, preserving coverage while cutting tokens 5.9-24% and reducing tail prediction errors.",
+      "author_handle": "@dhdevtest",
+      "post_url": "https://x.com/dhdevtest/status/2106087045278126288"
+    },
+    {
+      "project": "5 Open-Source Agent Repos Stack",
+      "technical_takeaway": "Composable stack: Pi (agent loop + tools), TencentDB (multi-type memory), Browser Use (web actions), E2B (sandboxed code exec), Langfuse (tracing/evals); >300k GitHub stars total for building autonomous agents.",
+      "author_handle": "@Damir_Akaza",
+      "post_url": "https://x.com/Damir_Akaza/status/2106076964352065735"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Gemini 4.0 Pro",
+      "technical_takeaway": "5x cheaper than Astra at near-frontier performance, advancing Google ahead of open-source models.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2106281199199256914",
+      "reason": "Model announcement/opinion from seed expert; lacks specific technical details on architecture or implementation."
+    },
+    {
+      "project": "TermiX Agent Marketplace",
+      "technical_takeaway": "Onchain infrastructure for agent commerce including identity, escrow, verification and reputation via economic workflows.",
+      "author_handle": "@aaminhajj__",
+      "post_url": "https://x.com/aaminhajj__/status/2106363524624621862",
+      "reason": "Agent economy discussion; more crypto-focused than core AI technical innovation."
+    }
+  ],
+  "notes": "Seed experts had low activity matching criteria in past 24h; focused on model commentary rather than repos/frameworks. Global search yielded efficiency and agent tooling highlights. No posts exceeded 6 per section."
+}
