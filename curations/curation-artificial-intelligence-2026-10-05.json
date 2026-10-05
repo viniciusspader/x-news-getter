@@ -1,0 +1,54 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "AI Onboarding Dynamics",
+      "technical_takeaway": "99%+ of current AI attention comes from people onboarded in under 1 year, creating confusion for pre-2026 (or pre-2012) AI experts due to rapid shifts in the field.",
+      "author_handle": "@karpathy",
+      "post_url": "https://x.com/karpathy/status/2106806571321966793"
+    },
+    {
+      "project": "Vibe Coding with Agents",
+      "technical_takeaway": "Shift from IDEs/CLIs to chat-based agent interactions allows non-technical 'vibe coders' to build effectively, democratizing development.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2107066348866289693"
+    },
+    {
+      "project": "US Open-Source Model Releases",
+      "technical_takeaway": "Multiple US stealth foundation model startups launching open-weight models soon, potentially rivaling frontier models with tweaks; skepticism remains but optimism for competition.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2106809394050769039"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Solar Mini 4 Model",
+      "technical_takeaway": "3B active parameters (35B total), 512K context window model scoring 24 on Artificial Analysis Intelligence Index (above 10x larger models); free on Nous Portal for 2 weeks with Hermes Agent integration.",
+      "author_handle": "@NousResearch",
+      "post_url": "https://x.com/NousResearch/status/2107138770088714678"
+    },
+    {
+      "project": "TermiX AI Agents",
+      "technical_takeaway": "Onchain AI agents for job discovery, negotiation, task completion, and stablecoin payments using identities, reputation, and service listings; enables agents as economic participants at scale.",
+      "author_handle": "@iam_islandboi",
+      "post_url": "https://x.com/iam_islandboi/status/2107148148908920922"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Binance Intelligence AI Suite",
+      "technical_takeaway": "AI suite with personalized app, strategy-building agent, and developer platform linking AI to trading tools.",
+      "author_handle": "@CoinMarketCap",
+      "post_url": "https://x.com/CoinMarketCap/status/2107147604421165407",
+      "reason": "Promotional product announcement without deep technical details or benchmarks on architecture/innovations."
+    },
+    {
+      "project": "AAS v18.15.0 Agent Skills",
+      "technical_takeaway": "2,652 skills update adding agent-generated pages, test coverage analysis, macro/FX data, quantitative research, and voice-matched content drafting.",
+      "author_handle": "@AASkills_",
+      "post_url": "https://x.com/AASkills_/status/2107146559645217194",
+      "reason": "Incremental app update focused on features rather than core AI technical breakthroughs like memory or efficiency."
+    }
+  ],
+  "notes": "Searches limited to past 24 hours yielded mostly commentary and announcements; few pure technical innovations met strict high-signal criteria for new repos/frameworks/memory techniques. Karpathy and Bindu posts provide accessible expert insights on field dynamics and agent shifts."
+}
