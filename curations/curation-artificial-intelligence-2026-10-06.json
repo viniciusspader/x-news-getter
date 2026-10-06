@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Cognition Devin Dreaming & Agent Memory Repo",
+      "technical_takeaway": "Devin builds a memory graph across sessions and self-improves it offline at night to remove stale records and discover latent info; open standard for Agent Memory Repo to enable validated inferred memories and better long-term recall in agents.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2107206402078851519"
+    },
+    {
+      "project": "Chinese open-source models for agents",
+      "technical_takeaway": "DeepSeek excels at simple personal agents with near-zero inference cost per user; upcoming GLM 5.5 expected to compete with or beat Opus/Sol; Sol 6.1 strong on browser use, Opus 5.5 on raw coding.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2107364472340005107"
+    },
+    {
+      "project": "ChatGPT Auto-review for agents",
+      "technical_takeaway": "Free Auto-review feature for signed-in users enables second agent to review primary agent's actions, preventing high-risk/unintended actions without consuming plan usage; reduces decision fatigue in long-running agent tasks.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2107379601521672241"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Strata KV cache & MoE optimization",
+      "technical_takeaway": "Techniques to fit 256K context on 16GB GPU by streaming KV cache from RAM and optimizing MoE expert computation on CPU/PCIe for faster local agent decode (17->53 tok/s).",
+      "author_handle": "@EugeneSmarts",
+      "post_url": "https://x.com/EugeneSmarts/status/2107477682082463952",
+      "reason": "Somewhat relevant to efficiency/memory in local agents but not a major new framework/repo or expert explanation; anecdotal benchmark."
+    },
+    {
+      "project": "Solo Discord bot for human verification",
+      "technical_takeaway": "Bot uses phone-based FHE human proof to distinguish real users from AI agents in Discord, addressing agent spam/CAPTCHA issues.",
+      "author_handle": "@projectsolo",
+      "post_url": "https://x.com/projectsolo/status/2107478487472955769",
+      "reason": "Touches on agent orchestration/automation but more crypto/social than core AI technical innovation."
+    }
+  ],
+  "notes": "Very limited high-signal activity in past 24h from seed experts or global search matching criteria. Focused on memory management and agent tooling mentions. No new open-source repos or major architecture breakthroughs surfaced."
+}
