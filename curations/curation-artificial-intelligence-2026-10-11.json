@@ -1,0 +1,53 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Internal Company Agents Identity & Credentials",
+      "technical_takeaway": "Discussion on future of internal agents: fixed credentials vs 'on behalf of' flows vs hybrid; proactive/background agents may need coworker-like identity treatment rather than user-proxy credentials.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2109269280231739408"
+    },
+    {
+      "project": "Google Internal Models (Carbon vs Argon)",
+      "technical_takeaway": "Google employees reportedly view internal Carbon model as superior to upcoming Gemini Pro 4 (Argon); potential for rapid release to compete with Fable 5.5/Astra 6.5.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2109067999928037825"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Decision Models & /v1/systemone Protocol for Agent Routing",
+      "technical_takeaway": "Shift from LLM JSON routing to lightweight specialized decision models outputting logits/probabilities directly (choice/noul/score primitives); fast/cheap/deterministic via Ollama, Perplexity, AWS etc.; vulnerable to adversarial injection (up to 72% flip rate).",
+      "author_handle": "@KostyaAI",
+      "post_url": "https://x.com/KostyaAI/status/2109068915091652880"
+    },
+    {
+      "project": "Persistent Agent Architecture (Lee Robinson)",
+      "technical_takeaway": "Systems for active/persistent agents using Firecracker microVMs for sleep/resume, Temporal workflows, single-tool clients, and prompt injection safety reviews.",
+      "author_handle": "@lunkertw",
+      "post_url": "https://x.com/lunkertw/status/2108763957586731494"
+    },
+    {
+      "project": "MemoType: Typed Memory Routing for Agents",
+      "technical_takeaway": "Separate retrieval strategy per memory type (vs single embedding search); MemoType classifier + TriMEM dataset yields up to 16.18% Recall@1 improvement.",
+      "author_handle": "@dair_ai",
+      "post_url": "https://x.com/dair_ai/status/2109045065930981708"
+    },
+    {
+      "project": "hello-agents & scientific-agent-skills GitHub Repos",
+      "technical_takeaway": "Open-source tutorials for agents from scratch (memory, tools, multi-agent orchestration) + 177 validated scientific skills/connectors for biology/chemistry/drug discovery.",
+      "author_handle": "@lunkertw",
+      "post_url": "https://x.com/lunkertw/status/2108763957586731494"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "OpenAI o1 Prompt Caching Controls",
+      "technical_takeaway": "New controls to pin system architectures in memory across reasoning passes, cutting latency 45% for production agents.",
+      "author_handle": "@Apoorva161816",
+      "post_url": "https://x.com/Apoorva161816/status/2108858055005962630",
+      "reason": "Mentions efficiency gain but lacks deep technical details or benchmarks."
+    }
+  ],
+  "notes": "Sparse high-signal posts from seed experts in past 24h; global search surfaced strong agent architecture/memory/routing innovations. Focused on actionable technical takeaways only."
+}
