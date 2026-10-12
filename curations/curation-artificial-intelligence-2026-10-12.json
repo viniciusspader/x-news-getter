@@ -1,0 +1,47 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Claude Managed Agents",
+      "technical_takeaway": "New public beta for multiagent orchestration: lead agent creates phased plans executed across multiple agents with result combination for complex workloads.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2109640508079263769"
+    },
+    {
+      "project": "AI Feed Form Factor",
+      "technical_takeaway": "Exploration of feed-based interfaces for agentic workflows to reduce prompting burden and enable discovery/approval of actions like drafted emails or updates.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2109585768649990218"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Meta Muse Wonder",
+      "technical_takeaway": "New model series for personal/professional agents with SOTA on agent benchmarks (SWE-Marathon 57.5, AutomationBench 45.4, MemoryBench 85.5); features Active Memory for cross-conversation context and Active Focus for goal persistence in multi-step tasks.",
+      "author_handle": "@ren_hongyu",
+      "post_url": "https://x.com/ren_hongyu/status/2109692281863491711"
+    },
+    {
+      "project": "Open-source AI Agent Memory Repos",
+      "technical_takeaway": "Curated list of 10 repos for persistent memory in agents including Mem0, Hindsight, memU, Cognee, Graphiti, OpenViking for long-term recall and context management.",
+      "author_handle": "@Shoumya23",
+      "post_url": "https://x.com/Shoumya23/status/2109492155672904026"
+    },
+    {
+      "project": "Multi-Agent Systems with Persistent Memory",
+      "technical_takeaway": "Paper shows three-tier chain-of-agents with persistent trace-recall reduces peak KV cache to 14.3 MiB (vs 35 MiB baseline) while maintaining accuracy; highlights efficiency in long-context work via memory patterns.",
+      "author_handle": "@omarsar0",
+      "post_url": "https://x.com/omarsar0/status/2109643758228869175"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "DigitalOcean Agent Services",
+      "technical_takeaway": "New Agent Learning/Data Services to capture failed sessions, convert to tests, and debug production agents before widespread impact.",
+      "author_handle": "@digitalocean",
+      "post_url": "https://x.com/digitalocean/status/2109658000612835374",
+      "reason": "Practical tool for agent reliability but more product announcement than core technical innovation or benchmark."
+    }
+  ],
+  "notes": "Limited high-signal technical posts from seed experts in 24h window; global search surfaced strong agent/memory focused updates. No major new frameworks/repos beyond memory lists."
+}
