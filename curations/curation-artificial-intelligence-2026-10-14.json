@@ -1,0 +1,53 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Gemini 4.0 Argon",
+      "technical_takeaway": "Google's latest model leads in data analysis and reasoning benchmarks, outperforming competitors like Fable 5.1 and Astra 6; frontier progress may be slowed by safety considerations giving Google an edge.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2110125492452163863"
+    },
+    {
+      "project": "LangChain Model Router",
+      "technical_takeaway": "Router in the harness routes coding agent threads to cheapest effective model (balanced/fast/performance tiers), achieving 64% cost reduction ($0.94 vs $2.61 median) with comparable PR merge rates on 973 threads.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2110041909284745578"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "ReHarness (Meta/MIT)",
+      "technical_takeaway": "Agentic continual learning framework that rewrites/reflects on retrieved memories post-task outcome using add/delete operations on reflection bank; outperforms baselines on 3 benchmarks with 16 tasks across 3 backbones by correcting overgeneralized lessons.",
+      "author_handle": "@dair_ai",
+      "post_url": "https://x.com/dair_ai/status/2110017231778373722"
+    },
+    {
+      "project": "Stateless Language Agents (SLA)",
+      "technical_takeaway": "Stores research progress externally for fresh context per agent run; Advisor coordinates, reducing token waste on long-horizon tasks with 93% fewer tokens while matching strong baselines on software engineering/optimization.",
+      "author_handle": "@askalphaxiv",
+      "post_url": "https://x.com/askalphaxiv/status/2109920072378863832"
+    },
+    {
+      "project": "AI Agent Infrastructure Stack",
+      "technical_takeaway": "Curated 15 GitHub repos for full agent systems: orchestration (LangGraph, Mastra, Agno), memory (Mem0, Graphiti, Letta), tools (Crawl4AI, Firecrawl, Browser Use, MCP, E2B), production (Temporal, LiteLLM, Langfuse, vLLM).",
+      "author_handle": "@Promixyz",
+      "post_url": "https://x.com/Promixyz/status/2110310642422780309"
+    },
+    {
+      "project": "Lighthouse Memory",
+      "technical_takeaway": "Persistent memory infrastructure for agents enabling reliable retrieve/verify/forget beyond simple storage; supports namespaces, tags, content-addressed data for long-running workflows and continuity.",
+      "author_handle": "@ahnafweb3",
+      "post_url": "https://x.com/ahnafweb3/status/2109981175481782358"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "OpenAI Engineer Arrest",
+      "technical_takeaway": "OpenAI used models to detect and trace a hidden recording device planted by an employee; no data exfiltration detected.",
+      "author_handle": "@goodside",
+      "post_url": "https://x.com/goodside/status/2110118594252083408",
+      "reason": "News event on security, not a technical AI innovation or framework update."
+    }
+  ],
+  "notes": "Seed experts had limited high-signal technical posts in the window; global search surfaced strong memory/architecture/agent infrastructure content. Focused on actionable, understandable innovations per guidelines. Max 6 per array maintained."
+}
