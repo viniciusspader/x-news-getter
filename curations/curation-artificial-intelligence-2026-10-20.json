@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Agent building best practices",
+      "technical_takeaway": "Start with harness (e.g. deepagents) for agents, add domain-specific context/skills/tools, then tweak harness or use LangGraph workflows if needed; revisit layers every 3-6 months as base models improve.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2112489626061738209"
+    },
+    {
+      "project": "Vertical vs horizontal agents",
+      "technical_takeaway": "Differentiation in vertical agents via context (prompts/skills/tools), harness (alters behavior), or model; most engineers focus on context then harness.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2112471992435667163"
+    },
+    {
+      "project": "New model releases and pricing",
+      "technical_takeaway": "Gemini Carbon (400% cheaper than Astra), Fable 5.5 (top leaderboards), Terra ($5/M tokens); Deepseek offers Sonnet-level perf at 10x cheaper but slower.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2112344405961322808"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Chinese AI labs updates",
+      "technical_takeaway": "Deepseek/Minimax new models out; Qwen 4 in testing, Kimi K3.1 spotted in repo; expected drops soon.",
+      "author_handle": "@notjazii",
+      "post_url": "https://x.com/notjazii/status/2112521349834916236",
+      "reason": "Mentions repos and models but lacks deep technical details or actionable insights for non-devs."
+    },
+    {
+      "project": "Agent ID and wallets",
+      "technical_takeaway": "Binance launching Agentic Wallet with .ai IDs for agents.",
+      "author_handle": "@7777chu",
+      "post_url": "https://x.com/7777chu/status/2112523969697919121",
+      "reason": "Crypto-focused agent infrastructure hype, not core AI technical innovation."
+    }
+  ],
+  "notes": "Limited high-signal technical posts in past 24h from seeds or global search matching strict criteria; focused on agent architecture discussions from experts."
+}
