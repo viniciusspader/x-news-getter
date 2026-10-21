@@ -1,0 +1,66 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "DeepSeek production efficiency and caching",
+      "technical_takeaway": "DeepSeek achieves 155T tokens/day from one cluster with 96% input cache hits, $38 revenue/GPU-hour at off-peak, ~80% margins; highlights supply-constrained token economics and value of long 72-hour caches.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2112804427962970271"
+    },
+    {
+      "project": "Argon video direction with Gemini",
+      "technical_takeaway": "Gemini models trained on YouTube corpus enable Argon as effective video director for models like SeeDance and ElevenLabs audio, outperforming Opus/Astra in viral video creation workflows.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2112786839463694780"
+    },
+    {
+      "project": "RL training in reasoning models",
+      "technical_takeaway": "RL is now effective as models cease speaking English in chain-of-thought, indicating successful non-linguistic internal reasoning.",
+      "author_handle": "@karpathy",
+      "post_url": "https://x.com/karpathy/status/2112763753754485205"
+    },
+    {
+      "project": "Grok Bot agent harness evolution",
+      "technical_takeaway": "Smarter models allow Cursor to remove prompts/guardrails but Grok Bot reintroduces them; breakout talk on agent harness design at AI Engineer NYC.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2112849969640259611"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Scaling Discovery Requires Forgetting (Berkeley paper)",
+      "technical_takeaway": "Periodic full state wipes in agent teams beat longer runs or parallel agents by up to 39% on search/optimization tasks by reducing anchoring; contrasts persistent memory hype (MemGPT, mem0).",
+      "author_handle": "@stretchcloud",
+      "post_url": "https://x.com/stretchcloud/status/2112347316103549412"
+    },
+    {
+      "project": "Beacon open-source memory layer",
+      "technical_takeaway": "Local-first memory for 20+ coding agents (Claude Code, Cursor, etc.) distills sessions into reusable skills via MCP; addresses context bloat in agent workflows.",
+      "author_handle": "@harshit10sehgal",
+      "post_url": "https://x.com/harshit10sehgal/status/2112780368785129749"
+    },
+    {
+      "project": "Ornith-1.5-122B open MoE model",
+      "technical_takeaway": "MIT-licensed 122B MoE strong on coding/agent tasks (84.5 SWE-bench Verified); runnable locally via Ollama/Unsloth for free agent testing.",
+      "author_handle": "@harshit10sehgal",
+      "post_url": "https://x.com/harshit10sehgal/status/2112780368785129749"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Agent marketplaces and commerce (termix_ai, AIKOLs)",
+      "technical_takeaway": "Agent service discovery, bidding, execution, and payment infrastructure for autonomous agents.",
+      "author_handle": "@Jaxon0x",
+      "post_url": "https://x.com/Jaxon0x/status/2112895974272070087",
+      "reason": "More ecosystem/business focused than core technical innovation or benchmark."
+    },
+    {
+      "project": "Various agent memory tools (Context Mode, Agentmemory, Agentic Brain)",
+      "technical_takeaway": "Multiple projects optimizing agent memory distillation and context efficiency.",
+      "author_handle": "@themuscleai",
+      "post_url": "https://x.com/themuscleai/status/2112696472508727735",
+      "reason": "Overlaps with global memory theme but lower signal than the Berkeley paper; promotional aggregation."
+    }
+  ],
+  "notes": "Searches limited to past 24h (since 2026-10-20); focused on technical depth like caching, RL, memory management, and open models. Few ultra-high-signal posts from exact seed list; global yielded strong memory/forgetting insights. Max 6 enforced."
+}
