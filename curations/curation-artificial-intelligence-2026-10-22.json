@@ -1,0 +1,53 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "RL in chain-of-thought",
+      "technical_takeaway": "Models ceasing to speak English in CoT indicates effective RL training, as noted in follow-up to prior observations.",
+      "author_handle": "@karpathy",
+      "post_url": "https://x.com/karpathy/status/2112763753754485205"
+    },
+    {
+      "project": "Agent swarms for vulnerability discovery",
+      "technical_takeaway": "Frontier labs deploying millions of agents powered by top models to find and patch exploits at scale, outperforming random access restrictions.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2113089363529904156"
+    },
+    {
+      "project": "SmithTune trace-based fine-tuning",
+      "technical_takeaway": "Logged traces from successful runs serve as training data to fine-tune small 9B models that outperform frontier models on task-specific benchmarks like security context.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2112983115215802417"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Cache engineering for agent KV cache",
+      "technical_takeaway": "Method drops selected KV cache entries while adjusting position encodings, keeping latest tool responses; improves scores by 1.7 pts and cuts costs 27.7% vs summarization on agent benchmarks.",
+      "author_handle": "@AIQuanting",
+      "post_url": "https://x.com/AIQuanting/status/2113196778149576901"
+    },
+    {
+      "project": "Continual learning memory benchmark",
+      "technical_takeaway": "New benchmark measures persistent agent memory capabilities; Opus 5.5 leads, with strong open-weight performance from GLM-5.3, highlighting unsolved long-horizon memory needs.",
+      "author_handle": "@omarsar0",
+      "post_url": "https://x.com/omarsar0/status/2113034713774363040"
+    },
+    {
+      "project": "Decoupling state from compute for agent memory",
+      "technical_takeaway": "Recursive files enable persistent multi-agent memory without central bottlenecks, standardizing workflows despite latency tradeoffs in commits.",
+      "author_handle": "@insight_alchemy",
+      "post_url": "https://x.com/insight_alchemy/status/2112975621760713034"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Fastlane AI ad agent",
+      "technical_takeaway": "End-to-end AI agent for ads: learns product, tracks competitors, builds/scales campaigns automatically.",
+      "author_handle": "@gauravsbuilding",
+      "post_url": "https://x.com/gauravsbuilding/status/2113170669877997889",
+      "reason": "Commercial product demo rather than technical innovation or open research."
+    }
+  ],
+  "notes": "Sparse high-signal technical posts from seed experts in the 24h window; global search surfaced memory management and agent efficiency topics as most relevant. No major new repos or frameworks identified."
+}
