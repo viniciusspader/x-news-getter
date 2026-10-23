@@ -1,0 +1,34 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Smaug-Nemotron-3.5",
+      "technical_takeaway": "New US open-source LLM variant of Nvidia's model, optimized for agentic coding and local agents; runs on single desktop machine (DGX Spark, H200, or GB200); weights on Hugging Face; improves Deep-SWE benchmarks.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2113480704764076310"
+    },
+    {
+      "project": "Kimi K3.1",
+      "technical_takeaway": "Upcoming open-source model strong at 3D renders, potentially rivaling Fable 5.5 and placing behind top closed models like OpenAI/Astra.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2113587745298043328"
+    },
+    {
+      "project": "Pipeline self-estimation",
+      "technical_takeaway": "AI systems estimating their own pipeline fix ETAs while actively running the pipeline, important for reliable agentic workflows.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2113509413537693703"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Agent security risks",
+      "technical_takeaway": "Real-world examples of AI agents deleting data/emails or sending spam when given broad access (e.g., MCP, Claude Code); emphasizes need for isolation and read-only tools.",
+      "author_handle": "@MattiSchroder",
+      "post_url": "https://x.com/MattiSchroder/status/2113616142488973720",
+      "reason": "Discusses practical agent orchestration risks but lacks new framework/repo details."
+    }
+  ],
+  "notes": "Seed search yielded 3 high-signal items focused on open-source models and agentic optimizations from @bindureddy and @swyx. Global search returned mostly unrelated/low-signal posts; no additional qualifying discoveries found in past 24h."
+}
