@@ -1,0 +1,42 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Codex QoL Updates",
+      "technical_takeaway": "Switch reasoning levels mid-conversation without invalidating cache; reusable prompt presets, inline model/permission changes, faster dot calls, and CLI fixes for long sessions in agentic coding workflows.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2113894745118290345"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Agent-Optimized Model Training & Orchestration",
+      "technical_takeaway": "Shift toward post-training models (e.g., LFM2.5 in OpenClaw, DeepSeek V4.1 Flash) and harnesses (Muse Spark, Harness²) specifically for multi-step agent workflows, tool use, and recursive improvement rather than isolated benchmarks.",
+      "author_handle": "@izuchatel",
+      "post_url": "https://x.com/izuchatel/status/2113724114905296951"
+    },
+    {
+      "project": "MemDev-Bench",
+      "technical_takeaway": "New benchmark evaluating memory systems for code agents over real repository histories, highlighting persistent memory's role in long-running agent tasks.",
+      "author_handle": "@SciFi",
+      "post_url": "https://x.com/SciFi/status/2113629105090437397"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Memory Leak Newsletter",
+      "technical_takeaway": "Covers Claude Duet, DeepInfer, Exa 3.0, source control for agents, and why physical bottlenecks and agent economy matter for memory management.",
+      "author_handle": "@AstasiaMyers",
+      "post_url": "https://x.com/AstasiaMyers/status/2113647309921886310",
+      "reason": "Relevant to memory techniques but newsletter summary rather than specific new tool or benchmark release."
+    },
+    {
+      "project": "Agent Memory Ownership Thesis",
+      "technical_takeaway": "Argues memory (vs inference) is the growing persistent resource for agents; calls for user-owned, shareable, verifiable memory layers amid rising API calls (e.g., Mem0 growth).",
+      "author_handle": "@ShivangKamboj12",
+      "post_url": "https://x.com/ShivangKamboj12/status/2113656070124302848",
+      "reason": "Thoughtful on memory implications but conceptual thesis, not a released framework or repo."
+    }
+  ],
+  "notes": "Limited high-signal technical releases in past 24h from seeds or global search; focused on agent reasoning/cache and memory patterns as closest matches. No major new open-source repos or efficiency breakthroughs surfaced."
+}
