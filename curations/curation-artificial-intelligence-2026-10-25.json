@@ -1,0 +1,54 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Vibe Code Your Own LLM",
+      "technical_takeaway": "Abacus AI SuperComputer enables text prompt to custom-trained LLM in an hour via GPU training of custom weights, democratizing LLM creation without PhD.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2114018803713773911"
+    },
+    {
+      "project": "Smaug-Nemotron",
+      "technical_takeaway": "Best US open-source model in agentic category; runs locally on desktop, tops agentic coding, #1 on cost/task, built on Nvidia's latest model; weights on HF.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2113836762921320815"
+    },
+    {
+      "project": "Deepseek Flash",
+      "technical_takeaway": "Hard to beat on easy tasks: monthly updates, 10x cheaper than Sonnet, multimodal outputs, ultra fast options coming; strong price/performance combo.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2114311735087874461"
+    },
+    {
+      "project": "LangChain Agents",
+      "technical_takeaway": "Widespread internal adoption of agents across teams; content studio for diagrams/videos/PPTs; ongoing work on business agent tools with early access available.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2114085240163676648"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "NVIDIA OpenShell",
+      "technical_takeaway": "Safe sandbox for AI agents enforcing permissions at kernel level; agents never access real credentials; 19.7K GitHub stars.",
+      "author_handle": "@RoundtableSpace",
+      "post_url": "https://x.com/RoundtableSpace/status/2114337429322969546"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Kronos AI Model",
+      "technical_takeaway": "Open-source AI for candlestick chart forecasting trained on 45+ exchanges; live BTC demo; 43.7K stars.",
+      "author_handle": "@RoundtableSpace",
+      "post_url": "https://x.com/RoundtableSpace/status/2114337429322969546",
+      "reason": "Financial AI focus, less core to general AI agent/framework innovations."
+    },
+    {
+      "project": "First Prompt Engineer",
+      "technical_takeaway": "Andrew Mayne at OpenAI noted as first professional prompt engineer.",
+      "author_handle": "@goodside",
+      "post_url": "https://x.com/goodside/status/2113850349471805798",
+      "reason": "Historical note, not a new technical update or innovation."
+    }
+  ],
+  "notes": "Limited high-signal posts in past 24h from seeds (mostly bindureddy on models/LLMs, hwchase17 on agents). Global yielded one strong repo (NVIDIA OpenShell). Many other posts low-signal or off-topic; filtered strictly to AI tech relevance."
+}
