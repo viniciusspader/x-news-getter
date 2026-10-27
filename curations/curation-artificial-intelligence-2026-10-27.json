@@ -1,0 +1,35 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [],
+  "global_discoveries": [
+    {
+      "project": "SuperPlane 1.0",
+      "technical_takeaway": "Open-source software factory that automates coding agent coordination: scans backlog, runs agents, handles CI failures and reviews, enabling 52% automated PR merges with team-shared standards and self-hosted options.",
+      "author_handle": "@darkofabijan",
+      "post_url": "https://x.com/darkofabijan/status/2115037955480048100"
+    },
+    {
+      "project": "AKV",
+      "technical_takeaway": "Tsinghua open-source serving system for LLM agents to manage own KV cache via selective dropping and Repos re-rotation of RoPE keys; reduces cost 27.7% and boosts scores on agent benchmarks vs. summarization, Apache-2.0 with SGLang extension.",
+      "author_handle": "@Marktechpost",
+      "post_url": "https://x.com/Marktechpost/status/2114627873265078621"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Netpreme memory tiering",
+      "technical_takeaway": "Discussion on AI-native memory systems and KV cache tiering for agents to reduce HBM costs during tool calls.",
+      "author_handle": "@netpreme",
+      "post_url": "https://x.com/netpreme/status/2114850282480021841",
+      "reason": "Conceptual but lacks specific new repo or benchmark results."
+    },
+    {
+      "project": "Rex UI",
+      "technical_takeaway": "UI tour for pane management, process and agent activity in what appears to be an agent dev environment.",
+      "author_handle": "@almonk",
+      "post_url": "https://x.com/almonk/status/2115075350203969991",
+      "reason": "Demo video but no technical details or open-source link provided in post."
+    }
+  ],
+  "notes": "Seed experts had only low-signal casual replies in the past 24h. Global search surfaced two strong technical innovations around agent orchestration and KV cache management; others were tangential or promotional."
+}
