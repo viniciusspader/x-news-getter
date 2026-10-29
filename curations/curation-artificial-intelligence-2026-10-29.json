@@ -1,0 +1,53 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Managed Deep Agents (LangChain)",
+      "technical_takeaway": "Crons enable proactive agents via scheduled runs for memory 'dreaming', user reminders, and new capabilities in agent harnesses beyond reactive prompts.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2115479787145929060"
+    },
+    {
+      "project": "OpenAI API Credits",
+      "technical_takeaway": "Eligible ChatGPT Pro/Business users get up to $500/month API credits for building apps and agents using GPT Live, Image 2.5, Decisions API.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2115590424421110239"
+    },
+    {
+      "project": "AI Distillation Trends",
+      "technical_takeaway": "Chinese models actively distilling from Astra (Anthropic blocked access); leads to model homogenization and OpenAI earning 6-7% distillation revenue.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2115624798982381577"
+    },
+    {
+      "project": "LLM Book Knowledge Limits",
+      "technical_takeaway": "LLMs excel at classics/best-sellers with online discussion but struggle with obscure/self-published books even with full text access via agents.",
+      "author_handle": "@goodside",
+      "post_url": "https://x.com/goodside/status/2115475064208625882"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Snaptrude Agent",
+      "technical_takeaway": "AI agent for architecture: generates LOD 400 BIM models (structure, MEP, drawings) from site/brief; handles iterative updates; benchmarked on AECBench.",
+      "author_handle": "@altafganihar",
+      "post_url": "https://x.com/altafganihar/status/2115808566439264349"
+    },
+    {
+      "project": "Google Multi-Agent Masterclass",
+      "technical_takeaway": "Free 2-hour course on building from single prompt to self-improving multi-agent systems: agents, feedback loops, graphs, orchestration, and self-regulation.",
+      "author_handle": "@hikarinsy",
+      "post_url": "https://x.com/hikarinsy/status/2115817707849367979"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Agent Autonomy Levels",
+      "technical_takeaway": "Discussion of 7 levels from babysitting agents to autonomous fleets; emphasizes loops and harnesses over raw model power.",
+      "author_handle": "@m4lkxx",
+      "post_url": "https://x.com/m4lkxx/status/2114338456750997922",
+      "reason": "Relevant to agent patterns but lacks specific new repo/framework or benchmark details in the past 24h."
+    }
+  ],
+  "notes": "Limited high-signal technical posts in past 24h from seeds or global search; focused on agent orchestration, API access, and distillation. No major new open-source repos found."
+}
