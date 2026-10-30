@@ -1,0 +1,54 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Managed Deep Agents 0.10",
+      "technical_takeaway": "Adds async subagents and browser use for handling long tasks and non-API web interactions; integrates harness and infra for better agent engineering.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2115854759991369840"
+    },
+    {
+      "project": "Abacus AI models (Argon, Astra)",
+      "technical_takeaway": "Argon excels at data analysis; Astra strong in browser use; highlights underhyped non-coding agent capabilities beyond developer focus.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2115953892743872525"
+    },
+    {
+      "project": "Coding agents and unhobbling",
+      "technical_takeaway": "Discusses mania in coding agents as potential avoidance; excitement around unhobbling models at events like CODE26.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2116071665633558776"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "TermiX AACP agent economy",
+      "technical_takeaway": "Infrastructure for agents to discover/hire others, negotiate, escrow payments, verify work, build onchain reputation; integrates Binance Agent ID for coordination.",
+      "author_handle": "@amarisazuki",
+      "post_url": "https://x.com/amarisazuki/status/2116178731743993967"
+    },
+    {
+      "project": "Supabase agent-first design",
+      "technical_takeaway": "70% new activity from agents; rebuilding around agent users with evals, personal databases, and design for agents building software autonomously.",
+      "author_handle": "@ycombinator",
+      "post_url": "https://x.com/ycombinator/status/2116176659795825035"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "OpenAI Model Spec update",
+      "technical_takeaway": "Clarifies model behavior for more autonomous work; recommended read for agent capabilities.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2115897225796854213",
+      "reason": "High-level announcement without deep technical details or benchmarks."
+    },
+    {
+      "project": "Claude Code agent harness",
+      "technical_takeaway": "Building harnesses/loops/graphs for agents to reduce babysitting and enable fleets.",
+      "author_handle": "@mirrorxbt",
+      "post_url": "https://x.com/mirrorxbt/status/2116178371830792566",
+      "reason": "Promotional thread on agent autonomy; lacks specific new repo or benchmark data."
+    }
+  ],
+  "notes": "Limited high-signal technical posts in past 24h from seeds; focused on agent frameworks and capabilities. Global search yielded agent economy and backend innovations but many were promotional."
+}
