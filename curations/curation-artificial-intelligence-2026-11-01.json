@@ -1,0 +1,48 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Hackertube",
+      "technical_takeaway": "swyx highlights @karpathy using medium effort (Opus 5.5) on latest project; advocates low-effort + critique loop over maximal effort for throughput-constrained users, referencing skills/babysit-runs approach.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2116773135668404286"
+    },
+    {
+      "project": "Upcoming AI Models",
+      "technical_takeaway": "Bindu Reddy notes AI gloom will lift with drops of Astra 6.1, Fable 5.5, and Carbon; Astra likely first post-midterms.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2116732641932456246"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "TermiX Skills",
+      "technical_takeaway": "New skills marketplace allowing Claude/Grok agents to autonomously take paid tasks (code, design, automation) via task market with chain settlement; install via prompt for existing agents.",
+      "author_handle": "@GaoShanZkk",
+      "post_url": "https://x.com/GaoShanZkk/status/2116902205018312823"
+    },
+    {
+      "project": "Agent Harness Engineering",
+      "technical_takeaway": "Shift from prompting to building self-prompting systems with memory, self-fix, loops/graphs; Anthropic engineers use for 90-min autonomous runs; harnesses like Harness² and DynaFlow enable self-improving agents.",
+      "author_handle": "@crlazeeee",
+      "post_url": "https://x.com/crlazeeee/status/2116902058796212634"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Hermes Agent Memory",
+      "technical_takeaway": "Clean out-of-box memory with MEMORYmd snapshots + sqlite fts5 for fast retrieval and minimal context bloat; hybrid lexical/semantic recall suggested.",
+      "author_handle": "@nicravesh",
+      "post_url": "https://x.com/nicravesh/status/2116502784178528652",
+      "reason": "Interesting memory technique but low engagement and not from seed experts or core framework release."
+    },
+    {
+      "project": "terrio v0.6.0",
+      "technical_takeaway": "Rust geospatial lib with AI agent integration, new CRS/projections, raster/vector tools; pure Rust no GDAL deps in builds.",
+      "author_handle": "@giswqs",
+      "post_url": "https://x.com/giswqs/status/2116900259716534689",
+      "reason": "Technical update but geospatial focus, not core AI agent/framework innovation."
+    }
+  ],
+  "notes": "Sparse high-signal activity in past 24h from seeds (mostly casual); global yields agent marketplace and harness patterns as closest to criteria. No major new repos or benchmarks found."
+}
