@@ -1,0 +1,29 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [],
+  "global_discoveries": [
+    {
+      "project": "EntelligenceAI Memory",
+      "technical_takeaway": "Shared persistent memory graph for coding agents across sessions, PRs, tickets, and incidents; enables full recall for new sessions and reduces repeat errors by 53%. Available for Claude Code, Codex, and Cursor.",
+      "author_handle": "@Aiswarya_Sankar",
+      "post_url": "https://x.com/Aiswarya_Sankar/status/2117309482430812348"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Grok Bot orchestration patterns",
+      "technical_takeaway": "Multi-bot workflow using a 'train station' pattern with one scout bot triggering others via DONE signals on a shared board; reduces wake-ups by ~95% while maintaining output for research-to-launch pipelines.",
+      "author_handle": "@gippp69",
+      "post_url": "https://x.com/gippp69/status/2117308624879919216",
+      "reason": "Practical agent orchestration example but lacks new open-source repo or formal framework release."
+    },
+    {
+      "project": "Anthropic 'Building Effective Agents' guidance",
+      "technical_takeaway": "Prefer simple workflows over full agents for most tasks; use agents only for hard problems with human oversight on final steps to avoid unnecessary complexity and cost.",
+      "author_handle": "@molodoykiskaeb",
+      "post_url": "https://x.com/molodoykiskaeb/status/2117308506525344039",
+      "reason": "Expert commentary on agent design patterns but no new tool or benchmark data."
+    }
+  ],
+  "notes": "Seed experts posted mostly market/opinion content on Anthropic, compute constraints, and AI company dynamics with no technical innovations in the past 24h. Global search yielded one clear high-signal memory tool; others are near-miss workflow examples."
+}
