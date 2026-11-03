@@ -1,0 +1,41 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "Weight Space Programming",
+      "technical_takeaway": "Frontier LLMs like GPT-6 Astra can directly edit weights of smaller models (e.g., Qwen3.5-0.8B) by changing only 0.016% of weights to fix reasoning loops, boosting math performance up to 6x and instruction following 3x without gradients or training; drives token price reductions.",
+      "author_handle": "@bindureddy",
+      "post_url": "https://x.com/bindureddy/status/2117500050330783828"
+    },
+    {
+      "project": "Claude Code browser extensions",
+      "technical_takeaway": "Users can instruct Claude Code to create and deploy browser extensions, e.g., one that replaces YouTube thumbnails with mid-video frames and includes a toggle, demonstrating practical agentic coding capabilities.",
+      "author_handle": "@karpathy",
+      "post_url": "https://x.com/karpathy/status/2117431189074330032"
+    },
+    {
+      "project": "Agent/org level memory as skills",
+      "technical_takeaway": "Discusses whether agent or organizational memory equates to 'skills' with processes for updating from traces/history, highlighting implications for persistent agent capabilities.",
+      "author_handle": "@hwchase17",
+      "post_url": "https://x.com/hwchase17/status/2117465596342509793"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "Anthropic code changes and verification",
+      "technical_takeaway": "Anthropic handles 30k code changes daily in a 'dark factory' approach requiring independent verification loops per change.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2117558305891746212",
+      "reason": "Mentions engineering practices but lacks new repo/framework details or benchmarks."
+    },
+    {
+      "project": "Agent orchestration and loops",
+      "technical_takeaway": "Shift from prompting agents to building graphs/loops where agents build other agents; includes agent economy structures like AACP for inter-agent hiring and payments.",
+      "author_handle": "@omnisc1entt",
+      "post_url": "https://x.com/omnisc1entt/status/2117640248943382830",
+      "reason": "Discusses agent patterns but no specific open-source release or efficiency breakthrough."
+    }
+  ],
+  "notes": "Limited high-signal technical posts in past 24h from seeds; global search yielded mostly tangential agent discussions without concrete innovations matching criteria. Focused on weight-space editing and agentic coding as standout items."
+}
