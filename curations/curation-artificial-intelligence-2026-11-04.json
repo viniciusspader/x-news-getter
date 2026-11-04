@@ -1,0 +1,43 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "OpenAI Codex acquisition of Pierre Computer",
+      "technical_takeaway": "OpenAI acquires Pierre's open-source developer tools to accelerate Codex for team software building with AI in the agentic era, building on existing integrations.",
+      "author_handle": "@reach_vb",
+      "post_url": "https://x.com/reach_vb/status/2118003590271009030"
+    }
+  ],
+  "global_discoveries": [],
+  "near_misses": [
+    {
+      "project": "terminal-mac MCP integration",
+      "technical_takeaway": "Terminal-mac hits 1.2k GitHub stars quickly with built-in MCP + skills for giving agents a Mac environment via simple commands.",
+      "author_handle": "@kirtandopamine",
+      "post_url": "https://x.com/kirtandopamine/status/2118007243429859489",
+      "reason": "Mentions a new repo/tool but lacks deep technical details or benchmarks on agent patterns/memory."
+    },
+    {
+      "project": "Agent-Autoloop open source",
+      "technical_takeaway": "Full-year project automating agent loops released open source, covering scheduling and engineering lessons.",
+      "author_handle": "@lunkertw",
+      "post_url": "https://x.com/lunkertw/status/2117810482073768084",
+      "reason": "Relevant to agent orchestration but summary only, no specific innovations or links to evaluate."
+    },
+    {
+      "project": "Spotify Portal AI plugins",
+      "technical_takeaway": "Spotify integrates Portal with coding agents like Claude Code, featuring shunt plugin for routing I/O tasks.",
+      "author_handle": "@lunkertw",
+      "post_url": "https://x.com/lunkertw/status/2117810482073768084",
+      "reason": "Framework/tool mention but not a new open-source release or efficiency breakthrough with details."
+    },
+    {
+      "project": "Revolut self-hosted GLM models",
+      "technical_takeaway": "Revolut moves engineers to self-hosted open models cutting AI bill 90%, with 56 GPUs for cluster.",
+      "author_handle": "@borjaperfra",
+      "post_url": "https://x.com/borjaperfra/status/2118006179976696014",
+      "reason": "Efficiency example but not a new repo/framework or architecture innovation."
+    }
+  ],
+  "notes": "Past 24 hours yielded limited high-signal technical content from seeds or global search matching criteria (e.g., no major new repos, memory techniques, or benchmarks). Focused on most relevant near-misses."
+}
