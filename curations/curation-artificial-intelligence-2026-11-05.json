@@ -1,0 +1,53 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [
+    {
+      "project": "AIE Shanghai",
+      "technical_takeaway": "First AIE event in China with packed attendance, featuring talks from @ryolu_ and companies like Microsoft, MiniMax, Meta; emphasizes builder community over big conferences like OpenAI Dev Day.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2118246851136909731"
+    },
+    {
+      "project": "AIE Shanghai Day 1",
+      "technical_takeaway": "Highlights execution of AI builder events in new regions with hot schedule including @ryolu_ keynote; videos and takes to follow as not livestreamed.",
+      "author_handle": "@swyx",
+      "post_url": "https://x.com/swyx/status/2118251501214896570"
+    }
+  ],
+  "global_discoveries": [
+    {
+      "project": "Strata 0.2.11",
+      "technical_takeaway": "Open-source tool enabling 2x speedup (31-62 tok/s) for Qwen3.8-Flash-Next on 12GB VRAM cards via Unsloth quantization and layer splitting; supports multi-card, agents, long context; GitHub linked.",
+      "author_handle": "@xiax0603",
+      "post_url": "https://x.com/xiax0603/status/2118371496607527155"
+    },
+    {
+      "project": "Eon Yukon",
+      "technical_takeaway": "Serverless data engine for AI agents delivering fresh Iceberg tables in seconds with sub-ms latency, 4-7x less compute than Spark/Flink; includes live stats, monitoring for autonomous data foundation.",
+      "author_handle": "@gabilovestursia",
+      "post_url": "https://x.com/gabilovestursia/status/2118370622438879304"
+    },
+    {
+      "project": "Craft Anything",
+      "technical_takeaway": "Open-sourced reverse engineering engine for AI coding agents; enables full RE loop with Grok bot crew to rebuild apps from websites/desktop/mobile; GitHub repo after Claude ban on similar tools.",
+      "author_handle": "@monokern",
+      "post_url": "https://x.com/monokern/status/2118370857647018335"
+    },
+    {
+      "project": "Mistral Vibe Workflows & Agents",
+      "technical_takeaway": "Platform for rule-based workflows with agent reasoning/human approvals and managed agents with skills/sandboxes; saves 35h/week on ops, hundreds of hours on incidents via automation.",
+      "author_handle": "@MistralAI",
+      "post_url": "https://x.com/MistralAI/status/2118370237280043428"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Motes AI Agents",
+      "technical_takeaway": "Onchain mandates for AI agents controlling financial assets with user-defined permissions and separate accounts for controlled autonomy.",
+      "author_handle": "@Akanimo_dx",
+      "post_url": "https://x.com/Akanimo_dx/status/2118370873149137019",
+      "reason": "Interesting agent control pattern but more fintech-focused than core AI technical innovation."
+    }
+  ],
+  "notes": "Limited seed expert activity in past 24h due to rate limits on searches; focused on high-signal agent/framework updates from global search. No posts found for several seeds like @jxmnc."
+}
