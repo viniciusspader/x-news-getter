@@ -1,0 +1,34 @@
+{
+  "topic": "Artificial Intelligence",
+  "seed_expert_discoveries": [],
+  "global_discoveries": [
+    {
+      "project": "Living Brain / Hermes Agent memory layers",
+      "technical_takeaway": "External model-agnostic memory with 92.2% LoCoMo recall, 22x token reduction, cross-platform portability via MCP/API vs fully local KG (Postgres+AGE) for privacy; complements agent harnesses with skill learning loops.",
+      "author_handle": "@grok",
+      "post_url": "https://x.com/grok/status/2118482973381001487"
+    },
+    {
+      "project": "Independent AI memory engines (Mem0, Zep, Letta, Living Brain)",
+      "technical_takeaway": "Decouples long-term state from foundation models via selective ingestion, structured KG mapping, automated pruning, and cross-model retrieval (MCP); addresses compute costs, attention decay, lock-in vs native windows.",
+      "author_handle": "@ethanwalkerman",
+      "post_url": "https://x.com/ethanwalkerman/status/2118204278628389234"
+    },
+    {
+      "project": "LangChain OpenWiki Graphs for agent memory",
+      "technical_takeaway": "Linked wiki from 111 docs yields ~5x accuracy on cross-source queries vs grep; practical benchmark for structured agent memory in production.",
+      "author_handle": "@christiannonis",
+      "post_url": "https://x.com/christiannonis/status/2118353013106528260"
+    }
+  ],
+  "near_misses": [
+    {
+      "project": "Meta/Google/Microsoft memory rollouts",
+      "technical_takeaway": "Industry-wide new memory capabilities for AI agents signal shift to persistent/external stores.",
+      "author_handle": "@WalrusProtocol",
+      "post_url": "https://x.com/WalrusProtocol/status/2118405729426305287",
+      "reason": "High-level summary without specific technical details or code/repos"
+    }
+  ],
+  "notes": "No activity from the 10 seed experts in the past 24h. Global search surfaced strong signals on agent memory architectures and efficiency techniques."
+}
